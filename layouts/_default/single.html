@@ -12,17 +12,7 @@
 
 <section class="mainContent"> 
   <!-- Case Information Section -->
-  <section class="section1">
-    <h2 class="sectionTitle">Information</h2>
-    <hr class="sectionTitleRule">
-    <hr class="sectionTitleRule2">
-    <div class="section1Content">
-      <p><span>Docket No.:</span> {{ .Params.docket }}</p>
-      <p><span>Citation:</span> {{ .Params.citation }}</p>
-      <p><span>Argued:</span> {{ .Params.argdate }}</p>
-      <p><span>Decided:</span> {{ .PublishDate.Format "January 2, 2006" }}</p>
-    </div>
-  </section>
+{{ partial "caseinfo.html" . }}
 <!-- Case Summary -->
 	<section class="section2">
     <h2 class="sectionTitle">Summary</h2>
@@ -30,37 +20,11 @@
     <hr class="sectionTitleRule2">
 {{ with .Resources.ByType "page" }}
 {{ range . }}
-<article class="section2Content">
-	<h2 class="sectionContentTitle">{{ .Title }}</h2>
-	<h3 class="sectionContentSubTitle"><strong>{{ .Params.Author }}</strong></h3>
-	<p class="sectionContent">{{ .Content }}</p>
-</article>
+{{ partial "opinion.html" . }}
 {{ end }}
 {{ end }}
 </section>
 <!-- Media and Documents Section -->
-	<section class="section1">
-<h2 class="sectionTitle">Media and Documents</h2>
-    <hr class="sectionTitleRule">
-    <hr class="sectionTitleRule2">
-    <div class="section1Content">
-{{ with .Resources.Match "*us*" }}
-{{ range . }}
-<p><span>Official Published Decision:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
-{{ end }}
-{{ end }} 
-{{ with .Resources.Match "*transcript.pdf" }}
-{{ range . }}
-<p><span>Oral Argument Transcript:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
-{{ end }}
-{{ end }} 
-{{ with .Resources.Match "*.mp3" }}
-{{ range . }}
-      <p><span>Oral Argument Audio:</span> <a href="{{ .Permalink }}">{{ .Name }}</a></p>
-{{ end }}
-{{ end }}      
-
-    </div>
-  </section>
+{{ partial "attachments.html" . }}
 </section>
 {{ end }}
