@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://courtdata.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-xmin"
+title = "CourtData.org | U.S. Supreme Court Case Summaries, Oral Argument Audio, Transcripts, and Documents"
+[taxonomies]
+	category = "categories"
+	justice = "justices"
+	court = "courts"
+	term = "terms"
+	tag = "tags"

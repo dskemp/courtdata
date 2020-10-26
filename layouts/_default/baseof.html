@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+{{ $title := site.Title }}
+    {{ if not .IsHome }}
+      {{ $title = printf "%s | %s" .Title site.Title }}
+    {{ end }}
+<title>{{ $title }}</title>    
+</head>
+<body>
+<header>
+{{ partial "logo.html" . }}
+{{ block "header" . }}
+<!-- Header content -->
+{{ end }}
+</header>
+<main>
+{{ block "main" . }}
+<!-- Main content -->
+{{ end }}
+</main>
+<footer>
+  <hr>
+  <p class="footerDisclaimer">&copy; 2020 CourtData.org - <span>All Rights Reserved</span></p>
+  <p class="footerNote"><span>Contact</span></p>
+</footer>
+</body>
+</html>
