@@ -7,6 +7,7 @@ publishdate: "2012-06-11"
 argdate: "February 27, 2012"
 justices:
 - 1991thomas
-- 2006alito"
+- 2006alito
 summary: "The Civil Service Reform Act of 1978 (CSRA) precludes federal district courts from hearing claims arising from the Act, because it grants exclusive jurisdiction to suits rising under the Act to the U.S. Court of Appeals for the Federal Circuit. The Merit Systems Protection Board (MSPB) can hear constitutional arguments for adverse employment actions."
 ---
+#hello
