@@ -2,8 +2,4 @@ baseURL = "https://courtdata.org/"
 languageCode = "en-us"
 title = "CourtData.org | U.S. Supreme Court Case Summaries, Oral Argument Audio, Transcripts, and Documents"
 [taxonomies]
-	category = "categories"
 	justice = "justices"
-	court = "courts"
-	term = "terms"
-	tag = "tags"

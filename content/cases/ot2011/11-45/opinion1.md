@@ -2,7 +2,7 @@
 title: "Opinion of the Court"
 draft: true
 citation: "567 U.S. 1"
-justices:
+authors:
 - 1991thomas
 joinedby:
 - 2005roberts

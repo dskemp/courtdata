@@ -2,7 +2,7 @@
 title: "Dissenting Opinion"
 draft: true
 citation: "567 U.S. 25"
-justices:
+authors:
 - 2006alito
 joinedby:
 - 1993ginsburg

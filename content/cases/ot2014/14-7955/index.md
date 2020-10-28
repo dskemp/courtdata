@@ -2,7 +2,6 @@
 title: "14 7955"
 date: 2020-10-24T09:28:08-07:00
 draft: true
-draft: true
 citation: ""
 docket: ""
 decisionyear: ""
