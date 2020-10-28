@@ -8,13 +8,13 @@
 
 {{ define "main" }}
 	<section class="section2">
-    <h2 class="sectionTitle">Cases Authored by {{ .name }}</h2>
+    <h2 class="sectionTitle">Cases - Justice (pulling from /layouts/_default/justice.html)</h2>
     <hr class="sectionTitleRule">
     <hr class="sectionTitleRule2">
 {{ range .Pages }}
 <article class="section2Content">
-      <h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <h3 class="sectionContentSubTitle">{{ .Params.citation }} ({{ .Params.decisionyear }})</h3>
+      <h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Name }}</a></h2>
+      <h3 class="sectionContentSubTitle">{{ .Page.Params.citation }} ({{ .Params.decisionyear }})</h3>
       <p class="sectionContent"> {{ .Summary }} </p>
 </article>
 {{ end }}

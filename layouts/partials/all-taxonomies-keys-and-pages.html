@@ -1,0 +1,8 @@
+
+<section>
+<ul>
+    {{ range .Site.Taxonomies.justices }}
+            <li><a href="{{ .Page.Permalink }}">{{ .Page.Name }}</a> {{ .Count }}</li>
+    {{ end }}
+</ul>
+</section>

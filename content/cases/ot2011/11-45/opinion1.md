@@ -2,9 +2,9 @@
 title: "Opinion of the Court"
 draft: true
 citation: "567 U.S. 1"
-authors:
-- 1991thomas
 justices:
+- 1991thomas
+joinedby:
 - 2005roberts
 - 1986scalia
 - 1988kennedy

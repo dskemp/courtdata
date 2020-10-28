@@ -1,6 +1,6 @@
 <article class="section2Content">
 	<h2 class="sectionContentTitle">{{ .Title }}</h2>
 	<h3 class="sectionContentSubTitle"><strong>
-	{{ range .Param "authors" }}{{ $name := . }}{{ $path := printf "/%s/%s" "justices" $name }}{{ with $.Site.GetPage $path }}<a href="{{$path}}">{{ .Params.name }}</a>{{ end }}{{ end }}</strong>{{ range .Param "justices" }}{{ $name := . }}{{ $path := printf "/%s/%s" "justices" $name }}{{ with $.Site.GetPage $path }}; <a href="{{$path}}">{{ .Params.name }}</a>{{ end }}{{ end }}</h3>
+	{{ range .Param "justices" }}{{ $name := . }}{{ $path := printf "/%s/%s" "justices" $name }}{{ with $.Site.GetPage $path }}<a href="{{$path}}">{{ .Params.name }}</a>{{ end }}{{ end }}</strong>{{ range .Param "joinedby" }}{{ $name := . }}{{ $path := printf "/%s/%s" "justices" $name }}{{ with $.Site.GetPage $path }}; <a href="{{$path}}">{{ .Params.name }}</a>{{ end }}{{ end }}</h3>
 	<p class="sectionContent">{{ .Content }}</p>
 </article>
