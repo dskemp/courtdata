@@ -1,12 +1,12 @@
 ---
-title: "14 7955"
-date: 2020-10-24T09:28:08-07:00
+title: "Glossip v. Gross"
 draft: true
-citation: ""
-docket: ""
-decisionyear: ""
-publishDate: ""
-argdate: ""
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+citation: "576 U.S. __"
+docket: "14-7955"
+publishdate: "2015-06-29"
+argdate: "April 29, 2015"
+justices:
+- 2006alito
+summary: "Petitioners in this case failed to establish a likelihood of success on the merits of their claim that the use of midazolam violates the Eighth Amendment, as required to succeed on a motion for a preliminary injunction."
 ---
 

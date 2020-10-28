@@ -1,7 +1,6 @@
 ---
 title: "Dissenting Opinion"
 draft: true
-citation: "567 U.S. 25"
 authors:
 - 2006alito
 joinedby:
