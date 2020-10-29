@@ -1,5 +1,4 @@
-{{ with .Resources.Match "links*" }}
-	{{ range . }}
+{{ with .Resources.GetMatch "links*" }}
 	<section class="section1">
 		<h2 class="sectionTitle">Related Links</h2>
 		<hr class="sectionTitleRule">
@@ -8,5 +7,4 @@
 				<p class="sectionContent">{{ .Content }}</p>
 		</div>
 	</section>
-	{{ end }}
 {{ end }}
