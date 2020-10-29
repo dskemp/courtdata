@@ -1,28 +1,27 @@
-	<section class="section1">
-<h2 class="sectionTitle">Media and Documents</h2>
-    <hr class="sectionTitleRule">
-    <hr class="sectionTitleRule2">
-    <div class="section1Content">
-{{ with .Resources.Match "*us*" }}
-{{ range . }}
-<p><span>Reported (Official) Opinion:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
-{{ end }}
-{{ end }} 
-{{ with .Resources.Match "*slip*" }}
-{{ range . }}
-<p><span>Slip (Unofficial) Opinion:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
-{{ end }}
-{{ end }} 
-{{ with .Resources.Match "*transcript.pdf" }}
-{{ range . }}
-<p><span>Oral Argument Transcript:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
-{{ end }}
-{{ end }} 
-{{ with .Resources.Match "*.mp3" }}
-{{ range . }}
-      <p><span>Oral Argument Audio:</span> <a href="{{ .Permalink }}">{{ .Name }}</a></p>
-{{ end }}
-{{ end }}      
-
+<section class="section1">
+	<h2 class="sectionTitle">Media and Documents</h2>
+	<hr class="sectionTitleRule">
+	<hr class="sectionTitleRule2">
+	<div class="section1Content">
+		{{ with .Resources.Match "*us*" }}
+			{{ range . }}
+			<p><span>Reported (Official) Opinion:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+			{{ end }}
+		{{ end }} 
+		{{ with .Resources.Match "*slip*" }}
+			{{ range . }}
+			<p><span>Slip (Unofficial) Opinion:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+			{{ end }}
+		{{ end }} 
+		{{ with .Resources.Match "*transcript.pdf" }}
+			{{ range . }}
+			<p><span>Oral Argument Transcript:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+			{{ end }}
+		{{ end }} 
+			{{ with .Resources.Match "*.mp3" }}
+			{{ range . }}
+				  <p><span>Oral Argument Audio:</span> <a href="{{ .Permalink }}">{{ .Name }}</a></p>
+			{{ end }}
+		{{ end }}      
     </div>
-  </section>
+</section>

@@ -1,30 +1,20 @@
 {{ define "header" }}
-  <section class="profileHeader">
-    <h1>{{ .Title }}</h1>
-    <h3>{{ .Params.citation }} ({{ .PublishDate.Format "2006" }})</h3>
-    <hr>
-    <p>{{ .Summary }}</p>
-  </section>
-
+	{{ partial "caseheader.html" . }}
 {{ end }}
 
 {{ define "main" }}
-
-<section class="mainContent"> 
-  <!-- Case Information Section -->
-{{ partial "caseinfo.html" . }}
-<!-- Case Summary -->
-	<section class="section2">
-    <h2 class="sectionTitle">Summary</h2>
-    <hr class="sectionTitleRule">
-    <hr class="sectionTitleRule2">
-{{ with .Resources.ByType "page" }}
-{{ range . }}
-{{ partial "opinion.html" . }}
-{{ end }}
-{{ end }}
-</section>
-<!-- Media and Documents Section -->
-{{ partial "attachments.html" . }}
-</section>
+	<section class="mainContent"> 
+		{{ partial "caseinfo.html" . }}
+		<section class="section2">
+			<h2 class="sectionTitle">Summary</h2>
+			<hr class="sectionTitleRule">
+			<hr class="sectionTitleRule2">
+			{{ with .Resources.Match "opinion*" }}
+				{{ range . }}
+					{{ partial "opinion.html" . }}
+				{{ end }}
+			{{ end }}
+		</section>
+			{{ partial "attachments.html" . }}	
+	</section>
 {{ end }}
