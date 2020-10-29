@@ -8,13 +8,13 @@
 
 {{ define "main" }}
 	<section class="section2">
-{{ range .Pages }}
-<article class="section2Content">
-	<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    <h3 class="sectionContentSubTitle">{{ .Page.Params.citation }} ({{ .Params.PublishDate.Format "2006" }})</h3>
-    <p class="sectionContent"> {{ .Summary }} </p>
-
-</article>
-{{ end }}
-</section>
+	{{ $name := .Params.alias }}
+	{{ range .Pages }}
+		<article class="section2Content">
+			<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+			<h3 class="sectionContentSubTitle">{{ .Page.Params.citation }} ({{ .Params.PublishDate.Format "2006" }}){{ range where .Resources "Params.author" $name }} ({{ .Params.Type }}){{ end }}</h3>
+			<p>{{ .Summary }}
+		</article>
+	{{ end }}
+	</section>
 {{ end }}
