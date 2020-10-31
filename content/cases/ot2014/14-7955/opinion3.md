@@ -1,6 +1,6 @@
 ---
 title: "Concurring Opinion"
-type: concurrence
+opiniontype: concurrence
 draft: true
 author: 1991thomas
 joinedby: ["1986scalia"]

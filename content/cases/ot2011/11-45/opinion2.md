@@ -1,6 +1,6 @@
 ---
 title: "Dissenting Opinion"
-type: dissent
+opiniontype: dissenting opinion
 draft: true
 author: 2006alito
 joinedby: ["1993ginsburg", "2010kagan"]

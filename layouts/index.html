@@ -1,5 +1,19 @@
-{{ define "main" }}
+{{ define "header" }}
+  {{ partial "homepage.html" . }}
+{{ end }}
 
-{{ .Content }}
+{{ define "main" }}
+	<section class="section2">
+    <h2 class="sectionTitle">Browse by Term</h2>
+    <hr class="sectionTitleRule">
+    <hr class="sectionTitleRule2">
+    <div class="section2Content">
+    	{{ range .Site.RegularPages }}
+    		{{ with .Parent }}
+    			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    		{{ end }}
+    	{{ end }}
+    </div>
+    </section>
 
 {{ end }}

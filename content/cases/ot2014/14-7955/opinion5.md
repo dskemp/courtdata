@@ -1,6 +1,6 @@
 ---
 title: "Dissenting Opinion"
-type: dissent
+opiniontype: dissent
 draft: true
 author: 2009sotomayor
 joinedby: ["1993ginsburg", "1994breyer", "2010kagan"]

@@ -1,0 +1,3 @@
+<p><span>Advocates:</span>
+<ul style="list-style-type: none;">{{ with .Params.advocates }}{{ range . }}<li style="line-height:1.8"><a href="/advocates/{{ . | urlize }}">{{ . }}</a></li>{{ end }}</ul>{{ end }}
+</p>

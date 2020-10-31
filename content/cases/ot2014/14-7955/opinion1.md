@@ -1,6 +1,6 @@
 ---
 title: "Opinion of the Court"
-type: majority opinion
+opiniontype: majority opinion
 draft: true
 citation: "567 U.S. 1"
 author: 2006alito

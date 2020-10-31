@@ -1,6 +1,6 @@
 ---
 title: "Opinion of the Court"
-type: majority opinion
+opiniontype: majority opinion
 draft: true
 author: 1991thomas
 joinedby: ["2005roberts", "1986scalia", "1988kennedy"]

@@ -1,6 +1,6 @@
 ---
 title: "Dissenting Opinion"
-type: dissent
+opiniontype: dissent
 draft: true
 author: 1994breyer
 joinedby: ["1993ginsburg"]

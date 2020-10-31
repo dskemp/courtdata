@@ -3,8 +3,16 @@
 {{ end }}
 
 {{ define "main" }}
-	<section class="mainContent"> 
-		{{ partial "caseinfo.html" . }}
+	<section class="mainContent">
+		<section class="section1">
+		<h2 class="sectionTitle">Information</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		<div class="section1Content">
+			{{ partial "caseinfo.html" . }}
+			{{ partial "advocates.html" . }}
+		</div>
+	</section>
 		<section class="section2">
 			<h2 class="sectionTitle">Summary</h2>
 			<hr class="sectionTitleRule">
@@ -16,6 +24,7 @@
 			{{ end }}
 		</section>
 			{{ partial "attachments.html" . }}
+			{{ partial "related.html" . }}
 			{{ partial "links.html" . }}
 	</section>
 {{ end }}
