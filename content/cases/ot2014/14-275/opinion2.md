@@ -1,7 +1,6 @@
 ---
 title: "Concurring Opinion"
 opiniontype: concurrence
-draft: true
 author: 1991thomas
 weight: 2
 ---

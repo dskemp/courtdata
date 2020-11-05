@@ -1,5 +1,6 @@
 ---
 name: "John Doe"
+position: "Associate Justice"
 title: "Opinions by Justice John Doe"
 alias: 2020doe
 ---

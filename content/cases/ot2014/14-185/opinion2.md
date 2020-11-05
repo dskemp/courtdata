@@ -1,7 +1,6 @@
 ---
 title: "Dissenting Opinion"
 opiniontype: dissent
-draft: true
 author: 1991thomas
 weight: 2
 ---

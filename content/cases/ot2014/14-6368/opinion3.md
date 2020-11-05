@@ -1,7 +1,6 @@
 ---
 title: "Dissenting Opinion"
 opiniontype: dissent
-draft: true
 weight: 3
 author: 2006alito
 ---

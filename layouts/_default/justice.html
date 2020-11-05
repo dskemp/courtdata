@@ -14,7 +14,7 @@
     <hr class="sectionTitleRule">
     <hr class="sectionTitleRule2">
 	{{ $name := .Params.alias }}
-	{{ range .Pages }}
+	{{ range .Pages.ByPublishDate.Reverse }}
 		<article class="section2Content">
 			<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 			<h3 class="sectionContentSubTitle">{{ .Page.Params.citation }} ({{ .Params.PublishDate.Format "2006" }}){{ range where .Resources "Params.author" $name }} ({{ .Params.OpinionType }}){{ end }}</h3>

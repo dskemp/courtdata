@@ -1,7 +1,6 @@
 ---
 title: "Opinion Concurring in Part and Concurring in the Judgment"
 opiniontype: concurrence
-draft: true
 author: 2009sotomayor
 weight: 2
 ---

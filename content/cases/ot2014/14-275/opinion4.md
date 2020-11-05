@@ -1,7 +1,6 @@
 ---
 title: "Dissenting Opinion"
 opiniontype: dissent
-draft: true
 author: 2009sotomayor
 weight: 4
 ---

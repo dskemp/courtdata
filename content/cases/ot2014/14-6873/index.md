@@ -1,6 +1,5 @@
 ---
 title: "Christeson v. Roper"
-draft: true
 citation: "576 U.S. ___"
 docket: "14-6873"
 publishdate: "2015-01-20"

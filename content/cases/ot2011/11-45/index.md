@@ -1,6 +1,5 @@
 ---
 title: "Elgin v. Department of the Treasury"
-draft: true
 citation: "567 U.S. 1"
 docket: "11-45"
 publishdate: "2012-06-11"

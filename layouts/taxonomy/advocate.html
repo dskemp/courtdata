@@ -1,0 +1,23 @@
+{{ define "header" }}
+  <section class="profileHeader">
+    <h1>{{ .Title }}</h1>
+    <hr>
+    <p>{{ .Content }}</p>
+  </section>
+
+{{ end }}
+
+{{ define "main" }}
+	<section class="section2">
+		<h2 class="sectionTitle">Cases Argued by {{ .Title }}</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+			{{ range .Data.Pages.ByPublishDate.Reverse }}
+				<article class="section2Content">
+					<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+					<h3 class="sectionContentSubTitle">{{ .Params.citation }} ({{ .Params.PublishDate.Format "2006" }})</h3>
+					<p class="sectionContent"> {{ .Summary }} </p>
+				</article>
+			{{ end }}
+</ul>	</section>
+{{ end }}

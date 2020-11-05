@@ -1,7 +1,6 @@
 ---
 title: "Opinion Concurring in Part and Dissenting in Part"
 opiniontype: concurrence/dissent
-draft: true
 author: 1991thomas
 weight: 3
 ---

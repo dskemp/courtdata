@@ -1,6 +1,5 @@
 ---
 name: links
-draft: true
 ---
 [Must Texas Issue Confederate Flag License Plates?](https://verdict.justia.com/2014/12/17/must-texas-issue-confederate-flag-license-plates), by Michael C. Dorf, Justia Verdict
 

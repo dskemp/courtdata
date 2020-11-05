@@ -4,16 +4,14 @@
 
 {{ define "main" }}
 	<section class="section2">
-    <h2 class="sectionTitle">Browse by Term</h2>
-    <hr class="sectionTitleRule">
-    <hr class="sectionTitleRule2">
-    <div class="section2Content">
-    	{{ range .Site.RegularPages }}
-    		{{ with .Parent }}
+		<h2 class="sectionTitle">Browse Cases by Term</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		<div class="section2Content">
+			{{ $t := .Site.GetPage "/cases" }}
+			{{ range first 20 $t.Pages }}
     			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
     		{{ end }}
-    	{{ end }}
-    </div>
+	    </div>
     </section>
-
 {{ end }}

@@ -1,7 +1,6 @@
 ---
 title: "Dissenting Opinion"
 opiniontype: dissenting opinion
-draft: true
 author: 2006alito
 joinedby: ["1993ginsburg", "2010kagan"]
 weight: 2

@@ -1,7 +1,6 @@
 ---
 title: "Opinion Concurring in the Judgment"
 opiniontype: concurrence
-draft: true
 author: 2006alito
 weight: 2
 ---
