@@ -15,7 +15,7 @@
 		<hr class="sectionTitleRule2">
 		{{ range .Data.Terms.Alphabetical }}
 			<article class="section2Content">
-				<h2 class="sectionContentTitleCase"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
+				<h2 class="sectionContentTitle"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
 				<p class="sectionContent">{{ .Page.Content | truncate 300 }}</p>			</article>
 		{{ end }}
 	</section>
