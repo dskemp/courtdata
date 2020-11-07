@@ -1,7 +1,6 @@
 ---
 title: "Dissenting Opinion"
 opiniontype: dissenting opinion
-citation: "567 U.S. 1"
 author: 1991thomas
 joinedby:
 - 1993ginsburg

@@ -3,7 +3,7 @@ title: "Obergefell v. Hodges"
 citation: "576 U.S. ___"
 docket: "14-556"
 publishdate: "2015-06-26"
-argdate: "April 28, 2015"
+argdate: "2015-04-28"
 justices:
 - 1988kennedy
 - 2005roberts

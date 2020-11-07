@@ -3,7 +3,7 @@ title: "Walker v. Texas Div., Sons of Confederate Veterans, Inc."
 citation: "576 U.S. ___"
 docket: "14-144"
 publishdate: "2015-06-18"
-argdate: "March 23, 2015"
+argdate: "2015-03-23"
 justices:
 - 1994breyer
 advocates:

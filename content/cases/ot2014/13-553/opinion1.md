@@ -1,7 +1,6 @@
 ---
 title: "Opinion of the Court"
 opiniontype: majority opinion
-citation: "567 U.S. 1"
 author: 1986scalia
 joinedby:
 - 2005roberts

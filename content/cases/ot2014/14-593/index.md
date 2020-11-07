@@ -3,7 +3,7 @@ title: "Grady v. North Carolina"
 citation: "576 U.S. ___"
 docket: "14-593"
 publishdate: "2015-03-30"
-argdate: "not argued"
+argdate: ""
 tags:
 - Fourth Amendment
 - search and seizure

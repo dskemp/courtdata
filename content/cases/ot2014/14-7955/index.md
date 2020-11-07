@@ -3,7 +3,7 @@ title: "Glossip v. Gross"
 citation: "576 U.S. ___"
 docket: "14-7955"
 publishdate: "2015-06-29"
-argdate: "April 29, 2015"
+argdate: "2015-04-29"
 justices:
 - 2006alito
 - 1991thomas

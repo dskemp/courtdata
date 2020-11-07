@@ -3,7 +3,7 @@ title: "Michigan v. EPA"
 citation: "576 U.S. ___"
 docket: "14-46"
 publishdate: "2015-06-29"
-argdate: "March 25, 2015"
+argdate: "2015-03-25"
 justices:
 - 1986scalia
 - 1991thomas

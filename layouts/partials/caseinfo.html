@@ -1,4 +1,11 @@
 <p><span>Docket No.:</span> {{ .Params.docket }}</p>
 <p><span>Citation:</span> {{ .Params.citation }}</p>
-<p><span>Argued:</span> {{ .Params.argDate }}</p>
+<p><span>Argued:</span> 
+	{{ if ne .Params.argdate "" }}
+		{{ $arg := dateFormat "January 2, 2006" .Params.argDate }}
+		{{ printf $arg }}
+	{{ else }}
+		{{ printf "not argued"}}
+	{{ end }}
+	</p>
 <p><span>Decided:</span> {{ .PublishDate.Format "January 2, 2006" }}</p>

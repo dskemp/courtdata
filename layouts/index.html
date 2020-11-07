@@ -14,4 +14,27 @@
     		{{ end }}
 	    </div>
     </section>
+    <section class="section2">
+		<h2 class="sectionTitle">Browse Advocates</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		<div class="section2Content">
+			{{ $t := .Site.GetPage "/advocates" }}
+			{{ range first 20 $t.Pages }}
+    			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    		{{ end }}
+	    </div>
+    </section>
+    <section class="section2">
+		<h2 class="sectionTitle">Browse Justices</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		<div class="section2Content">
+			{{ $t := .Site.GetPage "/justices" }}
+			{{ range first 20 $t.Pages }}
+    			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
+    		{{ end }}
+	    </div>
+    </section>
+
 {{ end }}

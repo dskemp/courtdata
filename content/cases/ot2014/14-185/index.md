@@ -3,7 +3,7 @@ title: "Reyes Mata v. Lynch"
 citation: "576 U.S. ___"
 docket: "14-185"
 publishdate: "2015-06-15"
-argdate: "April 29, 2015"
+argdate: "2015-04-29"
 justices:
 - 2010kagan
 - 1991thomas

@@ -1,0 +1,24 @@
+---
+title: "Heien v. North Carolina"
+citation: "574 U.S. 54"
+docket: "13-604"
+argdate: "2014-10-06"
+publishdate: "2014-12-15"
+justices:
+- 2005roberts
+- 2010kagan
+- 2009sotomayor
+advocates:
+- Jeffrey L. Fisher
+- Robert C. Montgomery
+- Rachel P. Kovner
+tags:
+- Fourth Amendment
+- reasonable suspicion
+- traffic stop
+topics:
+- law enforcement
+- criminal procedure
+summary: "Because it was objectively reasonable for an officer in Sergeant Darisse’s position to think that North Carolina law required vehicles to have two functioning brake lights instead of one, Darisse’s stop of Heien’s vehicle was lawful under the Fourth Amendment."
+---
+

@@ -3,7 +3,7 @@ title: "Carroll v. Carman"
 citation: "574 U.S. 13"
 docket: "14-212"
 publishdate: "2014-11-10"
-argdate: "not argued"
+argdate: ""
 tags:
 - qualified immunity
 - Fourth Amendment
