@@ -12,7 +12,7 @@ justices:
 - 2006alito
 advocates:
 - Mary L. Bonauto
-- Donald B. Verrilli, Jr.
+- Donald B. Verrilli, Jr
 - John J. Bursch
 - Douglas Hallward-Driemeier
 - Joseph F. Whalen

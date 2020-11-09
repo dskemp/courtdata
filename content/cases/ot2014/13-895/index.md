@@ -11,7 +11,7 @@ justices:
 advocates:
 - Richard Pildes
 - Eric Schnapper
-- Donald B. Verrilli, Jr.
+- Donald B. Verrilli, Jr
 - Andrew L. Brasher
 tags:
 - racial gerrymandering

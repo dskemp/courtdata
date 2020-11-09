@@ -10,7 +10,7 @@ justices:
 - 1991thomas
 advocates:
 - Curtis E. Gannon
-- Thomas H. Dupree, Jr.
+- Thomas H. Dupree, Jr
 tags:
 - Amtrak
 - Federal Railroad Administration

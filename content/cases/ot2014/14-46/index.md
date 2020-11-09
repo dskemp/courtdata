@@ -11,7 +11,7 @@ justices:
 advocates:
 - Aaron D. Lindstrom
 - F. William Brownell
-- Donald B. Verrilli, Jr.
+- Donald B. Verrilli, Jr
 - Paul M. Smith
 tags:
 - Clean Air Act

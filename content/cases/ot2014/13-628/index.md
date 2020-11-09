@@ -12,7 +12,7 @@ justices:
 - 1986scalia
 advocates:
 - Alyza D. Lewin
-- Donald B. Verrilli, Jr.
+- Donald B. Verrilli, Jr
 tags:
 - Foreign Relations Authorization Act
 topics:

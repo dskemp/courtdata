@@ -11,7 +11,7 @@ justices:
 - 1988kennedy
 advocates:
 - Samuel R. Bagenstos
-- Donald B. Verrilli, Jr.
+- Donald B. Verrilli, Jr
 - Caitlin J. Halligan
 tags:
 - Pregnancy Discrimination Act
