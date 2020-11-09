@@ -18,4 +18,5 @@ topics:
 - injury law
 summary: "Because the Federal Tort Claims Act’s filing deadlines—two years to present an administrative claim and six months to file suit challenging the denial of such claim, 28 U.S.C. § 2401(b)—are nonjurisdictional, they are subject to equitable tolling."
 ---
+Because the Federal Tort Claims Act’s filing deadlines—two years to present an administrative claim and six months to file suit challenging the denial of such claim, 28 U.S.C. § 2401(b)—are nonjurisdictional, they are subject to equitable tolling.
 

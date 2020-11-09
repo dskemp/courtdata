@@ -9,4 +9,5 @@ tags:
 - search and seizure
 summary: "The North Carolina Court of Appeals erred in concluding that the State’s satellite-based monitoring of petitioner for repeated sex offenses was not a Fourth Amendment search, but the state courts should determine in the first instance the reasonableness of such a search."
 ---
+The North Carolina Court of Appeals erred in concluding that the State’s satellite-based monitoring of petitioner for repeated sex offenses was not a Fourth Amendment search, but the state courts should determine in the first instance the reasonableness of such a search.
 

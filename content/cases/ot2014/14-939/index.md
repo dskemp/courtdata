@@ -11,4 +11,5 @@ tags:
 - Eighth Amendment
 summary: "Petitioner state corrections officials are entitled to qualified immunity in this 42 U.S.C. § 1983 suit, in which respondents allege that petitioners violated their incarcerated relative’s civil rights by failing to prevent his suicide."
 ---
+Petitioner state corrections officials are entitled to qualified immunity in this 42 U.S.C. § 1983 suit, in which respondents allege that petitioners violated their incarcerated relative’s civil rights by failing to prevent his suicide.
 

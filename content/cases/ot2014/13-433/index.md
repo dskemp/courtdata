@@ -17,4 +17,5 @@ topics:
 - employment law
 summary: "Because the postshift security screenings required by petitioner are postliminary activities under the Portal-to-Portal Act, the time that respondents spent waiting to undergo and undergoing those screenings is noncompensable under the Fair Labor Standards Act of 1938."
 ---
+Because the postshift security screenings required by petitioner are postliminary activities under the Portal-to-Portal Act, the time that respondents spent waiting to undergo and undergoing those screenings is noncompensable under the Fair Labor Standards Act of 1938.
 

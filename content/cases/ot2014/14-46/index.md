@@ -1,5 +1,5 @@
 ---
-title: "Michigan v. EPA"
+title: "Michigan v. Environmental Protection Agency"
 citation: "576 U.S. ___"
 docket: "14-46"
 publishdate: "2015-06-29"
@@ -11,7 +11,7 @@ justices:
 advocates:
 - Aaron D. Lindstrom
 - F. William Brownell
-- Donald B. Verrilli
+- Donald B. Verrilli, Jr.
 - Paul M. Smith
 tags:
 - Clean Air Act
@@ -19,4 +19,5 @@ tags:
 - environmental law
 summary: "The Environmental Protection Agency (EPA) interpreted 42 U.S.C. § 7412(n)(1)(A) unreasonably when it deemed cost irrelevant to the decision to regulate emissions of hazardous air pollutants from power plants."
 ---
+The Environmental Protection Agency (EPA) interpreted 42 U.S.C. § 7412(n)(1)(A) unreasonably when it deemed cost irrelevant to the decision to regulate emissions of hazardous air pollutants from power plants.
 

@@ -15,4 +15,5 @@ tags:
 - mens rea
 summary: "In prosecuting a violation of the Controlled Substance Analogue Enforcement Act of 1986, the Government must establish that the defendant knew he was dealing with a substance regulated under the Controlled Substances Act or Analogue Act."
 ---
+In prosecuting a violation of the Controlled Substance Analogue Enforcement Act of 1986, the Government must establish that the defendant knew he was dealing with a substance regulated under the Controlled Substances Act or Analogue Act.
 

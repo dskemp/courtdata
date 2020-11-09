@@ -20,4 +20,5 @@ topics:
 - employment law
 summary: "Courts have authority to review whether the Equal Employment Opportunity Commission has fulfilled its duty to attempt conciliation of claims before suing an employer for employment discrimination under Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e–5(b), but this review is narrow, enforcing only the EEOC’s statutory obligation to give the employer notice and an opportunity to achieve voluntary compliance."
 ---
+Courts have authority to review whether the Equal Employment Opportunity Commission has fulfilled its duty to attempt conciliation of claims before suing an employer for employment discrimination under Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e–5(b), but this review is narrow, enforcing only the EEOC’s statutory obligation to give the employer notice and an opportunity to achieve voluntary compliance.
 

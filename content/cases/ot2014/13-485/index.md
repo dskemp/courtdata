@@ -20,4 +20,5 @@ topics:
 - tax law
 summary: "Maryland’s personal income tax scheme, which does not offer Maryland residents a full credit against the income taxes that they pay to other States, violates the dormant Commerce Clause."
 ---
+Maryland’s personal income tax scheme, which does not offer Maryland residents a full credit against the income taxes that they pay to other States, violates the dormant Commerce Clause.
 

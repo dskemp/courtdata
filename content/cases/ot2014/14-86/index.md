@@ -17,4 +17,5 @@ tags:
 - Civil Rights Act of 1964
 summary: "To prevail in a disparate-treatment claim under Title VII of the Civil Rights Act of 1964, an applicant need show only that his need for an accommodation of a religious practice was a motivating factor in an employment decision, not that the employer had knowledge of his need."
 ---
+To prevail in a disparate-treatment claim under Title VII of the Civil Rights Act of 1964, an applicant need show only that his need for an accommodation of a religious practice was a motivating factor in an employment decision, not that the employer had knowledge of his need.
 

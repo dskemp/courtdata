@@ -17,4 +17,5 @@ topics:
 - consumer protection law
 summary: "In order to exercise his right to rescind a loan under the Truth in Lending Act, a borrower need only provide written notice to his lender within three years after the transaction is consummated, not file suit within that period."
 ---
+In order to exercise his right to rescind a loan under the Truth in Lending Act, a borrower need only provide written notice to his lender within three years after the transaction is consummated, not file suit within that period.
 

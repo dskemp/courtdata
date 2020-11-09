@@ -17,4 +17,5 @@ topics:
 - tax law
 summary: "The Tax Injunction Act—which provides that federal district courts “shall not enjoin, suspend or restrain the assessment, levy or collection of any tax under State law,” 28 U.S.C. § 1341—does not bar petitioner’s suit to enjoin enforcement of a Colorado law that imposes notice and reporting requirements on retailers that do not collect a sales or use tax on state residents’ purchases."
 ---
+The Tax Injunction Act—which provides that federal district courts “shall not enjoin, suspend or restrain the assessment, levy or collection of any tax under State law,” 28 U.S.C. § 1341—does not bar petitioner’s suit to enjoin enforcement of a Colorado law that imposes notice and reporting requirements on retailers that do not collect a sales or use tax on state residents’ purchases.
 

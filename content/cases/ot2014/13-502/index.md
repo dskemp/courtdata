@@ -21,4 +21,5 @@ topics:
 - content-based regulations of speech
 summary: "The Town of Gilbert’s Sign Code contains content-based regulations of speech that do not survive strict scrutiny."
 ---
+The Town of Gilbert’s Sign Code contains content-based regulations of speech that do not survive strict scrutiny.
 

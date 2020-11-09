@@ -11,7 +11,7 @@ justices:
 advocates:
 - Richard Pildes
 - Eric Schnapper
-- Donald B. Verrilli
+- Donald B. Verrilli, Jr.
 - Andrew L. Brasher
 tags:
 - racial gerrymandering
@@ -21,4 +21,5 @@ topics:
 - congressional redistricting
 summary: "The District Court applied incorrect legal standards in evaluating appellants’ claims that Alabama’s new district boundaries create “racial gerrymanders” in violation of the Fourteenth Amendment’s Equal Protection Clause."
 ---
+The District Court applied incorrect legal standards in evaluating appellants’ claims that Alabama’s new district boundaries create “racial gerrymanders” in violation of the Fourteenth Amendment’s Equal Protection Clause.
 

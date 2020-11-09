@@ -22,4 +22,5 @@ topics:
 - federal pre-emption of state law
 summary: "The Natural Gas Act, which occupies “the field of matters relating to wholesale sales and transportation of natural gas in interstate commerce,” Schneidewind v. ANR Pipeline Co., 485 U.S. 293, 305, but leaves retail prices to state regulation, does not pre-empt respondents’ state-law antitrust claims against interstate gas pipelines for engaging in behavior that not only resulted in higher retail costs for respondents but also affected federally regulated wholesale prices."
 ---
+The Natural Gas Act, which occupies “the field of matters relating to wholesale sales and transportation of natural gas in interstate commerce,” Schneidewind v. ANR Pipeline Co., 485 U.S. 293, 305, but leaves retail prices to state regulation, does not pre-empt respondents’ state-law antitrust claims against interstate gas pipelines for engaging in behavior that not only resulted in higher retail costs for respondents but also affected federally regulated wholesale prices.
 

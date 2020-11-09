@@ -17,4 +17,5 @@ topics:
 - ERISA
 summary: "The Ninth Circuit erred by applying the Employee Retirement Income Security Act of 1974’s 6-year statutory bar, 29 U.S.C. § 1113, to a breach of fiduciary duty claim based solely on the fiduciary’s initial selection of investments to be included in a 401(k) savings plan without considering the contours of the alleged breach of fiduciary duty."
 ---
+The Ninth Circuit erred by applying the Employee Retirement Income Security Act of 1974’s 6-year statutory bar, 29 U.S.C. § 1113, to a breach of fiduciary duty claim based solely on the fiduciary’s initial selection of investments to be included in a 401(k) savings plan without considering the contours of the alleged breach of fiduciary duty.
 

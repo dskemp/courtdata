@@ -18,4 +18,5 @@ topics:
 - antitrust law
 summary: "Because a controlling number of the North Carolina State Board of Dental Examiners’ decisionmakers are active market participants in the occupation the Board regulates, the Board can invoke state-action antitrust immunity only if it was subject to active supervision by the State, and here that requirement is not met."
 ---
+Because a controlling number of the North Carolina State Board of Dental Examiners’ decisionmakers are active market participants in the occupation the Board regulates, the Board can invoke state-action antitrust immunity only if it was subject to active supervision by the State, and here that requirement is not met.
 

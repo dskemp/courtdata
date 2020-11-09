@@ -17,4 +17,5 @@ tags:
 - Fifth Amendment
 summary: "The Raisin Administrative Committee’s requirement that growers set aside a certain percentage of their crop for the account of the Government, free of charge, is a physical taking under the Fifth Amendment, entitling the Hornes to just compensation."
 ---
+The Raisin Administrative Committee’s requirement that growers set aside a certain percentage of their crop for the account of the Government, free of charge, is a physical taking under the Fifth Amendment, entitling the Hornes to just compensation.
 

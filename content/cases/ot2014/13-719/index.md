@@ -17,4 +17,5 @@ topics:
 - civil procedure
 summary: "As specified in 28 U.S.C. § 1446(a), a defendant’s notice of removal need include only a plausible allegation that the amount in controversy exceeds the jurisdictional threshold; the District Court erred in remanding this case to state court for want of an evidentiary submission in the notice of removal, and the Tenth Circuit abused its discretion in denying review of that decision."
 ---
+As specified in 28 U.S.C. § 1446(a), a defendant’s notice of removal need include only a plausible allegation that the amount in controversy exceeds the jurisdictional threshold; the District Court erred in remanding this case to state court for want of an evidentiary submission in the notice of removal, and the Tenth Circuit abused its discretion in denying review of that decision.
 

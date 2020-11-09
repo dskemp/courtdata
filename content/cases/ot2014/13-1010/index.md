@@ -17,4 +17,5 @@ topics:
 - ERISA
 summary: "The Sixth Circuit’s conclusion that a collective-bargaining agreement created a vested right to lifetime contribution-free health care benefits rested on principles that are incompatible with ordinary principles of contract law."
 ---
+The Sixth Circuit’s conclusion that a collective-bargaining agreement created a vested right to lifetime contribution-free health care benefits rested on principles that are incompatible with ordinary principles of contract law.
 

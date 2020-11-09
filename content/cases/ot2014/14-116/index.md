@@ -16,4 +16,5 @@ tags:
 - final order
 summary: "A bankruptcy court’s order denying confirmation of a debtor’s proposed repayment plan in a Chapter 13 bankruptcy is not a final order that the debtor can immediately appeal."
 ---
+A bankruptcy court’s order denying confirmation of a debtor’s proposed repayment plan in a Chapter 13 bankruptcy is not a final order that the debtor can immediately appeal.
 

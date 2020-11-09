@@ -18,4 +18,5 @@ topics:
 - criminal law
 summary: "At petitioner’s trial on charges that he communicated a “threat . . . to injure the person of another” in interstate commerce by posting violent material about his estranged wife and others on Facebook, see 18 U.S.C. § 875(c), an instruction that only required the jury to find negligence with respect to the communication of a threat was not sufficient to support conviction."
 ---
+At petitioner’s trial on charges that he communicated a “threat . . . to injure the person of another” in interstate commerce by posting violent material about his estranged wife and others on Facebook, see 18 U.S.C. § 875(c), an instruction that only required the jury to find negligence with respect to the communication of a threat was not sufficient to support conviction.
 

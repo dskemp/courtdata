@@ -19,4 +19,5 @@ topics:
 - intellectual property law
 summary: "A defendant’s belief regarding patent validity is not a defense to a claim of induced infringement under 35 U.S.C. § 271."
 ---
+A defendant’s belief regarding patent validity is not a defense to a claim of induced infringement under 35 U.S.C. § 271.
 

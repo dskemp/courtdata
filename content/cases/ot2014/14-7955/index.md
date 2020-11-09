@@ -17,4 +17,5 @@ tags:
 - Eighth Amendment
 summary: "Petitioners in this case failed to establish a likelihood of success on the merits of their claim that the use of midazolam violates the Eighth Amendment, as required to succeed on a motion for a preliminary injunction."
 ---
+Petitioners in this case failed to establish a likelihood of success on the merits of their claim that the use of midazolam violates the Eighth Amendment, as required to succeed on a motion for a preliminary injunction.
 

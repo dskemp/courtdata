@@ -21,4 +21,5 @@ topics:
 - bankruptcy law
 summary: "Article III permits bankruptcy judges to adjudicate Stern claims—i.e., claims designated for final adjudication in the bankruptcy court by statute but prohibited from proceeding in that way by Article III, see Stern v. Marshall, 564 U.S. 462—with the parties’ knowing and voluntary consent, which may be either express or implied."
 ---
+Article III permits bankruptcy judges to adjudicate Stern claims—i.e., claims designated for final adjudication in the bankruptcy court by statute but prohibited from proceeding in that way by Article III, see Stern v. Marshall, 564 U.S. 462—with the parties’ knowing and voluntary consent, which may be either express or implied.
 

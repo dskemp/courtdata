@@ -20,7 +20,7 @@
 		<hr class="sectionTitleRule2">
 		<div class="section2Content">
 			{{ $t := .Site.GetPage "/advocates" }}
-			{{ range first 20 $t.Pages }}
+			{{ range first 100 $t.Pages }}
     			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
     		{{ end }}
 	    </div>

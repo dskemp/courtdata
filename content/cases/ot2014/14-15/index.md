@@ -17,4 +17,5 @@ tags:
 - Medicaid
 summary: "The Supremacy Clause does not confer a private right of action; and Medicaid providers cannot sue for an injunction requiring compliance with 42 U.S.C. § 1396a(a)(30)(A), which provides that a State’s Medicaid plan must “assure that payments are consistent with efficiency, economy, and quality of care” while “safeguard[ing] against unnecessary utilization of . . . care and services.”"
 ---
+The Supremacy Clause does not confer a private right of action; and Medicaid providers cannot sue for an injunction requiring compliance with 42 U.S.C. § 1396a(a)(30)(A), which provides that a State’s Medicaid plan must “assure that payments are consistent with efficiency, economy, and quality of care” while “safeguard[ing] against unnecessary utilization of . . . care and services.”
 

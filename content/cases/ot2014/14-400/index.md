@@ -15,4 +15,5 @@ tags:
 - Chapter 7 bankruptcy
 summary: "A debtor who converts a bankruptcy case from Chapter 13 to Chapter 7 is entitled to return of any postpetition wages not yet distributed by the Chapter 13 trustee."
 ---
+A debtor who converts a bankruptcy case from Chapter 13 to Chapter 7 is entitled to return of any postpetition wages not yet distributed by the Chapter 13 trustee.
 

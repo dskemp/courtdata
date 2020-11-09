@@ -21,4 +21,5 @@ topics:
 - criminal procedure
 summary: "Because it was objectively reasonable for an officer in Sergeant Darisse’s position to think that North Carolina law required vehicles to have two functioning brake lights instead of one, Darisse’s stop of Heien’s vehicle was lawful under the Fourth Amendment."
 ---
+Because it was objectively reasonable for an officer in Sergeant Darisse’s position to think that North Carolina law required vehicles to have two functioning brake lights instead of one, Darisse’s stop of Heien’s vehicle was lawful under the Fourth Amendment.
 

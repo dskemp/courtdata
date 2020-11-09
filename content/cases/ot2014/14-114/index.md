@@ -9,9 +9,10 @@ justices:
 - 1986scalia
 advocates:
 - Michael A. Carvin
-- Donald B. Verrilli
+- Donald B. Verrilli, Jr.
 tags:
 - Patient Protection and Affordable Care Act
 summary: "The Patient Protection and Affordable Care Act’s tax credits are available to individuals in States that have a Federal Exchange."
 ---
+The Patient Protection and Affordable Care Act’s tax credits are available to individuals in States that have a Federal Exchange.
 

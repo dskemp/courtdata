@@ -16,4 +16,5 @@ tags:
 - removal
 summary: "The Fifth Circuit erred in declining to take jurisdiction to review the Board of Immigration Appeals’ decision denying Mata’s request for equitable tolling of the time limit for filing a motion to reopen Mata’s deportation case."
 ---
+The Fifth Circuit erred in declining to take jurisdiction to review the Board of Immigration Appeals’ decision denying Mata’s request for equitable tolling of the time limit for filing a motion to reopen Mata’s deportation case.
 

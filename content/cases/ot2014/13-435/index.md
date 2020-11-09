@@ -18,4 +18,5 @@ topics:
 - securities law
 summary: "In evaluating respondents’ claim under § 11 of the Securities Act of 1933, the Sixth Circuit erred in holding that Omnicare’s securities registration statement “contained an untrue statement of material fact,” 15 U.S.C. § 77k(a), simply because it expressed opinions that ultimately proved incorrect; but the court on remand should consider whether respondents have stated a viable claim that Omnicare’s opinions “omitted to state a material fact . . . necessary to make [them] not misleading.”"
 ---
+In evaluating respondents’ claim under § 11 of the Securities Act of 1933, the Sixth Circuit erred in holding that Omnicare’s securities registration statement “contained an untrue statement of material fact,” 15 U.S.C. § 77k(a), simply because it expressed opinions that ultimately proved incorrect; but the court on remand should consider whether respondents have stated a viable claim that Omnicare’s opinions “omitted to state a material fact . . . necessary to make [them] not misleading.”
 

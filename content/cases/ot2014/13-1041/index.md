@@ -20,4 +20,5 @@ topics:
 - labor law
 summary: "The D.C. Circuit’s holding in Paralyzed Veterans of America v. D.C. Arena L.P., 117 F.3d 579, is contrary to the Administrative Procedure Act’s categorical exemption of interpretive rules from the notice-and-comment process, and it imposes on federal agencies an obligation beyond the Act’s maximum procedural requirements."
 ---
+The D.C. Circuit’s holding in Paralyzed Veterans of America v. D.C. Arena L.P., 117 F.3d 579, is contrary to the Administrative Procedure Act’s categorical exemption of interpretive rules from the notice-and-comment process, and it imposes on federal agencies an obligation beyond the Act’s maximum procedural requirements.
 

@@ -18,4 +18,5 @@ topics:
 - intellectual property law
 summary: "When reviewing a district court’s resolution of subsidiary factual matters made in the course of its construction of a patent claim, the Federal Circuit must apply a “clear error,” not a de novo, standard of review."
 ---
+When reviewing a district court’s resolution of subsidiary factual matters made in the course of its construction of a patent claim, the Federal Circuit must apply a “clear error,” not a de novo, standard of review.
 
