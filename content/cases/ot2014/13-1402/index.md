@@ -1,16 +1,20 @@
 ---
-title: ""
-citation: ""
+title: "Kerry v. Din"
+citation: "576 U.S. ___"
 docket: "13-1402"
-argdate: ""
-publishdate: ""
+argdate: "2015-02-23"
+publishdate: "2015-06-15"
 justices:
-- 
+- 1986scalia
+- 1988kennedy
+- 1994breyer
 advocates:
-- 
+- Edwin S. Kneedler
+- Mark E. Haddad
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Due Process Clause
+topics:
+- immigration law
+summary: "The Ninth Circuit’s judgment—that Din’s liberty interest in her marriage entitled her to judicial review of her husband’s visa denial, and that the Government deprived her of that interest without due process by denying the visa application without giving a more detailed explanation of its reasons—is vacated, and the case is remanded."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+The Ninth Circuit’s judgment—that Din’s liberty interest in her marriage entitled her to judicial review of her husband’s visa denial, and that the Government deprived her of that interest without due process by denying the visa application without giving a more detailed explanation of its reasons—is vacated, and the case is remanded.

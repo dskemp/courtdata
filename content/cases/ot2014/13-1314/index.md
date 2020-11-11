@@ -1,16 +1,21 @@
 ---
-title: ""
-citation: ""
+title: "Arizona State Legislature v. Arizona Independent Redistricting Commission"
+citation: "576 U.S. ___"
 docket: "13-1314"
-argdate: ""
-publishdate: ""
+argdate: "2015-03-02"
+publishdate: "2015-06-29"
 justices:
-- 
+- 1993ginsburg
+- 2005roberts
+- 1986scalia
+- 1991thomas
 advocates:
-- 
+- Paul D. Clement
+- Eric J. Feigin
+- Seth P. Waxman
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Elections Clause
+- congressional redistricting
+summary: "The Elections Clause and 2 U.S.C. § 2a(c) permit Arizona’s use of a commission to adopt congressional districts."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+The Elections Clause and 2 U.S.C. § 2a(c) permit Arizona’s use of a commission to adopt congressional districts.

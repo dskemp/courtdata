@@ -1,16 +1,16 @@
 ---
-title: ""
-citation: ""
+title: "Henderson v. United States"
+citation: "575 U.S. ___"
 docket: "13-1487"
-argdate: ""
-publishdate: ""
+argdate: "2015-02-24"
+publishdate: "2015-05-18"
 justices:
-- 
+- 2010kagan
 advocates:
-- 
-tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Daniel R. Ortiz
+- Ann O’Connell
+topics:
+- criminal law
+summary: "Title 18 U.S.C. § 922(g), which prohibits a felon from possessing his (or any other) firearms, does not bar a court-ordered transfer of the felon’s lawfully owned firearms from Government custody to a third party, provided that the court is satisfied that the recipient will not give the felon control over the firearms, so that he could either use them or direct their use."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Title 18 U.S.C. § 922(g), which prohibits a felon from possessing his (or any other) firearms, does not bar a court-ordered transfer of the felon’s lawfully owned firearms from Government custody to a third party, provided that the court is satisfied that the recipient will not give the felon control over the firearms, so that he could either use them or direct their use.

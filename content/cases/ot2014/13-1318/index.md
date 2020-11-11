@@ -1,16 +1,16 @@
 ---
-title: ""
-citation: ""
+title: "Johnson v. City of Shelby"
+citation: "574 U.S. 10"
 docket: "13-1318"
 argdate: ""
-publishdate: ""
-justices:
-- 
-advocates:
-- 
+publishdate: "2014-11-10"
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Section 1983
+- Federal Rules of Civil Procedure
+- Due Process Clause
+- Fourteenth Amendment
+topics:
+- civil procedure
+summary: "Federal pleading rules, see Fed. Rule Civ. Proc. 8(a)(2), did not require petitioners to invoke 42 U.S.C. § 1983 expressly in order to state a claim that respondent city terminated their employment in violation of due process."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Federal pleading rules, see Fed. Rule Civ. Proc. 8(a)(2), did not require petitioners to invoke 42 U.S.C. § 1983 expressly in order to state a claim that respondent city terminated their employment in violation of due process.

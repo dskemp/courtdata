@@ -1,16 +1,19 @@
 ---
-title: ""
-citation: ""
+title: "Coleman v. Tollefson"
+citation: "575 U.S. ___"
 docket: "13-1333"
-argdate: ""
-publishdate: ""
+argdate: "2015-02-23"
+publishdate: "2015-05-18"
 justices:
-- 
+- 1994breyer
 advocates:
-- 
+- Kannon K. Shanmugam
+- Aaron D. Lindstrom
+- Allon Kedem
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- three strikes provision
+topics:
+- criminal procedure
+summary: "For purposes of a special “three strikes” provision that prevents federal courts from affording in forma pauperis status to prisoners who have brought frivolous civil actions or appeals in federal court on three or more prior occasions, see 28 U.S.C. § 1915(g), a qualifying prior dismissal counts as a strike even if it is pending on appeal."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+For purposes of a special “three strikes” provision that prevents federal courts from affording in forma pauperis status to prisoners who have brought frivolous civil actions or appeals in federal court on three or more prior occasions, see 28 U.S.C. § 1915(g), a qualifying prior dismissal counts as a strike even if it is pending on appeal.

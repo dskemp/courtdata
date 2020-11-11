@@ -1,16 +1,22 @@
 ---
-title: ""
-citation: ""
+title: "Davis v. Ayala"
+citation: "576 U.S. ___"
 docket: "13-1428"
-argdate: ""
-publishdate: ""
+argdate: "2015-03-03"
+publishdate: "2015-06-18"
 justices:
-- 
+- 2006alito
+- 1988kennedy
+- 1991thomas
+- 2006sotomayor
 advocates:
-- 
+- Robin Urbanski
+- Anthony J. Dain
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Antiterrorism and Effective Death Penalty Act of 1996
+- habeas corpus
+topics:
+- criminal procedure
+summary: "Ayala is not entitled to federal habeas relief because any federal constitutional error that may have occurred from the trial judge’s exclusion of defense counsel from part of a Batson hearing was harmless under Brecht v. Abrahamson, 507 U.S. 619, and the Antiterrorism and Effective Death Penalty Act of 1996."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Ayala is not entitled to federal habeas relief because any federal constitutional error that may have occurred from the trial judge’s exclusion of defense counsel from part of a Batson hearing was harmless under Brecht v. Abrahamson, 507 U.S. 619, and the Antiterrorism and Effective Death Penalty Act of 1996.

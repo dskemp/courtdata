@@ -1,16 +1,20 @@
 ---
-title: ""
-citation: ""
+title: "Texas Department of Housing and Community Affairs v. Inclusive Communities Project, Inc."
+citation: "576 U.S. ___"
 docket: "13-1371"
-argdate: ""
-publishdate: ""
+argdate: "2015-01-21"
+publishdate: "2015-06-25"
 justices:
-- 
+- 1988kennedy
+- 1991thomas
+- 2006alito
 advocates:
-- 
+- Scott A. Keller
+- Michael M. Daniel
+- Donald B. Verrilli, Jr
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- disparate impact
+- Fair Housing Act
+summary: "Disparate-impact claims are cognizable under the Fair Housing Act."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Disparate-impact claims are cognizable under the Fair Housing Act.

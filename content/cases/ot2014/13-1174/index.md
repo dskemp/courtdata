@@ -1,16 +1,20 @@
 ---
-title: ""
-citation: ""
+title: "Gelboim v. Bank of America Corp."
+citation: "574 U.S. 405"
 docket: "13-1174"
-argdate: ""
-publishdate: ""
+argdate: "2014-12-09"
+publishdate: "2015-01-21"
 justices:
-- 
+- 1993ginsburg
 advocates:
-- 
+- Thomas C. Goldstein
+- Seth P. Waxman
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- multidistrict litigation
+- final order
+topics:
+- civil procedure
+summary: "The District Court’s order dismissing petitioners’ case in its entirety removed petitioners from the multidistrict litigation they had been part of, thereby triggering their right to appeal under 28 U.S.C. § 1291."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+The District Court’s order dismissing petitioners’ case in its entirety removed petitioners from the multidistrict litigation they had been part of, thereby triggering their right to appeal under 28 U.S.C. § 1291.
 

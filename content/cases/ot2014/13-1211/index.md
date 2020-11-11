@@ -1,16 +1,19 @@
 ---
-title: ""
-citation: ""
+title: "Hana Financial, Inc. v. Hana Bank"
+citation: "574 U.S. 418"
 docket: "13-1211"
-argdate: ""
-publishdate: ""
+argdate: "2014-12-03"
+publishdate: "2015-01-21"
 justices:
-- 
+- 2009sotomayor
 advocates:
-- 
+- Paul W. Hughes
+- Carlo F. Van den Bosch
+- Sarah E. Harrington
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- trademark
+topics:
+- intellectual property law
+summary: "Whether two trademarks may be “tacked” for purposes of determining priority of trademark use is a matter for a jury, not a judge, to decide."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Whether two trademarks may be “tacked” for purposes of determining priority of trademark use is a matter for a jury, not a judge, to decide.

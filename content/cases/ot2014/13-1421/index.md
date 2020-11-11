@@ -1,16 +1,18 @@
 ---
-title: ""
-citation: ""
+title: "Bank of America N.A. v. Caulkett"
+citation: "575 U.S. ___"
 docket: "13-1421"
-argdate: ""
-publishdate: ""
+argdate: "2015-03-24"
+publishdate: "2015-06-01"
 justices:
-- 
+- 1991thomas
 advocates:
-- 
+- Danielle Spinelli
+- Stephanos Bibas
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Chapter 7 Bankruptcy
+topics:
+- bankruptcy law
+summary: "A Chapter 7 debtor may not use § 506(d) of the Bankruptcy Code to void an underwater junior mortgage if the creditor’s claim is both secured by a lien and allowed under § 502."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+A Chapter 7 debtor may not use § 506(d) of the Bankruptcy Code to void an underwater junior mortgage if the creditor’s claim is both secured by a lien and allowed under § 502.

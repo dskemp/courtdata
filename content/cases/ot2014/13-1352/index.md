@@ -1,16 +1,22 @@
 ---
-title: ""
-citation: ""
+title: "Ohio v. Clark"
+citation: "576 U.S. ___"
 docket: "13-1352"
-argdate: ""
-publishdate: ""
+argdate: "2015-03-02"
+publishdate: "2015-06-18"
 justices:
-- 
+- 2006alito
+- 1986scalia
+- 1991thomas
 advocates:
-- 
+- Matthew E. Meyer
+- Ilana Eisenstein
+- Jeffrey L. Fisher
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Sixth Amendment
+- Confrontation Clause
+topics:
+- criminal procedure
+summary: "The Sixth Amendment’s Confrontation Clause did not prohibit prosecutors from introducing statements made by a child abuse victim to his teachers, where neither the child, who was unavailable for cross-examination, nor his teachers had the primary purpose of creating an out-of-court substitute for trial testimony."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+The Sixth Amendment’s Confrontation Clause did not prohibit prosecutors from introducing statements made by a child abuse victim to his teachers, where neither the child, who was unavailable for cross-examination, nor his teachers had the primary purpose of creating an out-of-court substitute for trial testimony.
