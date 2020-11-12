@@ -1,16 +1,24 @@
 ---
-title: ""
-citation: ""
+title: "Williams-Yulee v. Florida Bar"
+citation: "575 U.S. ___"
 docket: "13-1499"
-argdate: ""
-publishdate: ""
+argdate: "2015-01-20"
+publishdate: "2015-04-29"
 justices:
-- 
+- 2005roberts
+- 1994breyer
+- 1993ginsburg
+- 1986scalia
+- 1988kennedy
+- 2006alito
 advocates:
-- 
+- Andrew J. Pincus
+- Barry Richard
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- First Amendment
+- judicial conduct
+topics:
+- professional responsibility
+summary: "The First Amendment permits Florida’s Code of Judicial Conduct Canon 7C(1)’s ban on the personal solicitation of campaign funds by judicial candidates."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+The First Amendment permits Florida’s Code of Judicial Conduct Canon 7C(1)’s ban on the personal solicitation of campaign funds by judicial candidates.

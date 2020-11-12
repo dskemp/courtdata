@@ -3,7 +3,7 @@ title: "Lopez v. Smith"
 citation: "574 U.S. 1"
 docket: "13-946"
 argdate: ""
-publishdate: "2014-10-06"
+publishdate: "2014-10-06T00:00:00-00:00"
 tags:
 - Antiterrorism and Effective Death Penalty Act of 1996
 topics:

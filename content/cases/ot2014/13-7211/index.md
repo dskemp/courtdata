@@ -1,16 +1,21 @@
 ---
-title: ""
-citation: ""
+title: "Jennings v. Stephens"
+citation: "574 U.S. 271"
 docket: "13-7211"
-argdate: ""
-publishdate: ""
+argdate: "2014-10-15"
+publishdate: "2015-01-14"
 justices:
-- 
+- 1986scalia
+- 1991thomas
 advocates:
-- 
+- Randolph L. Schaffer, Jr
+- Andrew S. Oldham
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- habeas corpus
+- Sixth Amendment
+- death penalty
+topics:
+- criminal procedure
+summary: "Jennings’  Smith  v.  Spisak, 558 U.S. 139, theory was a defense of his favorable habeas judgment on alternative grounds, and thus he was not required to take a cross-appeal or obtain a certificate of appealability to argue it on appeal."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Jennings’  *Smith  v.  Spisak*, 558 U.S. 139, theory was a defense of his favorable habeas judgment on alternative grounds, and thus he was not required to take a cross-appeal or obtain a certificate of appealability to argue it on appeal.

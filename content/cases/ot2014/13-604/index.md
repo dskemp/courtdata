@@ -3,7 +3,7 @@ title: "Heien v. North Carolina"
 citation: "574 U.S. 54"
 docket: "13-604"
 argdate: "2014-10-06"
-publishdate: "2014-12-15"
+publishdate: "2014-12-15T00:00:00-00:00"
 justices:
 - 2005roberts
 - 2010kagan

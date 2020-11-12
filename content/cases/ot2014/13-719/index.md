@@ -1,9 +1,9 @@
 ---
 title: "Dart Cherokee Basin Operating Co. v. Owens"
-citation: "574 U.S. 259"
+citation: "574 U.S. 81"
 docket: "13-719"
 argdate: "2014-10-07"
-publishdate: "2014-12-15"
+publishdate: "2014-12-15T00:00:01-00:00"
 justices:
 - 1993ginsburg
 - 1986scalia

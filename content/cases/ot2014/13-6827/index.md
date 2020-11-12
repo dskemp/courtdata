@@ -1,16 +1,19 @@
 ---
-title: ""
-citation: ""
+title: "Holt v. Hobbs"
+citation: "574 U.S. 352"
 docket: "13-6827"
-argdate: ""
-publishdate: ""
+argdate: "2014-10-07"
+publishdate: "2015-01-20"
 justices:
-- 
+- 2006alito
+- 1993ginsburg
+- 2009sotomayor
 advocates:
-- 
+- Douglas Laycock
+- Anthony A. Yang
+- David A. Curran
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Religious Land Use and Institutionalized Persons Act of 2000
+summary: "The Arkansas Department of Correction’s grooming policy, which generally prohibits inmates from growing beards, violates the Religious Land Use and Institutionalized Persons Act of 2000 (RLUIPA) insofar as it prevents petitioner, a devout Muslim, from growing a ½-inch beard in accordance with his religious beliefs."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+The Arkansas Department of Correction’s grooming policy, which generally prohibits inmates from growing beards, violates the Religious Land Use and Institutionalized Persons Act of 2000 (RLUIPA) insofar as it prevents petitioner, a devout Muslim, from growing a ½-inch beard in accordance with his religious beliefs.

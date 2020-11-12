@@ -1,16 +1,23 @@
 ---
-title: ""
-citation: ""
+title: "Rodriguez v. United States"
+citation: "575 U.S. ___"
 docket: "13-9972"
-argdate: ""
-publishdate: ""
+argdate: "2015-01-21"
+publishdate: "2015-04-21"
 justices:
-- 
+- 1993ginsburg
+- 1988kennedy
+- 1991thomas
+- 2006alito
 advocates:
-- 
+- Shannon P. O’Connor
+- Ginger D. Anders
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Fourth Amendment
+- search and seizure
+- reasonable suspicion
+- traffic stop
+- warrant requirement
+summary: "Absent reasonable suspicion, police extension of a traffic stop in order to conduct a dog sniff violates the Constitution’s shield against unreasonable seizures."
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-
+Absent reasonable suspicion, police extension of a traffic stop in order to conduct a dog sniff violates the Constitution’s shield against unreasonable seizures.

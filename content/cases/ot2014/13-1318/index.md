@@ -3,7 +3,7 @@ title: "Johnson v. City of Shelby"
 citation: "574 U.S. 10"
 docket: "13-1318"
 argdate: ""
-publishdate: "2014-11-10"
+publishdate: "2014-10-06T00:00:01-00:00"
 tags:
 - Section 1983
 - Federal Rules of Civil Procedure

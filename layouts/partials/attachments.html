@@ -13,7 +13,7 @@
 			<p><span>Slip (Unofficial) Opinion:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
 			{{ end }}
 		{{ end }} 
-		{{ with .Resources.Match "*transcript.pdf" }}
+		{{ with .Resources.Match "*transcript*.pdf" }}
 			{{ range . }}
 			<p><span>Oral Argument Transcript:</span> <a href="{{ .Permalink }}">{{ .Title }}</a></p>
 			{{ end }}
