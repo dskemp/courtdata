@@ -3,9 +3,15 @@
 	<hr class="sectionTitleRule">
 	<hr class="sectionTitleRule2">
 	<div class="section2Content">
-			{{ range $name, $taxonomy := .Site.Taxonomies.advocates }}
+		{{ $t := .Site.GetPage "/advocates" }}
+		{{ range $t.Pages }}
+			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+		{{ end }}
+	</div>
+    </section>
+			<!--{{ range $name, $taxonomy := .Site.Taxonomies.advocates }}
 				{{ $adv_url := delimit (slice "/advocates" $name) "/" }}
 						<p class="sectionContent"><a href="{{ $adv_url }}">{{ $name }}</a></p>
-			{{ end }}
+			{{ end }}-->
 	</div>
 </section>

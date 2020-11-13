@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Ford Motor Co. v. Montana Eighth Judicial District Court"
 citation: ""
 docket: "19-368"
-argdate: ""
+argdate: "2020-10-07"
 publishdate: ""
 justices:
 - 

@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Fulton v. City of Philadelphia"
 citation: ""
 docket: "19-123"
-argdate: ""
+argdate: "2020-11-04"
 publishdate: ""
 justices:
 - 

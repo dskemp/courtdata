@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Niz-Chavez v. Barr"
 citation: ""
 docket: "19-863"
-argdate: ""
+argdate: "2020-11-09"
 publishdate: ""
 justices:
 - 

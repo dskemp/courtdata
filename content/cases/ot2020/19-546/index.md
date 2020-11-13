@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Brownback v. King"
 citation: ""
 docket: "19-546"
-argdate: ""
+argdate: "2020-11-09"
 publishdate: ""
 justices:
 - 

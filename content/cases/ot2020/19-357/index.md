@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "City of Chicago v. Fulton"
 citation: ""
 docket: "19-357"
-argdate: ""
+argdate: "2020-10-13"
 publishdate: ""
 justices:
 - 

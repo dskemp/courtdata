@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Torres v. Madrid"
 citation: ""
 docket: "19-292"
-argdate: ""
+argdate: "2020-10-14"
 publishdate: ""
 justices:
 - 

@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Jones v. Mississippi"
 citation: ""
 docket: "18-1259"
-argdate: ""
+argdate: "2020-11-03"
 publishdate: ""
 justices:
 - 

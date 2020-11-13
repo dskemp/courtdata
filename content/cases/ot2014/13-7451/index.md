@@ -3,7 +3,7 @@ title: "Yates v. United States"
 citation: "574 U.S. 528"
 docket: "13-7451"
 argdate: "2014-11-05"
-publishdate: ""
+publishdate: "2015-02-25"
 justices:
 - 1993ginsburg
 - 2006alito

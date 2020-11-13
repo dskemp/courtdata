@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Borden v. United States"
 citation: ""
 docket: "19-5410"
-argdate: ""
+argdate: "2020-11-03"
 publishdate: ""
 justices:
 - 

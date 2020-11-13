@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "U.S. Fish and Wildlife Service v. Sierra Club, Inc."
 citation: ""
 docket: "19-547"
-argdate: ""
+argdate: "2020-11-02"
 publishdate: ""
 justices:
 - 

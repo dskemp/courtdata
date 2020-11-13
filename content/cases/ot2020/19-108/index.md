@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "United States v. Briggs"
 citation: ""
 docket: "19-108"
-argdate: ""
+argdate: "2020-10-13"
 publishdate: ""
 justices:
 - 

@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Texas v. New Mexico"
 citation: ""
 docket: "65-orig"
-argdate: ""
+argdate: "2020-10-05"
 publishdate: ""
 justices:
 - 

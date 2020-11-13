@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Pereida v. Barr"
 citation: ""
 docket: "19-438"
-argdate: ""
+argdate: "2020-10-14"
 publishdate: ""
 justices:
 - 

@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Carney v. Adams"
 citation: ""
 docket: "19-309"
-argdate: ""
+argdate: "2020-10-05"
 publishdate: ""
 justices:
 - 

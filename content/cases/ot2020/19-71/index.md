@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "FNU Tanzin v. Tanvir"
 citation: ""
 docket: "19-71"
-argdate: ""
+argdate: "2020-10-06"
 publishdate: ""
 justices:
 - 

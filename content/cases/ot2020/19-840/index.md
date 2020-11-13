@@ -1,6 +1,6 @@
 ---
 title: "California v. Texas"
-citation: "n/a"
+citation: ""
 docket: "19-840"
 argdate: "2020-11-10"
 publishdate: ""

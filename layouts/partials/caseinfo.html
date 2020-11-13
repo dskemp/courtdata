@@ -18,9 +18,9 @@
 	<p><span>Reargued:</span> {{ dateFormat "January 2, 2006" . }}</p>
 {{ end }}
 <p><span>Decided:</span>
-	{{ if .Params.PublishDate.isset }}
-		{{ .Params.PublishDate }}
+	{{ if isset .Params "publishdate" }}
+		{{ .Params.publishdate.Format "January 2, 2006" }}
 	{{ else }}
-		{{ printf "not yet decided"}}
+		{{ printf "not yet decided" }}
 	{{ end }}
 </p>

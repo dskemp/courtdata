@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Salinas v. U.S. Railroad Retirement Board"
 citation: ""
 docket: "19-199"
-argdate: ""
+argdate: "2020-11-02"
 publishdate: ""
 justices:
 - 
