@@ -1,0 +1,22 @@
+{{ define "header" }}
+  <section class="profileHeader">
+    <h1>U.S. Supreme Court Advocates</h1>
+    <h3>Subtitle of template</h3>
+    <hr>
+    <p>Content of template</p>
+  </section>
+
+{{ end }}
+
+{{ define "main" }}
+	<section class="section2">
+		<h2 class="sectionTitle">Advocates</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		{{ range .Data.Terms.Alphabetical }}
+			<article class="section2Content">
+				<h2 class="sectionContentTitle"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
+				<p class="sectionContent">{{ .Page.Content | truncate 300 }}</p>			</article>
+		{{ end }}
+	</section>
+{{ end }}

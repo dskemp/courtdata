@@ -1,11 +1,26 @@
-  <section class="section1">
-    <h2 class="sectionTitle">Information</h2>
-    <hr class="sectionTitleRule">
-    <hr class="sectionTitleRule2">
-    <div class="section1Content">
-      <p><span>Docket No.:</span> {{ .Params.docket }}</p>
-      <p><span>Citation:</span> {{ .Params.citation }}</p>
-      <p><span>Argued:</span> {{ .Params.argDate }}</p>
-      <p><span>Decided:</span> {{ .PublishDate.Format "January 2, 2006" }}</p>
-    </div>
-  </section>
+<p><span>Docket No.:</span> {{ .Params.docket }}</p>
+<p><span>Citation:</span> 
+	{{ if ne .Params.citation "" }}
+		{{ .Params.citation }}
+	{{ else }}
+		{{ printf "n/a" }}
+	{{ end }}
+<!--{{ .Params.citation }}</p>-->
+<p><span>Argued:</span> 
+	{{ if ne .Params.argdate "" }}
+		{{ $arg := dateFormat "January 2, 2006" .Params.argdate }}
+		{{ printf $arg }}
+	{{ else }}
+		{{ printf "not argued"}}
+	{{ end }}
+	</p>
+{{ with .Params.reargdate }}
+	<p><span>Reargued:</span> {{ dateFormat "January 2, 2006" . }}</p>
+{{ end }}
+<p><span>Decided:</span>
+	{{ if isset .Params "publishdate" }}
+		{{ .Params.publishdate.Format "January 2, 2006" }}
+	{{ else }}
+		{{ printf "not yet decided" }}
+	{{ end }}
+</p>

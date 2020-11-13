@@ -1,0 +1,11 @@
+<section class="section2">
+	<h2 class="sectionTitle">Browse Cases by Term</h2>
+	<hr class="sectionTitleRule">
+	<hr class="sectionTitleRule2">
+	<div class="section2Content">
+			{{ $t := .Site.GetPage "/justices" }}
+			{{ range sort $t.Pages "Name" }}
+    			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
+    		{{ end }}
+	</div>
+</section>

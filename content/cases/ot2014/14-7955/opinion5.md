@@ -1,8 +1,7 @@
 ---
 title: "Dissenting Opinion"
-draft: true
-authors:
-- 2009sotomayor
+opiniontype: dissent
+author: 2009sotomayor
 joinedby:
 - 1993ginsburg
 - 1994breyer

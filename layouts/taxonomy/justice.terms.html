@@ -1,0 +1,20 @@
+{{ define "header" }}
+  <section class="profileHeader">
+    <h1>U.S. Supreme Court Justices</h1>
+    <h3>Subtitle of justices template</h3>
+    <hr>
+    <p>More from justices template</p>
+  </section>
+
+{{ end }}
+
+{{ define "main" }}
+	<section class="section2">
+		<h2 class="sectionTitle">Justices</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		{{ partial "justices-active-chief.html" . }}
+		{{ partial "justices-active.html" . }}
+		{{ partial "justices-inactive.html" . }}
+	</section>
+{{ end }}

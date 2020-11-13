@@ -66,14 +66,6 @@ header .logoPlaceholder span
 	line-height: 53px;
 }
 
-/*header .profilePhoto {
-	background-color: rgba(237,237,237,1.00);
-	width: 259px;
-	border-radius: 50%;
-	height: 259px;
-	clear: both;
-}*/
-
 header .profileHeader h1
 {
 	font-family: 'Montserrat', sans-serif;
@@ -298,6 +290,10 @@ footer .footerNote span
 	}
 	
 	header .profileHeader p { text-align: justify; }
+	
+	div.block {
+        width: 100%;
+    }
 	
 	header .socialNetworkNavBar
 	{

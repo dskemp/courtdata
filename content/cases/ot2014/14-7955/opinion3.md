@@ -1,8 +1,7 @@
 ---
 title: "Concurring Opinion"
-draft: true
-authors:
-- 1991thomas
+opiniontype: concurrence
+author: 1991thomas
 joinedby:
 - 1986scalia
 weight: 3

@@ -1,8 +1,7 @@
 ---
 title: "Dissenting Opinion"
-draft: true
-authors:
-- 1994breyer
+opiniontype: dissent
+author: 1994breyer
 joinedby:
 - 1993ginsburg
 weight: 4

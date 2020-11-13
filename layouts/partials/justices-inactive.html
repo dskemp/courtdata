@@ -1,0 +1,11 @@
+{{ range sort .Data.Terms (.Param "enddate") "desc" }}
+	{{ $enddatestr := .Page.Params.enddate }}
+	{{ if ne $enddatestr "" }}
+		<article class="section2Content">
+			<h2 class="sectionContentTitle"><a href="{{ .Page.Permalink }}">{{ .Page.Params.name }}</a></h2>
+			<h3 class="sectionContentSubTitle"><strong>{{ .Page.Params.position }}</strong></h3>
+			<h3 class="sectionContentSubTitle">({{ with .Page.Params.startdate }}{{ dateFormat "January 2, 2006" . }}{{ end }} &ndash; {{ with .Page.Params.enddate }}{{ dateFormat "January 2, 2006" . }}{{ end }})</h3>
+			<p class="sectionContent">{{ .Page.Content | truncate 300 }}</p>
+		</article>
+	{{ end }}
+{{ end }}

@@ -1,0 +1,10 @@
+{{ with .Resources.GetMatch "related*" }}
+	<section class="section1">
+		<h2 class="sectionTitle">Related Cases</h2>
+		<hr class="sectionTitleRule">
+		<hr class="sectionTitleRule2">
+		<div class="section1Content">
+				<p class="sectionContent">{{ .Content }}</p>
+		</div>
+	</section>
+{{ end }}
