@@ -1,5 +1,11 @@
 <p><span>Docket No.:</span> {{ .Params.docket }}</p>
-<p><span>Citation:</span> {{ .Params.citation }}</p>
+<p><span>Citation:</span> 
+	{{ if ne .Params.citation "" }}
+		{{ .Params.citation }}
+	{{ else }}
+		{{ printf "n/a" }}
+	{{ end }}
+<!--{{ .Params.citation }}</p>-->
 <p><span>Argued:</span> 
 	{{ if ne .Params.argdate "" }}
 		{{ $arg := dateFormat "January 2, 2006" .Params.argdate }}
@@ -11,4 +17,10 @@
 {{ with .Params.reargdate }}
 	<p><span>Reargued:</span> {{ dateFormat "January 2, 2006" . }}</p>
 {{ end }}
-<p><span>Decided:</span> {{ .PublishDate.Format "January 2, 2006" }}</p>
+<p><span>Decided:</span>
+	{{ if .Params.PublishDate.isset }}
+		{{ .Params.PublishDate }}
+	{{ else }}
+		{{ printf "not yet decided"}}
+	{{ end }}
+</p>

@@ -1,6 +1,12 @@
 <section class="profileHeader">
 	<h1>{{ .Title }}</h1>
-	<h3>{{ .Params.citation }} ({{ .PublishDate.Format "2006" }})</h3>
+	{{ if gt (len .Params.citation) 5 }}
+		<h3>{{ .Params.citation }} ({{ .PublishDate.Format "2006" }})</h3>
+	{{ else if ne .Params.citation "" }}
+		<h3>No. {{ .Params.docket }} (argued {{ dateFormat "January 2, 2006" .Params.argdate }})</h3>
+	{{ else if .Params.citation "" }}
+		<h3>No. {{ .Params.docket }}</h3>
+	{{ end }}
 	<hr>
 	<p>{{ .Content }}</p>
 </section>
