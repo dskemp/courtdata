@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Michael J. Mongan
+- Donald B. Verrilli, Jr
+- Kyle D. Hawkins
+- Jeffrey B. Wall
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Patient Protection and Affordable Care Act
+summary: "At Issue: (1) Whether the individual and state plaintiffs in this case have established Article III standing to challenge the minimum-coverage provision in Section 5000A(a) of the Patient Protection and Affordable Care Act (ACA); (2) whether reducing the amount specified in Section 5000A(c) to zero rendered the minimum-coverage provision unconstitutional; and (3) if so, whether the minimum-coverage provision is severable from the rest of the ACA."
 ---
-
+**At Issue**: (1) Whether the individual and state plaintiffs in this case have established Article III standing to challenge the minimum-coverage provision in Section 5000A(a) of the Patient Protection and Affordable Care Act (ACA); (2) whether reducing the amount specified in Section 5000A(c) to zero rendered the minimum-coverage provision unconstitutional; and (3) if so, whether the minimum-coverage provision is severable from the rest of the ACA.

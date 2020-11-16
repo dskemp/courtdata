@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Sean Marotta
+- Deepak Gupta
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- personal jurisdiction
+topics:
+- civil procedure
+summary: "At Issue: Whether a state court may exercise personal jurisdiction over a nonresident defendant when none of the defendant’s contacts with that state caused the plaintiff’s claims."
 ---
-
+**At Issue**: Whether a state court may exercise personal jurisdiction over a nonresident defendant when none of the defendant’s contacts with that state caused the plaintiff’s claims.

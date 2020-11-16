@@ -7,9 +7,13 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- David M. Shapiro
+- Krissy C. Nobile
+- Frederick Liu
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Eighth Amendment
+topics:
+- criminal law
+summary: "At Issue: Whether, under the Eighth Amendment, a sentencing authority must find that a juvenile is permanently incorrigible before it may impose a sentence of life without parole."
 ---
-
+**At Issue**: Whether, under the Eighth Amendment, a sentencing authority must find that a juvenile is permanently incorrigible before it may impose a sentence of life without parole.

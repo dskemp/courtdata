@@ -7,9 +7,11 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Michael R. Huston
+- Patrick M. Jaicomo
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Federal Tort Claims Act
+- subject matter jurisdiction
+summary: "At Issue: Whether the judgment bar provision of the Federal Tort Claims Act (FTCA) prevents a plaintiff whose FTCA claim against the government failed for lack of subject matter jurisdiction from filing another action, against the same defendants and arising from the same set of facts and injuries, under Bivens."
 ---
-
+**At Issue**: Whether the judgment bar provision of the Federal Tort Claims Act (FTCA) prevents a plaintiff whose FTCA claim against the government failed for lack of subject matter jurisdiction from filing another action, against the same defendants and arising from the same set of facts and injuries, under *Bivens*.

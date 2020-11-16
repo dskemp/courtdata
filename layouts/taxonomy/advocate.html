@@ -15,7 +15,13 @@
 			{{ range .Pages.ByPublishDate.Reverse }}
 				<article class="section2Content">
 					<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-					<h3 class="sectionContentSubTitle">{{ .Params.citation }} ({{ .Params.PublishDate.Format "2006" }})</h3>
+					<h3 class="sectionContentSubTitle">{{ $this := . }}
+	{{ with .Params.citation }}
+		{{ . }} ({{ $this.Params.PublishDate.Format "2006" }})
+	{{ end }}
+	{{ if eq .Params.citation "" }}
+		No. {{ .Params.docket }} (argued {{ dateFormat "Jan. 2, 2006" .Params.argdate }})
+{{ end }}</h3>
 					<p class="sectionContent"> {{ .Summary }} </p>
 				</article>
 			{{ end }}

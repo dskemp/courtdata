@@ -4,6 +4,12 @@ citation: ""
 docket: "18-540"
 argdate: "2020-10-06"
 publishdate: ""
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+advocates:
+- Nicholas J. Bronni
+- Frederick Liu
+- Seth P. Waxman
+tags:
+- Employee Retirement Income Security Act of 1974
+summary: "At Issue: Whether an Arkansas law regulating pharmacy benefit managers’ drug-reimbursement rates is pre-empted by the Employee Retirement Income Security Act of 1974 (ERISA)."
 ---
-
+**At Issue:** Whether an Arkansas law regulating pharmacy benefit managers’ drug-reimbursement rates is pre-empted by the Employee Retirement Income Security Act of 1974 (ERISA).

@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Sarah M. Harris
+- Austin Raynor
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Railroad Unemployment Insurance Act
+- Railroad Retirement Act
+- final decision
+summary: "At Issue: Whether, under Section 5(f) of the Railroad Unemployment Insurance Act and Section 8 of the Railroad Retirement Act, the Railroad Retirement Board’s denial of a request to reopen a prior benefits determination is a “final decision” subject to judicial review."
 ---
-
+**At Issue**: Whether, under Section 5(f) of the Railroad Unemployment Insurance Act and Section 8 of the Railroad Retirement Act, the Railroad Retirement Board’s denial of a request to reopen a prior benefits determination is a “final decision” subject to judicial review.

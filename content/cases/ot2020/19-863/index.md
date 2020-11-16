@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- David J. Zimmer
+- Anthony A. Yang
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Immigration and Nationality Act
+topics:
+- immigration law
+summary: "At Issue: Whether, under Section 1229(a) of the Immigration and Nationality Act, the government must serve a specific document that includes all required information, or may the government serve that information over the course of multiple documents?"
 ---
-
+**At Issue**: Whether, under Section 1229(a) of the Immigration and Nationality Act, the government must serve a specific document that includes all required information, or may the government serve that information over the course of multiple documents?

@@ -7,9 +7,15 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Kelsi B. Corkran
+- Rebecca Taibleson
+- Mark D. Standridge
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Fourth Amendment
+- search and seizure
+- warrant requirement
+topics:
+- criminal procedure
+summary: "At Issue: Whether an unsuccessful attempt to detain a suspect by use of physical force is a “seizure” within the meaning of the Fourth Amendment, or whether physical force must be successful in detaining a suspect to constitute a “seizure.”"
 ---
-
+**At Issue**: Whether an unsuccessful attempt to detain a suspect by use of physical force is a “seizure” within the meaning of the Fourth Amendment, or whether physical force must be successful in detaining a suspect to constitute a “seizure.”
