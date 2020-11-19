@@ -7,7 +7,8 @@ publishdate: "2018-12-10"
 justices:
 - 1994breyer
 advocates:
-- 
+- Erica L. Ross
+- Jeffrey L. Fisher
 tags:
 - 
 topics:

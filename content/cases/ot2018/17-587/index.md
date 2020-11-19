@@ -7,7 +7,9 @@ publishdate: "2018-11-06"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- E. Joshua Rosenkranz
+- Jeffrey L. Fisher
+- Jonathan C. Bond
 tags:
 - 
 topics:

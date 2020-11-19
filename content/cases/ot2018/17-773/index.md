@@ -7,7 +7,9 @@ publishdate: "2019-01-08"
 justices:
 - 1991thomas
 advocates:
-- 
+- Daniel R. Ortiz
+- Anthony Yang
+- Amy L. Weil
 tags:
 - 
 topics:

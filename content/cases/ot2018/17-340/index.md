@@ -7,7 +7,8 @@ publishdate: "2019-01-15"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Theodore J. Boutrous, Jr
+- Jennifer D. Bennett
 tags:
 - 
 topics:

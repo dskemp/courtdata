@@ -7,7 +7,9 @@ publishdate: "2019-02-20"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Lawrence D. Rosenberg
+Michael R. Huston
+- Lindsay S. See
 tags:
 - 
 topics:

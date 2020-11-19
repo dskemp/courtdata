@@ -7,7 +7,9 @@ publishdate: "2019-05-13"
 justices:
 - 2018kavanaugh
 advocates:
-- 
+- Daniel M. Wall
+- Noel J. Francisco
+- David C. Frederick
 tags:
 - 
 topics:

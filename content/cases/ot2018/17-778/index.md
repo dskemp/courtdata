@@ -7,7 +7,8 @@ publishdate: "2019-06-10"
 justices:
 - 2018kavanaugh
 advocates:
-- 
+- Jeremy C. Marwell
+- Zachary D. Tripp
 tags:
 - 
 topics:

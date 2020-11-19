@@ -7,7 +7,9 @@ publishdate: "2019-06-17"
 justices:
 - 2006alito
 advocates:
-- 
+- Louis A. Chaiten
+- Eric J. Feigin
+- Kyle D. Hawkins
 tags:
 - 
 topics:

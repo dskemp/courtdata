@@ -7,7 +7,9 @@ publishdate: "2019-05-20"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- George W. Hicks, Jr
+- Frederick Liu
+- John G. Knepper
 tags:
 - 
 topics:

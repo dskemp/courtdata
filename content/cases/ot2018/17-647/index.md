@@ -7,7 +7,9 @@ publishdate: "2019-06-21"
 justices:
 - 2005roberts
 advocates:
-- 
+- J. David Breemer
+- Noel J. Francisco
+- Teresa Ficken Sachs
 tags:
 - 
 topics:

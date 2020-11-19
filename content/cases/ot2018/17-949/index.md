@@ -7,7 +7,8 @@ publishdate: "2019-03-26"
 justices:
 - 2010kagan
 advocates:
-- 
+- Matthew T. Findley
+- Ruth Botstein
 tags:
 - 
 topics:

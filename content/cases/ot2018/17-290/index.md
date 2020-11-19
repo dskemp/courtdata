@@ -7,7 +7,9 @@ publishdate: "2019-05-20"
 justices:
 - 1994breyer
 advocates:
-- 
+- Shay Dvoretzky
+- Malcolm L. Stewart
+- David C. Frederick
 tags:
 - 
 topics:

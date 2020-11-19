@@ -7,7 +7,8 @@ publishdate: "2018-11-27"
 justices:
 - 2005roberts
 advocates:
-- 
+- Timothy S. Bishop
+- Edwin S. Kneedler
 tags:
 - 
 topics:

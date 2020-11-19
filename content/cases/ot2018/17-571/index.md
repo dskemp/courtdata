@@ -7,7 +7,9 @@ publishdate: "2019-03-04"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Aaron M. Panner
+- Peter K. Stris
+- Jonathan Y. Ellis
 tags:
 - 
 topics:

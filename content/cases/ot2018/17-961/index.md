@@ -7,11 +7,12 @@ publishdate: "2019-03-20"
 justices:
 - 
 advocates:
-- 
+- Theodore H. Frank
+- Jeffrey B. Wall
 tags:
 - 
 topics:
 - 
 summary: "This class action settlement case is remanded for the courts below to address the plaintiffs’ standing in light of Spokeo, Inc. v. Robins, 578 U.S. ___."
 ---
-This class action settlement case is remanded for the courts below to address the plaintiffs’ standing in light of Spokeo, Inc. v. Robins, 578 U.S. ___.
+This class action settlement case is remanded for the courts below to address the plaintiffs’ standing in light of *Spokeo, Inc. v. Robins*, 578 U.S. ___.
