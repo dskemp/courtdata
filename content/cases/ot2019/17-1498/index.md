@@ -7,7 +7,9 @@ publishdate: "2020-04-20"
 justices:
 - 2005roberts
 advocates:
-- 
+- Lisa S. Blatt
+- Christopher G. Michel
+- Joseph R. Palmore
 tags:
 - 
 topics:

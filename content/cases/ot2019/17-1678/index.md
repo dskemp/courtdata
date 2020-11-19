@@ -7,7 +7,9 @@ publishdate: "2020-02-25"
 justices:
 - 2006alito
 advocates:
-- 
+- Stephen I. Vladeck
+- Randolph J. Ortega
+- Jeffrey B. Wall
 tags:
 - 
 topics:

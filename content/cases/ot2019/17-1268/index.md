@@ -7,7 +7,9 @@ publishdate: "2020-05-18"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Matthew D. McGill
+- Erica L. Ross
+- Christopher M. Curran
 tags:
 - 
 topics:

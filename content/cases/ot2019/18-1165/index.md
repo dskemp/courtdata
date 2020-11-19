@@ -1,5 +1,5 @@
 ---
-title: "Retirement Plans Comm. of IBM v. Jander"
+title: "Retirement Plans Committee of IBM v. Jander"
 citation: "589 U.S. ___"
 docket: "18-1165"
 argdate: "2019-11-06"

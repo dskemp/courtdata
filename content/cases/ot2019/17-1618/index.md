@@ -7,7 +7,9 @@ publishdate: "2020-06-15"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Pamela S. Karlan
+- Jeffrey M. Harris
+- Noel J. Francisco
 tags:
 - 
 topics:

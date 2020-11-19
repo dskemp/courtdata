@@ -7,7 +7,9 @@ publishdate: "2020-06-01"
 justices:
 - 2018kavanaugh
 advocates:
-- 
+- Peter K. Stris
+- Sopan Joshi
+- Joseph R. Palmore
 tags:
 - 
 topics:

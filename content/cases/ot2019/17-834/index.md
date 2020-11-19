@@ -7,7 +7,9 @@ publishdate: "2020-03-03"
 justices:
 - 2006alito
 advocates:
-- 
+- Derek Schmidt
+- Christopher G. Michel
+- Paul Hughes
 tags:
 - 
 topics:
