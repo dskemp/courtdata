@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Brian P. Goldman
+- Jonathan C. Bond
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Immigration and Nationality Act
+topics:
+- immigration law
+summary: "At Issue: Whether a criminal conviction bars a noncitizen from applying for relief from removal when the record of conviction is ambiguous as to whether it corresponds to an offense listed in the Immigration and Nationality Act."
 ---
-
+**At Issue**: Whether a criminal conviction bars a noncitizen from applying for relief from removal when the record of conviction is ambiguous as to whether it corresponds to an offense listed in the Immigration and Nationality Act.

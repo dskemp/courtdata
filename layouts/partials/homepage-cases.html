@@ -4,7 +4,7 @@
 	<hr class="sectionTitleRule2">
 	<div class="section2Content">
 		{{ range .Pages }}
-			{{ range sort .Pages "Name" "desc" }}
+			{{ range .Sections.ByTitle.Reverse }}
 				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
 			{{ end }}
 		{{ end }}

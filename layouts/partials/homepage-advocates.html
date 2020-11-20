@@ -4,7 +4,7 @@
 	<hr class="sectionTitleRule2">
 	<div class="section2Content">
 		{{ $t := .Site.GetPage "/advocates" }}
-		{{ range $t.Pages }}
+		{{ range sort $t.Pages "Name" }}
 			<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
 		{{ end }}
 	</div>

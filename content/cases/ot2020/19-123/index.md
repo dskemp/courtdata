@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Lori H. Windham
+- Hashim M. Mooppan
+- Neal Kumar Katyal
+- Jeffrey L. Fisher
 tags:
 - 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+summary: "At Issue: (1) Whether, to succeed on their free exercise claim, must plaintiffs prove that the government would allow the same conduct by someone who held different religious views, or only provide sufficient evidence that a law is not neutral and generally applicable; (2) Whether the Court revisit its decision in Employment Division v. Smith; and (3) Whether the government violates the First Amendment by conditioning a religious agency’s ability to participate in the foster care system on taking actions and making statements that directly contradict the agency’s religious beliefs."
 ---
-
+**At Issue**: (1) Whether, to succeed on their free exercise claim, must plaintiffs prove that the government would allow the same conduct by someone who held different religious views, or only provide sufficient evidence that a law is not neutral and generally applicable; (2) Whether the Court revisit its decision in Employment Division v. Smith; and (3) Whether the government violates the First Amendment by conditioning a religious agency’s ability to participate in the foster care system on taking actions and making statements that directly contradict the agency’s religious beliefs.

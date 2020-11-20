@@ -7,9 +7,13 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Craig Goldblatt
+- Colleen E. Roh Sinzdak
+- Eugene R. Wedoff
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Chapter 13 bankruptcy
+topics:
+- bankruptcy law
+summary: "At Issue: Whether the Bankruptcy Code’s automatic stay provision, 11 U.S.C § 362, requires that an entity that is passively retaining possession of property in which a bankruptcy estate has an interest return that property to the debtor or trustee immediately upon the filing of the bankruptcy petition."
 ---
-
+**At Issue**: Whether the Bankruptcy Code’s automatic stay provision, 11 U.S.C § 362, requires that an entity that is passively retaining possession of property in which a bankruptcy estate has an interest return that property to the debtor or trustee immediately upon the filing of the bankruptcy petition.

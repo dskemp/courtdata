@@ -7,9 +7,13 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Kannon K. Shanmugam
+- Eric J. Feigin
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- Armed Career Criminal Act of 1984
+- criminal intent
+topics:
+- criminal law
+summary: "At Issue: Whether the “use of force” clause in the Armed Career Criminal Act encompasses crimes with an intent requirement of mere recklessness."
 ---
-
+**At Issue**: Whether the “use of force” clause in the Armed Career Criminal Act encompasses crimes with an intent requirement of mere recklessness.

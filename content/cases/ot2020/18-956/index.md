@@ -4,6 +4,10 @@ citation: ""
 docket: "18-956"
 argdate: "2020-10-07"
 publishdate: ""
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+advocates:
+- Thomas C. Goldstein
+- E. Joshua Rosenkranz
+- Malcolm L. Stewart
+summary: "At Issue: Whether copyright protection extends to a software interface, and whether the petitioner’s use of a software interface in the context of creating a new computer program constitutes fair use."
 ---
-
+**At Issue**: Whether copyright protection extends to a software interface, and whether the petitioner’s use of a software interface in the context of creating a new computer program constitutes fair use.

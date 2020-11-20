@@ -7,9 +7,10 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Michael W. McConnell
+- David L. Finger
 tags:
-- 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+- First Amendment
+summary: "At Issue: Whether a state law that effectively limits state judicial service to members of the Democratic and Republican parties violates the First Amendment."
 ---
-
+**At Issue**: Whether a state law that effectively limits state judicial service to members of the Democratic and Republican parties violates the First Amendment.

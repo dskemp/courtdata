@@ -7,9 +7,12 @@ publishdate: ""
 justices:
 - 
 advocates:
-- 
+- Jeffrey B. Wall
+- Stephen I. Vladeck
 tags:
 - 
-summary: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
+topics:
+- military law
+summary: "At Issue: Whether the U.S. Court of Appeals for the Armed Forces err in concluding—contrary to its own longstanding precedent—that the Uniform Code of Military Justice allows prosecution of a rape that occurred between 1986 and 2006 only if it was discovered and charged within five years."
 ---
-
+**At Issue**: Whether the U.S. Court of Appeals for the Armed Forces err in concluding—contrary to its own longstanding precedent—that the Uniform Code of Military Justice allows prosecution of a rape that occurred between 1986 and 2006 only if it was discovered and charged within five years.
