@@ -12,7 +12,7 @@ tags:
 - 
 topics:
 - 
-summary: "When a defense expert who has examined the defendant testifies that the defendant lacked the requisite mental state to commit a crime, the prosecution may offer evidence from a court-ordered psychological examination for the limited purpose of rebutting the defendant""s evidence."
+summary: "When a defense expert who has examined the defendant testifies that the defendant lacked the requisite mental state to commit a crime, the prosecution may offer evidence from a court-ordered psychological examination for the limited purpose of rebutting the defendant’s evidence."
 ---
-When a defense expert who has examined the defendant testifies that the defendant lacked the requisite mental state to commit a crime, the prosecution may offer evidence from a court-ordered psychological examination for the limited purpose of rebutting the defendant""s evidence.
+When a defense expert who has examined the defendant testifies that the defendant lacked the requisite mental state to commit a crime, the prosecution may offer evidence from a court-ordered psychological examination for the limited purpose of rebutting the defendant’s evidence.
 

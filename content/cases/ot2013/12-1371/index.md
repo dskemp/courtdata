@@ -12,7 +12,7 @@ tags:
 - 
 topics:
 - 
-summary: "Castleman""s state conviction for misdemeanor domestic assault qualifies as a "misdemeanor crime of domestic violence" for purposes of possessing a firearm under 18 U.S.C. § 922(g)(9)."
+summary: "Castleman’s state conviction for misdemeanor domestic assault qualifies as a "misdemeanor crime of domestic violence" for purposes of possessing a firearm under 18 U.S.C. § 922(g)(9)."
 ---
-Castleman""s state conviction for misdemeanor domestic assault qualifies as a "misdemeanor crime of domestic violence" for purposes of possessing a firearm under 18 U.S.C. § 922(g)(9).
+Castleman’s state conviction for misdemeanor domestic assault qualifies as a "misdemeanor crime of domestic violence" for purposes of possessing a firearm under 18 U.S.C. § 922(g)(9).
 

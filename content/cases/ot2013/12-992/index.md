@@ -12,7 +12,7 @@ tags:
 - 
 topics:
 - 
-summary: "A decision on the merits is a "final decision" even if the award or amount of attorney""s fees remains to be determined."
+summary: "A decision on the merits is a "final decision" even if the award or amount of attorney’s fees remains to be determined."
 ---
-A decision on the merits is a "final decision" even if the award or amount of attorney""s fees remains to be determined.
+A decision on the merits is a "final decision" even if the award or amount of attorney’s fees remains to be determined.
 

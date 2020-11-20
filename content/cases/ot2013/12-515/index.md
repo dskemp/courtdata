@@ -12,7 +12,7 @@ tags:
 - 
 topics:
 - 
-summary: "Michigan""s suit against the Bay Mills Indian Community to enjoin the tribe from operating a gaming facility on non-Indian lands is barred by tribal sovereign immunity."
+summary: "Michigan’s suit against the Bay Mills Indian Community to enjoin the tribe from operating a gaming facility on non-Indian lands is barred by tribal sovereign immunity."
 ---
-Michigan""s suit against the Bay Mills Indian Community to enjoin the tribe from operating a gaming facility on non-Indian lands is barred by tribal sovereign immunity.
+Michigan’s suit against the Bay Mills Indian Community to enjoin the tribe from operating a gaming facility on non-Indian lands is barred by tribal sovereign immunity.
 

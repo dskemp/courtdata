@@ -12,7 +12,7 @@ tags:
 - 
 topics:
 - 
-summary: "The anti-retaliation protection that the Sarbanes-Oxley Act of 2002 provides to whistleblowers applies to employees of a public company""s private contractors and subcontractors."
+summary: "The anti-retaliation protection that the Sarbanes-Oxley Act of 2002 provides to whistleblowers applies to employees of a public company’s private contractors and subcontractors."
 ---
-The anti-retaliation protection that the Sarbanes-Oxley Act of 2002 provides to whistleblowers applies to employees of a public company""s private contractors and subcontractors.
+The anti-retaliation protection that the Sarbanes-Oxley Act of 2002 provides to whistleblowers applies to employees of a public company’s private contractors and subcontractors.
 
