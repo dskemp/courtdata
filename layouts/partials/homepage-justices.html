@@ -3,7 +3,7 @@
 	<hr class="sectionTitleRule">
 	<hr class="sectionTitleRule2">
 	<div class="section2Content">
-		<h2 class="sectionContentTitle">Current Members of the Court</h2>
+		<h2 class="sectionContentTitle">Current Sitting Justices</h2>
 		{{ $t := .Site.GetPage "/justices" }}
 		{{ range $t.Pages }} <!--Current Chief-->
 			{{ $enddatestr := .Page.Params.enddate }}
@@ -19,7 +19,7 @@
 				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
 			{{ end }}
 		{{ end }}
-		<h2 class="sectionContentTitle">Previous Members of the Court</h2>
+		<h2 class="sectionContentTitle">Previous Justices</h2>
 		{{ range $t.Pages }} <!--Prior Chiefs-->
 			{{ $enddatestr := .Page.Params.enddate }}
 			{{ $seat := .Page.Params.position }}
