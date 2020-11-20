@@ -7,7 +7,8 @@ publishdate: "2019-04-01"
 justices:
 - 2010kagan
 advocates:
-- 
+- Ishan Bhabha
+- Anthony A. Yang
 tags:
 - 
 topics:

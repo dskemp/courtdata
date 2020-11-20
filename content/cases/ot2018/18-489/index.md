@@ -7,7 +7,9 @@ publishdate: "2019-06-03"
 justices:
 - 1994breyer
 advocates:
-- 
+- Daniel L. Geyser
+- Sopan Joshi
+- Nicole A. Saharsky
 tags:
 - 
 topics:

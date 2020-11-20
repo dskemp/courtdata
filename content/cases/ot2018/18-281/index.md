@@ -7,7 +7,10 @@ publishdate: "2019-06-17"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Paul D. Clement
+- Morgan L. Ratner
+- Toby J. Heytens
+- Marc E. Elias
 tags:
 - 
 topics:

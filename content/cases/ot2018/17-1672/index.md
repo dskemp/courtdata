@@ -7,7 +7,8 @@ publishdate: "2019-06-26"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Eric J. Feigin
+- William D. Lunn
 tags:
 - 
 topics:

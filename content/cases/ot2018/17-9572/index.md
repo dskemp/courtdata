@@ -7,7 +7,8 @@ publishdate: "2019-06-21"
 justices:
 - 2018kavanaugh
 advocates:
-- 
+- Sheri Lynn Johnson
+- Jason Davis
 tags:
 - 
 topics:

@@ -7,7 +7,9 @@ publishdate: "2019-05-28"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Michael B. Kimberly
+- Michael R. Huston
+- Deepak Gupta
 tags:
 - 
 topics:

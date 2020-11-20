@@ -7,7 +7,8 @@ publishdate: "2019-02-27"
 justices:
 - 2010kagan
 advocates:
-- 
+- Bryan A. Stevenson
+- Thomas R. Govan, Jr
 tags:
 - 
 topics:

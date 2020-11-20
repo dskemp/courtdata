@@ -7,7 +7,9 @@ publishdate: "2019-06-26"
 justices:
 - 2006alito
 advocates:
-- 
+- Shay Dvoretzky
+- David L. Franklin
+- Carter G. Phillips
 tags:
 - 
 topics:

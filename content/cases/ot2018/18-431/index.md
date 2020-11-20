@@ -7,7 +7,8 @@ publishdate: "2019-06-24"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Eric J. Feigin
+- Brandon E. Beck
 tags:
 - 
 topics:

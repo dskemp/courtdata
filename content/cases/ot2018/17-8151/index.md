@@ -7,7 +7,8 @@ publishdate: "2019-04-01"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Robert Hochman
+- D. John Sauer
 tags:
 - 
 topics:

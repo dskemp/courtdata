@@ -7,7 +7,8 @@ publishdate: "2019-06-24"
 justices:
 - 2010kagan
 advocates:
-- 
+- Malcolm L. Stewart
+- John R. Sommer
 tags:
 - 
 topics:

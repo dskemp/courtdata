@@ -4,10 +4,6 @@ citation: "586 U.S. ___"
 docket: "18-443"
 argdate: ""
 publishdate: "2019-02-19"
-justices:
-- 
-advocates:
-- 
 tags:
 - 
 topics:

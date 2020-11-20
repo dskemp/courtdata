@@ -7,7 +7,10 @@ publishdate: "2019-06-27"
 justices:
 - 2005roberts
 advocates:
-- 
+- Noel J. Francisco
+- Barbara D. Underwood
+- Dale E. Ho
+- Douglas N. Letter
 tags:
 - 
 topics:

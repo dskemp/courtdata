@@ -7,7 +7,9 @@ publishdate: "2019-03-04"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Lisa S. Blatt
+- Rachel P. Kovner
+- David C. Frederick
 tags:
 - 
 topics:

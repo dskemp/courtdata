@@ -7,7 +7,9 @@ publishdate: "2019-06-27"
 justices:
 - 2005roberts
 advocates:
-- 
+- Paul D. Clement
+- Emmet J. Bondurant, II
+- Allison J. Riggs
 tags:
 - 
 topics:

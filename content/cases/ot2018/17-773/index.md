@@ -8,7 +8,7 @@ justices:
 - 1991thomas
 advocates:
 - Daniel R. Ortiz
-- Anthony Yang
+- Anthony A. Yang
 - Amy L. Weil
 tags:
 - 

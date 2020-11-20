@@ -7,7 +7,8 @@ publishdate: "2019-06-24"
 justices:
 - 2006alito
 advocates:
-- 
+- Seth P. Waxman
+- David C. Frederick
 tags:
 - 
 topics:

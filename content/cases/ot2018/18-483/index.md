@@ -4,10 +4,6 @@ citation: "587 U.S. ___"
 docket: "18-483"
 argdate: ""
 publishdate: "2019-05-28"
-justices:
-- 
-advocates:
-- 
 tags:
 - 
 topics:

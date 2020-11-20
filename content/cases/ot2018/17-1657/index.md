@@ -7,7 +7,9 @@ publishdate: "2019-05-20"
 justices:
 - 2010kagan
 advocates:
-- 
+- Danielle Spinelli
+- Zachary D. Tripp
+- Douglas Hallward-Driemeier
 tags:
 - 
 topics:

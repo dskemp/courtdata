@@ -7,7 +7,8 @@ publishdate: "2019-06-20"
 justices:
 - 2010kagan
 advocates:
-- 
+- Sarah Baumgartel
+- Jeffrey B. Wall
 tags:
 - 
 topics:

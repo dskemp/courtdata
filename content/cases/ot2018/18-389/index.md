@@ -7,7 +7,9 @@ publishdate: "2019-06-10"
 justices:
 - 1991thomas
 advocates:
-- 
+- Paul D. Clement
+- Christopher G. Michel
+- David C. Frederick
 tags:
 - 
 topics:

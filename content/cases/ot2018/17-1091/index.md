@@ -7,7 +7,8 @@ publishdate: "2019-02-20"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Wesley P. Hottot
+- Thomas M. Fisher
 tags:
 - 
 topics:

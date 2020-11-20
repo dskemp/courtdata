@@ -7,7 +7,8 @@ publishdate: "2019-06-03"
 justices:
 - 1991thomas
 advocates:
-- 
+- Vanessa F. Malone
+- Jenny Ellickson
 tags:
 - 
 topics:

@@ -7,7 +7,8 @@ publishdate: "2019-06-26"
 justices:
 - 2010kagan
 advocates:
-- 
+- Paul W. Hughes
+- Noel J. Francisco
 tags:
 - 
 topics:

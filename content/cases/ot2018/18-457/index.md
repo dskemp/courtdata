@@ -7,7 +7,8 @@ publishdate: "2019-06-21"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Matthew W. Sawchak
+- David A. O’Neil
 tags:
 - 
 topics:

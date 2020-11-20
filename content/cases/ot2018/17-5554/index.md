@@ -7,7 +7,8 @@ publishdate: "2019-01-15"
 justices:
 - 1991thomas
 advocates:
-- 
+- Brenda G. Bryn
+- Frederick Liu
 tags:
 - 
 topics:

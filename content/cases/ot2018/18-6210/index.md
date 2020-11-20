@@ -7,7 +7,8 @@ publishdate: "2019-06-27"
 justices:
 - 2006alito
 advocates:
-- 
+- Andrew R. Hinkel
+- Hannah S. Jurss
 tags:
 - 
 topics:

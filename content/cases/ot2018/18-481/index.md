@@ -7,7 +7,9 @@ publishdate: "2019-06-24"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Evan A. Young
+- Anthony A. Yang
+- Robert M. Loeb
 tags:
 - 
 topics:

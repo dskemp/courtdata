@@ -7,7 +7,9 @@ publishdate: "2019-01-22"
 justices:
 - 1991thomas
 advocates:
-- 
+- Kannon K. Shanmugam
+- Malcolm L. Stewart
+- William M. Jay
 tags:
 - 
 topics:

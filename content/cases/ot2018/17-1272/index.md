@@ -7,7 +7,8 @@ publishdate: "2019-01-08"
 justices:
 - 2018kavanaugh
 advocates:
-- 
+- Kannon K. Shanmugam
+- Daniel L. Geyser
 tags:
 - 
 topics:

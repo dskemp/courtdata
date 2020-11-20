@@ -8,7 +8,7 @@ justices:
 - 2017gorsuch
 advocates:
 - Lawrence D. Rosenberg
-Michael R. Huston
+- Michael R. Huston
 - Lindsay S. See
 tags:
 - 

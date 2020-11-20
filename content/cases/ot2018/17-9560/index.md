@@ -7,7 +7,8 @@ publishdate: "2019-06-21"
 justices:
 - 1994breyer
 advocates:
-- 
+- Rosemary T. Camkis
+- Allon Kedem
 tags:
 - 
 topics:

@@ -7,7 +7,9 @@ publishdate: "2019-03-20"
 justices:
 - 1994breyer
 advocates:
-- 
+- Daniel L. Geyser
+- Kannon K. Shanmugam
+- Jonathan C. Bond
 tags:
 - 
 topics:

@@ -7,7 +7,9 @@ publishdate: "2019-06-20"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Neal K. Katyal
+- Jeffrey B. Wall
+- Thomas J. O’Connor
 tags:
 - 
 topics:

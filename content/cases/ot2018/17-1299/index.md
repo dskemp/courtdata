@@ -7,7 +7,8 @@ publishdate: "2019-05-13"
 justices:
 - 1991thomas
 advocates:
-- 
+- Seth P. Waxman
+- Erwin Chemerinsky
 tags:
 - 
 topics:

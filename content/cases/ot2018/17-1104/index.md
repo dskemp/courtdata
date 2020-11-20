@@ -7,7 +7,8 @@ publishdate: "2019-03-19"
 justices:
 - 2018kavanaugh
 advocates:
-- 
+- Shay Dvoretzky
+- Thomas C. Goldstein
 tags:
 - 
 topics:

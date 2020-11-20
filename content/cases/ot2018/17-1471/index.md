@@ -7,7 +7,8 @@ publishdate: "2019-05-28"
 justices:
 - 1991thomas
 advocates:
-- 
+- William P. Barnette
+- F. Paul Bland
 tags:
 - 
 topics:

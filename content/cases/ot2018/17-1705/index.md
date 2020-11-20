@@ -7,7 +7,9 @@ publishdate: "2019-06-20"
 justices:
 - 1994breyer
 advocates:
-- 
+- Carter G. Phillips
+- Glenn L. Hara
+- Rachel P. Kovner
 tags:
 - 
 topics:

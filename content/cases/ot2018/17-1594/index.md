@@ -7,7 +7,8 @@ publishdate: "2019-06-10"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Beth S. Brinkmann
+- Malcolm L. Stewart
 tags:
 - 
 topics:

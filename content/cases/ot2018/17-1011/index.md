@@ -7,7 +7,9 @@ publishdate: "2019-02-27"
 justices:
 - 2005roberts
 advocates:
-- 
+- Jeffrey L. Fisher
+- Jonathan Y. Ellis
+- Donald B. Verrilli, Jr
 tags:
 - 
 topics:

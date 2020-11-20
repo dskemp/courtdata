@@ -7,7 +7,8 @@ publishdate: "2019-06-03"
 justices:
 - 2017gorsuch
 advocates:
-- 
+- Edwin S. Kneedler
+- Pratik A. Shah
 tags:
 - 
 topics:

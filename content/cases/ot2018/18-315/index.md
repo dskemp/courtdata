@@ -7,7 +7,9 @@ publishdate: "2019-05-13"
 justices:
 - 1991thomas
 advocates:
-- 
+- Theodore J. Boutrous, Jr
+- Earl N. Mayfield III
+- Matthew Guarnieri
 tags:
 - 
 topics:

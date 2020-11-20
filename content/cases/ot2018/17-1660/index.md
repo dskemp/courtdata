@@ -6,8 +6,6 @@ argdate: ""
 publishdate: "2019-01-07"
 justices:
 - 
-advocates:
-- 
 tags:
 - 
 topics:

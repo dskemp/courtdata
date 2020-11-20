@@ -7,7 +7,9 @@ publishdate: "2018-10-30"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Amir H. Ali
+- Kenneth K. Jorgensen
+- Allon Kedem
 tags:
 - 
 topics:

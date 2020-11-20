@@ -7,7 +7,8 @@ publishdate: "2019-03-27"
 justices:
 - 1994breyer
 advocates:
-- 
+- Robert Heim
+- Christopher G. Michel
 tags:
 - 
 topics:

@@ -7,7 +7,9 @@ publishdate: "2019-05-28"
 justices:
 - 2005roberts
 advocates:
-- 
+- Dario Borghesan
+- Jeffrey B. Wall
+- Zane D. Wilson
 tags:
 - 
 topics:

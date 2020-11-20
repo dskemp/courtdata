@@ -7,7 +7,8 @@ publishdate: "2019-04-29"
 justices:
 - 2010kagan
 advocates:
-- 
+- Franklin Taylor Rouse
+- Ann O’Connell
 tags:
 - 
 topics:

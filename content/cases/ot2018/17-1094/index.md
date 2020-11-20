@@ -7,7 +7,8 @@ publishdate: "2019-02-26"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- John Hueston
+- Jonathan A. Herstoff
 tags:
 - 
 topics:

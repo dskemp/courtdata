@@ -7,7 +7,9 @@ publishdate: "2019-06-03"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Colleen E. Roh Sinzdak
+- Raffi Melkonian
+- Jonathan C. Bond
 tags:
 - 
 topics:
