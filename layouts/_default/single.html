@@ -1,5 +1,5 @@
 {{ define "header" }}
-	{{ partial "caseheader.html" . }}
+	{{ partial "casepage-caseheader.html" . }}
 {{ end }}
 
 {{ define "main" }}
@@ -9,8 +9,8 @@
 		<hr class="sectionTitleRule">
 		<hr class="sectionTitleRule2">
 		<div class="section1Content">
-			<div class="block" style="float:left; width:50%; margin:0; padding:0;">{{ partial "caseinfo.html" . }}</div>
-			<div class="block" style="float:left; width:50%; margin:0; padding:0;">{{ partial "advocates.html" . }}</div>
+			<div class="block" style="float:left; width:50%; margin:0; padding:0;">{{ partial "casepage-caseinfo.html" . }}</div>
+			<div class="block" style="float:left; width:50%; margin:0; padding:0;">{{ partial "casepage-advocates.html" . }}</div>
 		</div>
 	</section>
 		<section class="section2">
@@ -19,12 +19,12 @@
 			<hr class="sectionTitleRule2">
 			{{ with .Resources.Match "opinion*" }}
 				{{ range . }}
-					{{ partial "opinion.html" . }}
+					{{ partial "casepage-opinion.html" . }}
 				{{ end }}
 			{{ end }}
 		</section>
-			{{ partial "attachments.html" . }}
-			{{ partial "related.html" . }}
-			{{ partial "links.html" . }}
+			{{ partial "casepage-attachments.html" . }}
+			{{ partial "casepage-related.html" . }}
+			{{ partial "casepage-links.html" . }}
 	</section>
 {{ end }}

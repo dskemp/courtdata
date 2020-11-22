@@ -6,12 +6,15 @@ argdate: "2020-01-13"
 publishdate: "2020-06-01"
 justices:
 - 2018kavanaugh
+- 1991thomas
+- 2009sotomayor
 advocates:
 - Peter K. Stris
 - Sopan Joshi
 - Joseph R. Palmore
 tags:
-- 
+- Employee Retirement Income Security Act of 1974
+- Article III standing
 topics:
 - 
 summary: "Because petitioners, whose defined-benefit retirement plan guarantees them a fixed payment each month regardless of the plan’s value or its fiduciaries’ investment decisions, have no concrete stake in this Employee Retirement Income Security Act of 1974 lawsuit against the fiduciaries, they lack Article III standing."

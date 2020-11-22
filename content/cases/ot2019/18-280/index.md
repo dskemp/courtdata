@@ -5,9 +5,12 @@ docket: "18-280"
 argdate: "2019-12-02"
 publishdate: "2020-04-27"
 justices:
-- 
+- 2018kavanaugh
+- 2006alito
 advocates:
-- 
+- Paul D. Clement
+- Jeffrey B. Wall
+- Richard P. Dearing
 tags:
 - 
 topics:

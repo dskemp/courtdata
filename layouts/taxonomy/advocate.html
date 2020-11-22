@@ -3,27 +3,28 @@
     <h1>{{ .Title }}</h1>
     <hr>
     <p>{{ .Content }}</p>
+    <p><em>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</em></p>
   </section>
 
 {{ end }}
 
 {{ define "main" }}
-	<section class="section2">
+<section class="section2">
 		<h2 class="sectionTitle">Cases Argued by {{ .Title }}</h2>
 		<hr class="sectionTitleRule">
 		<hr class="sectionTitleRule2">
-			{{ range .Pages.ByPublishDate.Reverse }}
-				<article class="section2Content">
-					<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-					<h3 class="sectionContentSubTitle">{{ $this := . }}
-	{{ with .Params.citation }}
-		{{ . }} ({{ $this.Params.PublishDate.Format "2006" }})
-	{{ end }}
-	{{ if eq .Params.citation "" }}
-		No. {{ .Params.docket }} (argued {{ dateFormat "Jan. 2, 2006" .Params.argdate }})
-{{ end }}</h3>
-					<p class="sectionContent"> {{ .Summary }} </p>
-				</article>
+			{{ range (.Pages.ByParam "argdate").Reverse }}
+					<article class="section2Content">
+						<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+						<h3 class="sectionContentSubTitle">{{ $this := . }}
+						{{ with .Params.citation }}
+							{{ . }} ({{ $this.Params.PublishDate.Format "2006" }})
+						{{ end }}
+						{{ if eq .Params.citation "" }}
+							No. {{ .Params.docket }} (argued {{ dateFormat "Jan. 2, 2006" .Params.argdate }})
+						{{ end }}</h3>
+						<p class="sectionContent"> {{ .Summary }} </p>
+					</article>
 			{{ end }}
-</ul>	</section>
+	</section>
 {{ end }}

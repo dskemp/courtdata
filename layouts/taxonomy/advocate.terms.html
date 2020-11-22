@@ -3,7 +3,9 @@
     <h1>U.S. Supreme Court Advocates</h1>
     <h3>Subtitle of template</h3>
     <hr>
-    <p>Content of template</p>
+    <p>The U.S. Supreme Court hear oral arguments in cases before them so that the Justices can ask questions directly of the attorneys representing the parties to the case, and so that the attorneys can highlight arguments that they view as particularly important.</p>
+    <p>The Office of the Solicitor General, part of the U.S. Department of Justice, supervises and conducts federal government litigation in the Supreme Court. The United States is involved, either as a party or as an <em>amicus curiae</em> (friend of the court) in approximately two-thirds of all the cases the U.S. Supreme Court decides on the merits each year.</p>
+    <p>Most states have their own solicitor general’s office that handles cases in which the state is a party to a case before the Supreme Court. Many prominent law firms have Supreme Court practice groups with attorneys experienced in arguing before the Supreme Court. As such, a relatively small number of advocates argue the vast majority of cases the Court hears.</p>
   </section>
 
 {{ end }}
@@ -13,10 +15,10 @@
 		<h2 class="sectionTitle">Advocates</h2>
 		<hr class="sectionTitleRule">
 		<hr class="sectionTitleRule2">
-		{{ range .Data.Terms.Alphabetical }}
+		{{ range .Data.Terms.ByCount }}
 			<article class="section2Content">
-				<h2 class="sectionContentTitle"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
-				<p class="sectionContent">{{ .Page.Content | truncate 300 }}</p>			</article>
+				<h2 class="sectionContentTitle"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span style="font-weight:normal;">({{.Count}})</span></h2>
+				<p class="sectionContent">{{ .Page.Summary }}</p>			</article>
 		{{ end }}
 	</section>
 {{ end }}
