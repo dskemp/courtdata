@@ -9,7 +9,7 @@ justices:
 - 1991thomas
 - 1986scalia
 advocates:
-- Neal K. Katyal
+- Neal Kumar Katyal
 - Anthony A. Yang
 - Jeffrey L. Fisher
 - Stephen R. McAllister
