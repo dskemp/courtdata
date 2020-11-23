@@ -9,7 +9,7 @@ justices:
 - 2009sotomayor
 advocates:
 - Ian H. Gershengorn
-- Neal K. Katyal
+- Neal Kumar Katyal
 tags:
 - Merit Systems Protection Board
 - Whistleblower Protection Act

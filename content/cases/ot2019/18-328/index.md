@@ -7,7 +7,9 @@ publishdate: "2019-12-10"
 justices:
 - 1991thomas
 advocates:
-- 
+- Scott E. Gant
+- Shay Dvoretzky
+- Jonathan C. Bond
 tags:
 - 
 topics:

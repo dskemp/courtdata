@@ -7,7 +7,7 @@ publishdate: "2019-06-20"
 justices:
 - 2006alito
 advocates:
-- Neal K. Katyal
+- Neal Kumar Katyal
 - Michael A. Carvin
 - Jeffrey B. Wall
 - Monica L. Miller

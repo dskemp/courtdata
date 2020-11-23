@@ -11,7 +11,7 @@ justices:
 advocates:
 - William M. Jay
 - John F. Bash
-- Neal K. Katyal
+- Neal Kumar Katyal
 tags:
 - issue preclusion
 - Lanham Act

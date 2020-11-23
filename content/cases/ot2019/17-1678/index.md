@@ -6,6 +6,8 @@ argdate: "2019-11-12"
 publishdate: "2020-02-25"
 justices:
 - 2006alito
+- 1991thomas
+- 1993ginsburg
 advocates:
 - Stephen I. Vladeck
 - Randolph J. Ortega
