@@ -7,7 +7,9 @@ publishdate: "2020-02-26"
 justices:
 - 2006alito
 advocates:
-- 
+- Donald B. Verrilli, Jr
+- Matthew W.H. Wessler
+- Matthew Guarnieri
 tags:
 - 
 topics:

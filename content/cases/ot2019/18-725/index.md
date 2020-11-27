@@ -6,8 +6,10 @@ argdate: "2019-11-04"
 publishdate: "2020-04-23"
 justices:
 - 2018kavanaugh
+- 2009sotomayor
 advocates:
-- 
+- Adam G. Unikowsky
+- Frederick Liu
 tags:
 - 
 topics:

@@ -6,6 +6,8 @@ argdate: "2019-10-16"
 publishdate: "2019-12-10"
 justices:
 - 1991thomas
+- 2009sotomayor
+- 1993ginsburg
 advocates:
 - Scott E. Gant
 - Shay Dvoretzky

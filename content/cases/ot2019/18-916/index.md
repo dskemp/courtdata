@@ -7,7 +7,9 @@ publishdate: "2020-04-20"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Adam H. Charnes
+- Jonathan Y. Ellis
+- Daniel L. Geyser
 tags:
 - 
 topics:

@@ -6,8 +6,10 @@ argdate: "2019-12-09"
 publishdate: "2020-03-23"
 justices:
 - 1994breyer
+- 1991thomas
 advocates:
-- 
+- Paul W. Hughes
+- Frederick Liu
 tags:
 - 
 topics:

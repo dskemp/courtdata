@@ -7,7 +7,8 @@ publishdate: "2020-06-01"
 justices:
 - 1991thomas
 advocates:
-- 
+- Shay Dvoretzky
+- Jonathan Y. Ellis
 tags:
 - 
 topics:

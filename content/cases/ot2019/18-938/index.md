@@ -7,7 +7,9 @@ publishdate: "2020-01-14"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- James K. Lehman
+- Griffin S. Dunham
+- Vikek Suri
 tags:
 - 
 topics:

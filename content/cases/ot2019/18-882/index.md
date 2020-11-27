@@ -6,8 +6,11 @@ argdate: "2020-01-15"
 publishdate: "2020-04-06"
 justices:
 - 2006alito
+- 2009sotomayor
+- 1991thomas
 advocates:
-- 
+- Roman Martinez
+- Noel J. Francisco
 tags:
 - 
 topics:

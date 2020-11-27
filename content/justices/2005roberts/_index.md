@@ -1,8 +1,11 @@
 ---
 name: "John G. Roberts, Jr."
+firstname: "John G."
+lastname: "Roberts, Jr."
 position: "Chief Justice"
 title: "Opinions by Chief Justice John G. Roberts, Jr."
-alias: 2005roberts
+alias: "2005roberts"
+appointeby: "Bush, G.W."
 startdate: 2005-09-29
 enddate: ""
 ---

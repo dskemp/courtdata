@@ -6,8 +6,11 @@ argdate: "2019-11-05"
 publishdate: "2020-03-30"
 justices:
 - 2009sotomayor
+- 1991thomas
 advocates:
-- 
+- Carter G. Phillips
+- Erica L. Ross
+- Thomas C. Goldstein
 tags:
 - 
 topics:

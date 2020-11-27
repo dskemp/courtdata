@@ -7,7 +7,9 @@ publishdate: "2020-02-25"
 justices:
 - 1993ginsburg
 advocates:
-- 
+- Amir C. Tayrani
+- Sopan Joshi
+- Andrew J. Pincus
 tags:
 - 
 topics:

@@ -4,10 +4,6 @@ citation: "589 U.S. ___"
 docket: "18-921"
 argdate: ""
 publishdate: "2020-02-24"
-justices:
-- 
-advocates:
-- 
 tags:
 - 
 topics:

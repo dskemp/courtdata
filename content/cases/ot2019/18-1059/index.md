@@ -7,7 +7,9 @@ publishdate: "2020-05-07"
 justices:
 - 2010kagan
 advocates:
-- 
+- Jacob M. Roth
+- Michael Levy
+- Eric J. Feigin
 tags:
 - 
 topics:

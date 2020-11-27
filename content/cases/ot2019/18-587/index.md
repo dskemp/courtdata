@@ -6,8 +6,14 @@ argdate: "2019-11-12"
 publishdate: "2020-06-18"
 justices:
 - 2005roberts
+- 2009sotomayor
+- 1991thomas
+- 2006alito
+- 2018kavanaugh
 advocates:
-- 
+- Noel J. Francisco
+- Theodore B. Olson
+- Michael J. Mongan
 tags:
 - 
 topics:

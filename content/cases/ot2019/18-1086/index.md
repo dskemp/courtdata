@@ -7,7 +7,8 @@ publishdate: "2020-05-14"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Dale Cendali
+- Michael B. Kimberly
 tags:
 - 
 topics:

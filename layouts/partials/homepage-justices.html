@@ -3,7 +3,7 @@
 	<hr class="sectionTitleRule">
 	<hr class="sectionTitleRule2">
 	<div class="section2Content">
-		<h2 class="sectionContentTitle">Current Sitting Justices</h2>
+		<h2 class="sectionContentTitle">Current Justices of the U.S. Supreme Court</h2>
 		{{ $t := .Site.GetPage "/justices" }}
 		{{ range $t.Pages }} <!--Current Chief-->
 			{{ $enddatestr := .Page.Params.enddate }}
@@ -12,6 +12,7 @@
 				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
 			{{ end }}
 		{{ end }}
+		
 		{{ range $t.Pages }} <!--Current Associates-->
 			{{ $enddatestr := .Page.Params.enddate }}
 			{{ $seat := .Page.Params.position }}
@@ -19,21 +20,33 @@
 				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
 			{{ end }}
 		{{ end }}
-		<h2 class="sectionContentTitle">Previous Justices</h2>
-		{{ range $t.Pages }} <!--Prior Chiefs-->
+		
+		<h2 class="sectionContentTitle">Former Justices of the U.S. Supreme Court</h2>
+		
+		{{ range ($t.Pages.ByParam "enddate").Reverse }} <!--Prior Mix Chiefs and Associates-->
+			{{ $enddatestr := .Page.Params.enddate }}
+			{{ if ne $enddatestr "" }}
+				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
+			{{ end }}
+		{{ end }}
+
+<!--Prior Chiefs>
+		{{ range $t.Pages }}
 			{{ $enddatestr := .Page.Params.enddate }}
 			{{ $seat := .Page.Params.position }}
 			{{ if and (ne $enddatestr "") (eq $seat "Chief Justice") }}
 				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
 			{{ end }}
 		{{ end }}
-		{{ range $t.Pages }} <!--Prior Associates-->
+-->
+<!--Prior Associates>
+		{{ range $t.Pages }}
 			{{ $enddatestr := .Page.Params.enddate }}
 			{{ $seat := .Page.Params.position }}
 			{{ if and (ne $enddatestr "") (ne $seat "Chief Justice") }}
 				<p class="sectionContent"><a href="{{ .Permalink }}">{{ .Params.Position }} {{ .Params.Name }}</a></p>
 			{{ end }}
 		{{ end }}
-
+-->
 	</div>
 </section>

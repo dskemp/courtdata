@@ -7,7 +7,8 @@ publishdate: "2020-04-27"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Paul D. Clement
+- Edwin S. Kneedler
 tags:
 - 
 topics:

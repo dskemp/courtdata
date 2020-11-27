@@ -7,7 +7,8 @@ publishdate: "2019-12-11"
 justices:
 - 2009sotomayor
 advocates:
-- 
+- Malcolm L. Stewart
+- Morgan Chu
 tags:
 - 
 topics:
