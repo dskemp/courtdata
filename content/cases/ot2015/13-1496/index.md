@@ -5,13 +5,9 @@ docket: "13-1496"
 publishdate: "2016-06-23"
 argdate: ""
 justices:
-- 
 advocates:
-- 
 tags:
-- 
 topics:
-- 
 summary: "Judgment affirmed by an equally divided Court."
 ---
 Judgment affirmed by an equally divided Court.

@@ -1,5 +1,6 @@
 ---
 title: "Sarah M. Harris"
+date: 2020-11-25
 firstname: "Sarah M."
 lastname: "Harris"
 alphaname: "harris-sarah-m"

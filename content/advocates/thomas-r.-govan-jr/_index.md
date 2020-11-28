@@ -1,5 +1,6 @@
 ---
 title: "Thomas R. Govan, Jr."
+date: 2020-11-25
 firstname: "Thomas R."
 lastname: "Govan, Jr."
 alphaname: "govan-jr-thomas-r"

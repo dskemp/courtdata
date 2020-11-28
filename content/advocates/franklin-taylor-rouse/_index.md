@@ -1,5 +1,6 @@
 ---
 title: "Franklin Taylor Rouse"
+date: 2020-11-25
 firstname: "Franklin Taylor"
 lastname: "Rouse"
 alphaname: "rouse-franklin-taylor"

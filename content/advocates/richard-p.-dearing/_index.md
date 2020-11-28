@@ -1,5 +1,6 @@
 ---
 title: "Richard P. Dearing"
+date: 2020-11-25
 firstname: "Richard P."
 lastname: "Dearing"
 alphaname: "dearing-richard-p"

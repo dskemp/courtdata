@@ -1,5 +1,6 @@
 ---
 title: "Thomas J. O’Connor"
+date: 2020-11-25
 firstname: "Thomas J."
 lastname: "O’Connor"
 alphaname: "oconnor-thomas-j"

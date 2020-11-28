@@ -1,5 +1,6 @@
 ---
 title: "Pamela S. Karlan"
+date: 2020-11-25
 firstname: "Pamela S."
 lastname: "Karlan"
 alphaname: "karlan-pamela-s"

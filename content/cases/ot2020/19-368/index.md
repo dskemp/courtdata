@@ -5,14 +5,13 @@ docket: "19-368"
 argdate: "2020-10-07"
 publishdate: ""
 justices:
-- 
 advocates:
-- Sean Marotta
-- Deepak Gupta
+- "Sean Marotta"
+- "Deepak Gupta"
 tags:
-- personal jurisdiction
+- "personal jurisdiction"
 topics:
-- civil procedure
+- "civil procedure"
 summary: "At Issue: Whether a state court may exercise personal jurisdiction over a nonresident defendant when none of the defendant’s contacts with that state caused the plaintiff’s claims."
 ---
 **At Issue**: Whether a state court may exercise personal jurisdiction over a nonresident defendant when none of the defendant’s contacts with that state caused the plaintiff’s claims.

@@ -1,5 +1,6 @@
 ---
 title: "Frederick Liu"
+date: 2020-11-25
 firstname: "Frederick"
 lastname: "Liu"
 alphaname: "liu-frederick"

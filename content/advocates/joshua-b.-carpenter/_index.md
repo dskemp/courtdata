@@ -1,5 +1,6 @@
 ---
 title: "Joshua B. Carpenter"
+date: 2020-11-25
 firstname: "Joshua B."
 lastname: "Carpenter"
 alphaname: "carpenter-joshua-b"

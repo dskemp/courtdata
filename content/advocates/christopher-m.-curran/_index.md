@@ -1,5 +1,6 @@
 ---
 title: "Christopher M. Curran"
+date: 2020-11-25
 firstname: "Christopher M."
 lastname: "Curran"
 alphaname: "curran-christopher-m"

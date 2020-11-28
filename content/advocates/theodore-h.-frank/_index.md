@@ -1,5 +1,6 @@
 ---
 title: "Theodore H. Frank"
+date: 2020-11-25
 firstname: "Theodore H."
 lastname: "Frank"
 alphaname: "frank-theodore-h"

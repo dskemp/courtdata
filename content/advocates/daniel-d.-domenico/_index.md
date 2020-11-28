@@ -1,5 +1,6 @@
 ---
 title: "Daniel D. Domenico"
+date: 2020-11-25
 firstname: "Daniel D."
 lastname: "Domenico"
 alphaname: "domenico-daniel-d"

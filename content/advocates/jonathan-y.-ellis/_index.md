@@ -1,5 +1,6 @@
 ---
 title: "Jonathan Y. Ellis"
+date: 2020-11-25
 firstname: "Jonathan Y."
 lastname: "Ellis"
 alphaname: "ellis-jonathan-y"

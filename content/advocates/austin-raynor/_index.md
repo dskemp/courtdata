@@ -1,5 +1,6 @@
 ---
 title: "Austin Raynor"
+date: 2020-11-25
 firstname: "Austin"
 lastname: "Raynor"
 alphaname: "raynor-austin"

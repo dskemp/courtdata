@@ -5,15 +5,12 @@ docket: "18-459"
 argdate: "2019-04-15"
 publishdate: "2019-04-23"
 justices:
-- 
 advocates:
-- Gregory G. Garre
-- Morgan L. Ratner
-- Daniel L. Geyser
+- "Gregory G. Garre"
+- "Morgan L. Ratner"
+- "Daniel L. Geyser"
 tags:
-- 
 topics:
-- 
 summary: "Certiorari dismissed as improvidently granted."
 ---
 Certiorari dismissed as improvidently granted.

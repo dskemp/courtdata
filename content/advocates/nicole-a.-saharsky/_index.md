@@ -1,5 +1,6 @@
 ---
 title: "Nicole A. Saharsky"
+date: 2020-11-25
 firstname: "Nicole A."
 lastname: "Saharsky"
 alphaname: "saharsky-nicole-a"

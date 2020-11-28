@@ -1,5 +1,6 @@
 ---
 title: "Anthony J. Dain"
+date: 2020-11-25
 firstname: "Anthony J."
 lastname: "Dain"
 alphaname: "dain-anthony-j"

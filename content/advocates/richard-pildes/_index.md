@@ -1,5 +1,6 @@
 ---
 title: "Richard Pildes"
+date: 2020-11-25
 firstname: "Richard"
 lastname: "Pildes"
 alphaname: "pildes-richard"

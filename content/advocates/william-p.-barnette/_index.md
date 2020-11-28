@@ -1,5 +1,6 @@
 ---
 title: "William P. Barnette"
+date: 2020-11-25
 firstname: "William P."
 lastname: "Barnette"
 alphaname: "barnette-william-p"

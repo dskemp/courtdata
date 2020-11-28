@@ -1,5 +1,6 @@
 ---
 title: "Dale E. Ho"
+date: 2020-11-25
 firstname: "Dale E."
 lastname: "Ho"
 alphaname: "ho-dale-e"

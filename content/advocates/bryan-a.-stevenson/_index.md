@@ -1,5 +1,6 @@
 ---
 title: "Bryan A. Stevenson"
+date: 2020-11-25
 firstname: "Bryan A."
 lastname: "Stevenson"
 alphaname: "stevenson-bryan-a"

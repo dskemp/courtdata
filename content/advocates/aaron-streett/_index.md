@@ -1,5 +1,6 @@
 ---
 title: "Aaron Streett"
+date: 2020-11-25
 firstname: "Aaron"
 lastname: "Streett"
 alphaname: "streett-aaron"

@@ -1,5 +1,6 @@
 ---
 title: "Kevin K. Russell"
+date: 2020-11-25
 firstname: "Kevin K."
 lastname: "Russell"
 alphaname: "russell-kevin-k"

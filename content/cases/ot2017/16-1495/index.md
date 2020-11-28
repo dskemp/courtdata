@@ -5,13 +5,12 @@ docket: "16-1495"
 argdate: "2018-02-20"
 publishdate: "2018-05-29"
 justices:
-- 
 advocates:
-- 
+- "Toby J. Heytens"
+- "Elizabeth B. Prelogar"
+- "Kelsi B. Corkran"
 tags:
-- 
 topics:
-- 
 summary: "Certiorari dismissed as improvidently granted."
 ---
 Certiorari dismissed as improvidently granted.

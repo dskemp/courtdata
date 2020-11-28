@@ -1,5 +1,6 @@
 ---
 title: "Ruth Botstein"
+date: 2020-11-25
 firstname: "Ruth"
 lastname: "Botstein"
 alphaname: "botstein-ruth"

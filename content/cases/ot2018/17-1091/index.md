@@ -5,14 +5,12 @@ docket: "17-1091"
 argdate: "2018-11-28"
 publishdate: "2019-02-20"
 justices:
-- 1993ginsburg
+- "1993ginsburg"
 advocates:
-- Wesley P. Hottot
-- Thomas M. Fisher
+- "Wesley P. Hottot"
+- "Thomas M. Fisher"
 tags:
-- 
 topics:
-- 
 summary: "The Eighth Amendment’s Excessive Fines Clause is an incorporated protection applicable to the States under the Fourteenth Amendment’s Due Process Clause."
 ---
 The Eighth Amendment’s Excessive Fines Clause is an incorporated protection applicable to the States under the Fourteenth Amendment’s Due Process Clause.

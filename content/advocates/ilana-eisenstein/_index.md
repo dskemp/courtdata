@@ -1,5 +1,6 @@
 ---
 title: "Ilana Eisenstein"
+date: 2020-11-25
 firstname: "Ilana"
 lastname: "Eisenstein"
 alphaname: "eisenstein-ilana"

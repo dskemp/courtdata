@@ -1,5 +1,6 @@
 ---
 title: "Matthew T. Findley"
+date: 2020-11-25
 firstname: "Matthew T."
 lastname: "Findley"
 alphaname: "findley-matthew-t"

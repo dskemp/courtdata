@@ -1,5 +1,6 @@
 ---
 title: "David M. Shapiro"
+date: 2020-11-25
 firstname: "David M."
 lastname: "Shapiro"
 alphaname: "shapiro-david-m"

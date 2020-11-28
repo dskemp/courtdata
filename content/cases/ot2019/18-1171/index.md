@@ -5,13 +5,13 @@ docket: "18-1171"
 argdate: "2019-11-13"
 publishdate: "2020-03-23"
 justices:
-- 2017gorsuch
+- "2017gorsuch"
 advocates:
-- 
+- "Miguel Estrada"
+- "Morgan L. Ratner"
+- "Erwin Chemerinsky"
 tags:
-- 
 topics:
-- 
 summary: "A plaintiff who sues for racial discrimination in contracting under 42 U.S.C. § 1981 bears the burden of showing that race was a but-for cause of the plaintiff’s injury, and that burden remains constant over the life of the lawsuit."
 ---
 A plaintiff who sues for racial discrimination in contracting under 42 U.S.C. § 1981 bears the burden of showing that race was a but-for cause of the plaintiff’s injury, and that burden remains constant over the life of the lawsuit.

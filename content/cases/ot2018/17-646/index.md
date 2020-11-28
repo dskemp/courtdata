@@ -5,15 +5,13 @@ docket: "17-646"
 argdate: "2018-12-06"
 publishdate: "2019-06-17"
 justices:
-- 2006alito
+- "2006alito"
 advocates:
-- Louis A. Chaiten
-- Eric J. Feigin
-- Kyle D. Hawkins
+- "Louis A. Chaiten"
+- "Eric J. Feigin"
+- "Kyle D. Hawkins"
 tags:
-- 
 topics:
-- 
 summary: "The dual sovereignty doctrine—under which two offenses are not the “same offence” for double jeopardy purposes if prosecuted by separate sovereigns—is upheld."
 ---
 The dual sovereignty doctrine—under which two offenses are not the “same offence” for double jeopardy purposes if prosecuted by separate sovereigns—is upheld.

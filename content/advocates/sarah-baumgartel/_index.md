@@ -1,5 +1,6 @@
 ---
 title: "Sarah Baumgartel"
+date: 2020-11-25
 firstname: "Sarah"
 lastname: "Baumgartel"
 alphaname: "baumgartel-sarah"

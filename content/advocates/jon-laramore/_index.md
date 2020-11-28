@@ -1,5 +1,6 @@
 ---
 title: "Jon Laramore"
+date: 2020-11-25
 firstname: "Jon"
 lastname: "Laramore"
 alphaname: "laramore-jon"

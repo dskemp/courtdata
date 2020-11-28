@@ -1,5 +1,6 @@
 ---
 title: "Jeffrey L. Fisher"
+date: 2020-11-25
 firstname: "Jeffrey L."
 lastname: "Fisher"
 alphaname: "fisher-jeffrey-l"

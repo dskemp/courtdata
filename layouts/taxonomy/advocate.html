@@ -3,7 +3,9 @@
     <h1>{{ .Title }}</h1>
     <hr>
     <p>{{ .Content }}</p>
-    <p><em>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</em></p>
+	{{ if ne .Lastmod .Date }}
+		<p><em>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</em></p>
+	{{ end }}
   </section>
 
 {{ end }}

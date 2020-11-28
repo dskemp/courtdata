@@ -1,5 +1,6 @@
 ---
 title: "Samuel R. Bagenstos"
+date: 2020-11-25
 firstname: "Samuel R."
 lastname: "Bagenstos"
 alphaname: "bagenstos-samuel-r"

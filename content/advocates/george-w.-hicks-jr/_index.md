@@ -1,5 +1,6 @@
 ---
 title: "George W. Hicks, Jr."
+date: 2020-11-25
 firstname: "George W."
 lastname: "Hicks, Jr."
 alphaname: "hicks-jr-george-w"

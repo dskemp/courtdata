@@ -1,5 +1,6 @@
 ---
 title: "Caitlin J. Halligan"
+date: 2020-11-25
 firstname: "Caitlin J."
 lastname: "Halligan"
 alphaname: "halligan-caitlin-j"

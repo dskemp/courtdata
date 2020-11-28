@@ -1,5 +1,6 @@
 ---
 title: "Kyle D. Hawkins"
+date: 2020-11-25
 firstname: "Kyle D."
 lastname: "Hawkins"
 alphaname: "hawkins-kyle-d"

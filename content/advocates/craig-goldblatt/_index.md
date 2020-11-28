@@ -1,5 +1,6 @@
 ---
 title: "Craig Goldblatt"
+date: 2020-11-25
 firstname: "Craig"
 lastname: "Goldblatt"
 alphaname: "goldblatt-craig"

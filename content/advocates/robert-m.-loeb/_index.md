@@ -1,5 +1,6 @@
 ---
 title: "Robert M. Loeb"
+date: 2020-11-25
 firstname: "Robert M."
 lastname: "Loeb"
 alphaname: "loeb-robert-m"

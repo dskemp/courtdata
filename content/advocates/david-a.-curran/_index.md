@@ -1,5 +1,6 @@
 ---
 title: "David A. Curran"
+date: 2020-11-25
 firstname: "David A."
 lastname: "Curran"
 alphaname: "curran-david-a"

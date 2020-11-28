@@ -1,5 +1,6 @@
 ---
 title: "D. John Sauer"
+date: 2020-11-25
 firstname: "D. John"
 lastname: "Sauer"
 alphaname: "sauer-d-john"

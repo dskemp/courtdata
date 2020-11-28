@@ -1,5 +1,6 @@
 ---
 title: "F. William Brownell"
+date: 2020-11-25
 firstname: "F. William"
 lastname: "Brownell"
 alphaname: "brownell-f-william"

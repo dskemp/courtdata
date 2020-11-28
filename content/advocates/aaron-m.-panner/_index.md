@@ -1,5 +1,6 @@
 ---
 title: "Aaron M. Panner"
+date: 2020-11-25
 firstname: "Aaron M."
 lastname: "Panner"
 alphaname: "panner-aaron-m"

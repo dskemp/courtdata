@@ -1,5 +1,6 @@
 ---
 title: "Jason Davis"
+date: 2020-11-25
 firstname: "Jason"
 lastname: "Davis"
 alphaname: "davis-jason"

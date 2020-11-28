@@ -1,5 +1,6 @@
 ---
 title: "Eric J. Feigin"
+date: 2020-11-25
 firstname: "Eric J."
 lastname: "Feigin"
 alphaname: "feigin-eric-j"

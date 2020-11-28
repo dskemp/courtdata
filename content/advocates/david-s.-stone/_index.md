@@ -1,5 +1,6 @@
 ---
 title: "David S. Stone"
+date: 2020-11-25
 firstname: "David S."
 lastname: "Stone"
 alphaname: "stone-david-s"

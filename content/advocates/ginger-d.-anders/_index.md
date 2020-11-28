@@ -1,5 +1,6 @@
 ---
 title: "Ginger D. Anders"
+date: 2020-11-25
 firstname: "Ginger D."
 lastname: "Anders"
 alphaname: "anders-ginger-d"

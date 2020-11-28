@@ -1,5 +1,6 @@
 ---
 title: "Douglas N. Letter"
+date: 2020-11-25
 firstname: "Douglas N."
 lastname: "Letter"
 alphaname: "letter-douglas-n"

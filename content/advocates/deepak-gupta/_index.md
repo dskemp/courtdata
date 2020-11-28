@@ -1,5 +1,6 @@
 ---
 title: "Deepak Gupta"
+date: 2020-11-25
 firstname: "Deepak"
 lastname: "Gupta"
 alphaname: "gupta-deepak"

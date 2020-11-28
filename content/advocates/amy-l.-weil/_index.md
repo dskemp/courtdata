@@ -1,5 +1,6 @@
 ---
 title: "Amy L. Weil"
+date: 2020-11-25
 firstname: "Amy L."
 lastname: "Weil"
 alphaname: "weil-amy-l"

@@ -1,5 +1,6 @@
 ---
 title: "Rex A. Sharp"
+date: 2020-11-25
 firstname: "Rex A."
 lastname: "Sharp"
 alphaname: "sharp-rex-a"

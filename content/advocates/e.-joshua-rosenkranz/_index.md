@@ -1,5 +1,6 @@
 ---
 title: "E. Joshua Rosenkranz"
+date: 2020-11-25
 firstname: "E. Joshua"
 lastname: "Rosenkranz"
 alphaname: "rosenkranz-e-joshua"

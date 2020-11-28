@@ -1,5 +1,6 @@
 ---
 title: "Shay Dvoretzky"
+date: 2020-11-25
 firstname: "Shay"
 lastname: "Dvoretzky"
 alphaname: "dvoretzky-shay"

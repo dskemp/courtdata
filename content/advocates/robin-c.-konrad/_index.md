@@ -1,5 +1,6 @@
 ---
 title: "Robin C. Konrad"
+date: 2020-11-25
 firstname: "Robin C."
 lastname: "Konrad"
 alphaname: "konrad-robin-c"

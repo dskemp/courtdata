@@ -1,5 +1,6 @@
 ---
 title: "Catherine Steege"
+date: 2020-11-25
 firstname: "Catherine"
 lastname: "Steege"
 alphaname: "steege-catherine"

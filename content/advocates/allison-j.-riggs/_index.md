@@ -1,5 +1,6 @@
 ---
 title: "Allison J. Riggs"
+date: 2020-11-25
 firstname: "Allison J."
 lastname: "Riggs"
 alphaname: "riggs-allison-j"

@@ -1,5 +1,6 @@
 ---
 title: "Mary L. Bonauto"
+date: 2020-11-25
 firstname: "Mary L."
 lastname: "Bonauto"
 alphaname: "bonauto-mary-l"

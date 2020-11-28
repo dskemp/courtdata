@@ -1,5 +1,6 @@
 ---
 title: "Zane D. Wilson"
+date: 2020-11-25
 firstname: "Zane D."
 lastname: "Wilson"
 alphaname: "wilson-zane-d"

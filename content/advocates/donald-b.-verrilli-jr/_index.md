@@ -1,5 +1,6 @@
 ---
 title: "Donald B. Verrilli, Jr."
+date: 2020-11-25
 firstname: "Donald B."
 lastname: "Verrilli, Jr."
 alphaname: "verrilli-jr-donald-b"

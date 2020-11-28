@@ -5,13 +5,13 @@ docket: "18-6135"
 argdate: "2019-10-07"
 publishdate: "2020-03-23"
 justices:
-- 2010kagan
+- "2010kagan"
 advocates:
-- 
+- "Sarah Schrup"
+- "Toby Crouse"
+- "Elizabeth B. Prelogar"
 tags:
-- 
 topics:
-- 
 summary: "Due process does not require Kansas to adopt an insanity test that turns on a defendant’s ability to recognize that his crime was morally wrong."
 ---
 Due process does not require Kansas to adopt an insanity test that turns on a defendant’s ability to recognize that his crime was morally wrong.

@@ -5,13 +5,13 @@ docket: "18-1323"
 argdate: "2020-03-04"
 publishdate: "2020-06-29"
 justices:
-- 1994breyer
+- "1994breyer"
 advocates:
-- 
+- "Julie Rikelman"
+- "Elizabeth Murrill"
+- "Jeffrey B. Wall"
 tags:
-- 
 topics:
-- 
 summary: "The Fifth Circuit’s judgment, upholding a Louisiana law that requires abortion providers to hold admitting privileges at local hospitals, is reversed."
 ---
 The Fifth Circuit’s judgment, upholding a Louisiana law that requires abortion providers to hold admitting privileges at local hospitals, is reversed.

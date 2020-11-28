@@ -1,5 +1,6 @@
 ---
 title: "Matthew Guarnieri"
+date: 2020-11-25
 firstname: "Matthew"
 lastname: "Guarnieri"
 alphaname: "guarnieri-matthew"

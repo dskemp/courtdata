@@ -1,5 +1,6 @@
 ---
 title: "Masha G. Hansford"
+date: 2020-11-25
 firstname: "Masha G."
 lastname: "Hansford"
 alphaname: "hansford-masha-g"

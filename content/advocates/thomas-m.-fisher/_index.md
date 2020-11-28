@@ -1,5 +1,6 @@
 ---
 title: "Thomas M. Fisher"
+date: 2020-11-25
 firstname: "Thomas M."
 lastname: "Fisher"
 alphaname: "fisher-thomas-m"

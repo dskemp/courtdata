@@ -5,13 +5,13 @@ docket: "19-267"
 argdate: "2020-05-11"
 publishdate: "2020-07-08"
 justices:
-- 2006alito
+- "2006alito"
 advocates:
-- 
+- "Eric C. Rassbach"
+- "Morgan L. Ratner"
+- "Jeffrey L. Fisher"
 tags:
-- 
 topics:
-- 
 summary: "The First Amendment’s Religion Clauses foreclose the adjudication of the employment-discrimination claims of Catholic school teachers Morrissey-Berru and Biel."
 ---
 The First Amendment’s Religion Clauses foreclose the adjudication of the employment-discrimination claims of Catholic school teachers Morrissey-Berru and Biel.

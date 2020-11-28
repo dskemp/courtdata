@@ -1,5 +1,6 @@
 ---
 title: "Krissy C. Nobile"
+date: 2020-11-25
 firstname: "Krissy C."
 lastname: "Nobile"
 alphaname: "nobile-krissy-c"

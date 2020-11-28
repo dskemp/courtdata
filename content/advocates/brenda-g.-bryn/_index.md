@@ -1,5 +1,6 @@
 ---
 title: "Brenda G. Bryn"
+date: 2020-11-25
 firstname: "Brenda G."
 lastname: "Bryn"
 alphaname: "bryn-brenda-g"

@@ -1,5 +1,6 @@
 ---
 title: "Dario Borghesan"
+date: 2020-11-25
 firstname: "Dario"
 lastname: "Borghesan"
 alphaname: "borghesan-dario"

@@ -1,5 +1,6 @@
 ---
 title: "Nowell D. Berreth"
+date: 2020-11-25
 firstname: "Nowell D."
 lastname: "Berreth"
 alphaname: "berreth-nowell-d"

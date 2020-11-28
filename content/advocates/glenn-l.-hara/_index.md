@@ -1,5 +1,6 @@
 ---
 title: "Glenn L. Hara"
+date: 2020-11-25
 firstname: "Glenn L."
 lastname: "Hara"
 alphaname: "hara-glenn-l"

@@ -5,15 +5,15 @@ docket: "14-116"
 publishdate: "2015-05-04"
 argdate: "2015-04-01"
 justices: 
-- 2005roberts
+- "2005roberts"
 advocates:
-- James A. Feldman
-- Zachary D. Tripp
-- Douglas Hallward-Driemeier
+- "James A. Feldman"
+- "Zachary D. Tripp"
+- "Douglas Hallward-Driemeier"
 tags:
-- bankruptcy
-- Chapter 13 bankruptcy
-- final order
+- "bankruptcy"
+- "Chapter 13 bankruptcy"
+- "final order"
 summary: "A bankruptcy court’s order denying confirmation of a debtor’s proposed repayment plan in a Chapter 13 bankruptcy is not a final order that the debtor can immediately appeal."
 ---
 A bankruptcy court’s order denying confirmation of a debtor’s proposed repayment plan in a Chapter 13 bankruptcy is not a final order that the debtor can immediately appeal.

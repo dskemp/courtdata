@@ -1,5 +1,6 @@
 ---
 title: "Stephen I. Vladeck"
+date: 2020-11-25
 firstname: "Stephen I."
 lastname: "Vladeck"
 alphaname: "vladeck-stephen-i"
