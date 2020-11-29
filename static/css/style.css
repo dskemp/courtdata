@@ -94,9 +94,9 @@ header .profileHeader p
 {
 	font-family: sans-serif;
 	color: #666666;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
-	line-height: 1.8;
+	line-height: 1.2;
 	overflow-y: auto;
 }
 
@@ -192,18 +192,18 @@ a:link, a:active, a:visited
 {
 	font-family: sans-serif;
 	color: #666666;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
-	line-height: 1.8;
+	line-height: 1.2;
 }
 
 article.section2Content p
 {
 	font-family: sans-serif;
 	color: #666666;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
-	line-height: 1.8;
+	line-height: 1.2;
 }
 
 .mainContent { display: block; }
