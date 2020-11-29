@@ -1,62 +1,11 @@
-mkdir aaron-d.-lindstrom
-mkdir aaron-streett
-mkdir alyza-d.-lewin
-mkdir andrew-l.-brasher
-mkdir anthony-a.-yang
-mkdir brian-h.-fletcher
-mkdir caitlin-j.-halligan
-mkdir carl-j.-withroe
-mkdir carter-g.-phillips
-mkdir craig-goldblatt
-mkdir curtis-e.-gannon
-mkdir david-a.-cortman
-mkdir david-c.-frederick
-mkdir david-s.-stone
-mkdir dominic-f.-perella
-mkdir douglas-hallward-driemeier
-mkdir edwin-s.-kneedler
-mkdir elaine-j.-goldenberg
-mkdir eric-j.-feigin
-mkdir f.-william-brownell
-mkdir hashim-m.-mooppan
-mkdir ian-h.-gershengorn
-mkdir james-a.-feldman
-mkdir james-m.-piotrowski
-mkdir jeffrey-l.-fisher
-mkdir jeffrey-l.-oldham
-mkdir john-f.-bash
-mkdir john-j.-bursch
-mkdir john-p.-elwood
-mkdir jonathan-d.-hacker
-mkdir joseph-f.-whalen
-mkdir kannon-k.-shanmugam
-mkdir kevin-k.-russell
-mkdir malcolm-l.-stewart
-mkdir mark-c.-fleming
-mkdir mark-r.-thierman
-mkdir mary-l.-bonauto
-mkdir matthew-w.-madden
-mkdir michael-a.-carvin
-mkdir michael-w.-mcconnell
-mkdir neal-k.-katyal
-mkdir nicole-a.-saharsky
-mkdir patrick-r.-wyrick
-mkdir paul-d.-clement
-mkdir paul-m.-smith
-mkdir philip-w.-savrin
-mkdir r.-james-george
-mkdir rachel-p.-kovner
-mkdir robert-c.-montgomery
-mkdir robin-c.-konrad
-mkdir samuel-r.-bagenstos
-mkdir sarah-e.-harrington
-mkdir scott-a.-keller
-mkdir shay-dvoretzky
-mkdir sheila-l.-birnbaum
-mkdir stephen-r.-mcallister
-mkdir thomas-c.-goldstein
-mkdir wendy-m.-ward
-mkdir william-f.-brockman
-mkdir william-m.-jay
-mkdir william-r.-peterson
-mkdir zachary-d.-tripp
+Justices
+
+Advocates
+- Advocates are a taxonomy.
+- Terms are defined as the advocate's full name, including M.I., if any.
+- Omit any trailing periods (e.g., "Jr.")
+- Periodically run add-advs.sh
+	- Copy Hugo-generated list of advocates on front-end.
+	- Run "advocates cleanup and sh.textfactory"
+
+Cases

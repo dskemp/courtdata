@@ -1,5 +1,6 @@
 ---
 title: "Rosemary T. Camkis"
+date: 2020-11-25
 firstname: "Rosemary T."
 lastname: "Camkis"
 alphaname: "camkis-rosemary-t"

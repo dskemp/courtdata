@@ -1,5 +1,6 @@
 ---
 title: "Brandon E. Beck"
+date: 2020-11-25
 firstname: "Brandon E."
 lastname: "Beck"
 alphaname: "beck-brandon-e"

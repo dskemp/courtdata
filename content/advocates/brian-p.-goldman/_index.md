@@ -1,5 +1,6 @@
 ---
 title: "Brian P. Goldman"
+date: 2020-11-25
 firstname: "Brian P."
 lastname: "Goldman"
 alphaname: "goldman-brian-p"

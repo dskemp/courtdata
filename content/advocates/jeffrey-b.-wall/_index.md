@@ -1,9 +1,10 @@
 ---
 title: "Jeffrey B. Wall"
+date: 2020-11-25
+lastmod: 2020-11-27
 firstname: "Jeffrey B."
 lastname: "Wall"
 alphaname: "wall-jeffrey-b"
-lastmod: 2020-11-22
 summary: "Jeffrey B. Wall is the acting Solicitor General of the United States and concurrently the Principal Deputy Solicitor General of the United States."
 ---
 Jeffrey B. Wall is currently acting Solicitor General of the United States and concurrently the Principal Deputy Solicitor General of the United States. President Donald Trump appointed him to the role of acting AG following the resignation of the former Solicitor General Noel Francisco.

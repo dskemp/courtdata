@@ -1,5 +1,6 @@
 ---
 title: "Sean Marotta"
+date: 2020-11-25
 firstname: "Sean"
 lastname: "Marotta"
 alphaname: "marotta-sean"

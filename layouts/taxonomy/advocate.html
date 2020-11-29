@@ -3,7 +3,9 @@
     <h1>{{ .Title }}</h1>
     <hr>
     <p>{{ .Content }}</p>
-    <p><em>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</em></p>
+	{{ if ne .Lastmod .Date }}
+		<p><em>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</em></p>
+	{{ end }}
   </section>
 
 {{ end }}
@@ -12,18 +14,29 @@
 <section class="section2">
 		<h2 class="sectionTitle">Cases Argued by {{ .Title }}</h2>
 		<hr class="sectionTitleRule">
-		<hr class="sectionTitleRule2">
+		<hr class="sectionTitleRule2">{{ $thisAdvocate := . }}
 			{{ range (.Pages.ByParam "argdate").Reverse }}
 					<article class="section2Content">
 						<h2 class="sectionContentTitleCase"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-						<h3 class="sectionContentSubTitle">{{ $this := . }}
+						<h3 class="sectionContentSubTitle" style="font-weight: 600;">{{ $thisPage := . }}
 						{{ with .Params.citation }}
-							{{ . }} ({{ $this.Params.PublishDate.Format "2006" }})
+							{{ . }} ({{ $thisPage.Params.PublishDate.Format "2006" }})
 						{{ end }}
 						{{ if eq .Params.citation "" }}
 							No. {{ .Params.docket }} (argued {{ dateFormat "Jan. 2, 2006" .Params.argdate }})
 						{{ end }}</h3>
-						<p class="sectionContent"> {{ .Summary }} </p>
+						<h3 class="sectionContentSubTitle" style="font-style: italic;">
+							{{ $count := len .Params.advocates }}
+							{{ $advdict := dict (index .Params.advocates 0) (index .Params.roles 0) }}
+							{{ range $i, $count := seq $count }}
+								{{ $advdict := dict (index $thisPage.Params.advocates $i) (index $thisPage.Params.roles $i) }}
+								{{ if in (index $thisPage.Params.advocates $i) $thisAdvocate.Title }}
+									{{ index $advdict $thisAdvocate.Title }}
+								{{ end }}
+							{{ end }}
+							{{ index $advdict $thisAdvocate.Title }}
+						</h3>
+						<p class="sectionContent">{{ .Summary }}</p>
 					</article>
 			{{ end }}
 	</section>

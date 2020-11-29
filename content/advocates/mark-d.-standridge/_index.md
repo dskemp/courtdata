@@ -1,5 +1,6 @@
 ---
 title: "Mark D. Standridge"
+date: 2020-11-25
 firstname: "Mark D."
 lastname: "Standridge"
 alphaname: "standridge-mark-d"

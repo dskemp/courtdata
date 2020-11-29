@@ -1,5 +1,6 @@
 ---
 title: "Edwin S. Kneedler"
+date: 2020-11-25
 firstname: "Edwin S."
 lastname: "Kneedler"
 alphaname: "kneedler-edwin-s"

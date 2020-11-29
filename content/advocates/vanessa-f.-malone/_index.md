@@ -1,5 +1,6 @@
 ---
 title: "Vanessa F. Malone"
+date: 2020-11-25
 firstname: "Vanessa F."
 lastname: "Malone"
 alphaname: "malone-vanessa-f"

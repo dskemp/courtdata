@@ -1,5 +1,6 @@
 ---
 title: "Danielle Spinelli"
+date: 2020-11-25
 firstname: "Danielle"
 lastname: "Spinelli"
 alphaname: "spinelli-danielle"

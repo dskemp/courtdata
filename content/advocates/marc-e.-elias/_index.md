@@ -1,5 +1,6 @@
 ---
 title: "Marc E. Elias"
+date: 2020-11-25
 firstname: "Marc E."
 lastname: "Elias"
 alphaname: "elias-marc-e"

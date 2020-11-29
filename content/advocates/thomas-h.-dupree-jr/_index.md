@@ -1,5 +1,6 @@
 ---
 title: "Thomas H. Dupree, Jr."
+date: 2020-11-25
 firstname: "Thomas H."
 lastname: "Dupree, Jr."
 alphaname: "dupree-jr-thomas-h"

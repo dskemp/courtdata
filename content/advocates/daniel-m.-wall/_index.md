@@ -1,5 +1,6 @@
 ---
 title: "Daniel M. Wall"
+date: 2020-11-25
 firstname: "Daniel M."
 lastname: "Wall"
 alphaname: "wall-daniel-m"

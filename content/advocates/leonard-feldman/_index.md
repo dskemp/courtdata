@@ -1,5 +1,6 @@
 ---
 title: "Leonard Feldman"
+date: 2020-11-25
 firstname: "Leonard"
 lastname: "Feldman"
 alphaname: "feldman-leonard"

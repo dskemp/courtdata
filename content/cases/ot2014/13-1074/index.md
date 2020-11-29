@@ -5,17 +5,20 @@ docket: "13-1074"
 argdate: "2014-12-10"
 publishdate: "2015-04-22"
 justices:
-- 2010kagan
-- 2006alito
+- "2010kagan"
+- "2006alito"
 advocates:
-- Roman Martinez
-- Eric Schnapper
+- "Roman Martinez"
+- "Eric Schnapper"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
-- Federal Tort Claims Act
-- time bar
-- equitable tolling
+- "Federal Tort Claims Act"
+- "time bar"
+- "equitable tolling"
 topics:
-- injury law
+- "injury law"
 summary: "Because the Federal Tort Claims Act’s filing deadlines—two years to present an administrative claim and six months to file suit challenging the denial of such claim, 28 U.S.C. § 2401(b)—are nonjurisdictional, they are subject to equitable tolling."
 ---
 Because the Federal Tort Claims Act’s filing deadlines—two years to present an administrative claim and six months to file suit challenging the denial of such claim, 28 U.S.C. § 2401(b)—are nonjurisdictional, they are subject to equitable tolling.

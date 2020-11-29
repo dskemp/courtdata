@@ -1,5 +1,6 @@
 ---
 title: "David L. Henkin"
+date: 2020-11-25
 firstname: "David L."
 lastname: "Henkin"
 alphaname: "henkin-david-l"

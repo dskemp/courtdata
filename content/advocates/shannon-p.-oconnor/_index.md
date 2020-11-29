@@ -1,5 +1,6 @@
 ---
 title: "Shannon P. O’Connor"
+date: 2020-11-25
 firstname: "Shannon P."
 lastname: "O’Connor"
 alphaname: "oconnor-shannon-p"

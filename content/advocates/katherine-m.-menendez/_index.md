@@ -1,5 +1,6 @@
 ---
 title: "Katherine M. Menendez"
+date: 2020-11-25
 firstname: "Katherine M."
 lastname: "Menendez"
 alphaname: "menendez-katherine-m"

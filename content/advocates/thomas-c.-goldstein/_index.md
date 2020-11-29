@@ -1,5 +1,6 @@
 ---
 title: "Thomas C. Goldstein"
+date: 2020-11-25
 firstname: "Thomas C."
 lastname: "Goldstein"
 alphaname: "goldstein-thomas-c"

@@ -5,15 +5,17 @@ docket: "17-1657"
 argdate: "2019-02-20"
 publishdate: "2019-05-20"
 justices:
-- 2010kagan
+- "2010kagan"
 advocates:
-- Danielle Spinelli
-- Zachary D. Tripp
-- Douglas Hallward-Driemeier
+- "Danielle Spinelli"
+- "Zachary D. Tripp"
+- "Douglas Hallward-Driemeier"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
-- 
 topics:
-- 
 summary: "A bankruptcy debtor’s rejection of an executory contract under 11 U.S.C. § 365 has the same effect as a breach of that contract outside bankruptcy; such an act thus cannot rescind rights that the contract previously granted."
 ---
 A bankruptcy debtor’s rejection of an executory contract under 11 U.S.C. § 365 has the same effect as a breach of that contract outside bankruptcy; such an act thus cannot rescind rights that the contract previously granted.

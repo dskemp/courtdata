@@ -1,5 +1,6 @@
 ---
 title: "Sanjay Narayan"
+date: 2020-11-25
 firstname: "Sanjay"
 lastname: "Narayan"
 alphaname: "narayan-sanjay"

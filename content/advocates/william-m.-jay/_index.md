@@ -1,5 +1,6 @@
 ---
 title: "William M. Jay"
+date: 2020-11-25
 firstname: "William M."
 lastname: "Jay"
 alphaname: "jay-william-m"

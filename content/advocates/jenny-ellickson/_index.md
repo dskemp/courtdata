@@ -1,5 +1,6 @@
 ---
 title: "Jenny Ellickson"
+date: 2020-11-25
 firstname: "Jenny"
 lastname: "Ellickson"
 alphaname: "ellickson-jenny"

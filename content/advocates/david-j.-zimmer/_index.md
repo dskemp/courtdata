@@ -1,5 +1,6 @@
 ---
 title: "David J. Zimmer"
+date: 2020-11-25
 firstname: "David J."
 lastname: "Zimmer"
 alphaname: "zimmer-david-j"

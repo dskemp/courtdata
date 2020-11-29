@@ -1,5 +1,6 @@
 ---
 title: "Paul M. Smith"
+date: 2020-11-25
 firstname: "Paul M."
 lastname: "Smith"
 alphaname: "smith-paul-m"

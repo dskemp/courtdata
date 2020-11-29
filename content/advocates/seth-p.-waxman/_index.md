@@ -1,5 +1,6 @@
 ---
 title: "Seth P. Waxman"
+date: 2020-11-25
 firstname: "Seth P."
 lastname: "Waxman"
 alphaname: "waxman-seth-p"

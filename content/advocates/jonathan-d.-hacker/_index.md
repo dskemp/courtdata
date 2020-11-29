@@ -1,5 +1,6 @@
 ---
 title: "Jonathan D. Hacker"
+date: 2020-11-25
 firstname: "Jonathan D."
 lastname: "Hacker"
 alphaname: "hacker-jonathan-d"

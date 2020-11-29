@@ -1,5 +1,6 @@
 ---
 title: "Beth S. Brinkmann"
+date: 2020-11-25
 firstname: "Beth S."
 lastname: "Brinkmann"
 alphaname: "brinkmann-beth-s"

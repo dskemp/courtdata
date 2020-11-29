@@ -5,16 +5,20 @@ docket: "13-1371"
 argdate: "2015-01-21"
 publishdate: "2015-06-25"
 justices:
-- 1988kennedy
-- 1991thomas
-- 2006alito
+- "1988kennedy"
+- "1991thomas"
+- "2006alito"
 advocates:
-- Scott A. Keller
-- Michael M. Daniel
-- Donald B. Verrilli, Jr
+- "Scott A. Keller"
+- "Michael M. Daniel"
+- "Donald B. Verrilli, Jr"
+roles:
+- "Solicitor General of Texas, on behalf of the Petitioners"
+- "on behalf of the Respondent"
+- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
-- disparate impact
-- Fair Housing Act
+- "disparate impact"
+- "Fair Housing Act"
 summary: "Disparate-impact claims are cognizable under the Fair Housing Act."
 ---
 Disparate-impact claims are cognizable under the Fair Housing Act.

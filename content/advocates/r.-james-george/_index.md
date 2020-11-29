@@ -1,5 +1,6 @@
 ---
 title: "R. James George"
+date: 2020-11-25
 firstname: "R. James"
 lastname: "George"
 alphaname: "george-r-james"

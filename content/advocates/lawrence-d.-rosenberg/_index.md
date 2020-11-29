@@ -1,5 +1,6 @@
 ---
 title: "Lawrence D. Rosenberg"
+date: 2020-11-25
 firstname: "Lawrence D."
 lastname: "Rosenberg"
 alphaname: "rosenberg-lawrence-d"

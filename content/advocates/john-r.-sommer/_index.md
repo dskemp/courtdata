@@ -1,5 +1,6 @@
 ---
 title: "John R. Sommer"
+date: 2020-11-25
 firstname: "John R."
 lastname: "Sommer"
 alphaname: "sommer-john-r"

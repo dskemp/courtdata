@@ -1,5 +1,6 @@
 ---
 title: "Paul D. Clement"
+date: 2020-11-25
 firstname: "Paul D."
 lastname: "Clement"
 alphaname: "clement-paul-d"

@@ -1,5 +1,6 @@
 ---
 title: "Charles J. Cooper"
+date: 2020-11-25
 firstname: "Charles J."
 lastname: "Cooper"
 alphaname: "cooper-charles-j"

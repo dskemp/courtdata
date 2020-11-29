@@ -1,5 +1,6 @@
 ---
 title: "Robert Hochman"
+date: 2020-11-25
 firstname: "Robert"
 lastname: "Hochman"
 alphaname: "hochman-robert"

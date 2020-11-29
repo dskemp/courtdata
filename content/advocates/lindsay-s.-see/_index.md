@@ -1,5 +1,6 @@
 ---
 title: "Lindsay S. See"
+date: 2020-11-25
 firstname: "Lindsay S."
 lastname: "See"
 alphaname: "see-lindsay-s"

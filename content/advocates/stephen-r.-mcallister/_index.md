@@ -1,5 +1,6 @@
 ---
 title: "Stephen R. McAllister"
+date: 2020-11-25
 firstname: "Stephen R."
 lastname: "McAllister"
 alphaname: "mcallister-stephen-r"

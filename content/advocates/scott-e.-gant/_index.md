@@ -1,5 +1,6 @@
 ---
 title: "Scott E. Gant"
+date: 2020-11-25
 firstname: "Scott E."
 lastname: "Gant"
 alphaname: "gant-scott-e"

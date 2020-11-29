@@ -1,5 +1,6 @@
 ---
 title: "Nicholas J. Bronni"
+date: 2020-11-25
 firstname: "Nicholas J."
 lastname: "Bronni"
 alphaname: "bronni-nicholas-j"

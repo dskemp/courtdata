@@ -5,14 +5,15 @@ docket: "17-340"
 argdate: "2018-10-03"
 publishdate: "2019-01-15"
 justices:
-- 2017gorsuch
+- "2017gorsuch"
 advocates:
-- Theodore J. Boutrous, Jr
-- Jennifer D. Bennett
+- "Theodore J. Boutrous, Jr"
+- "Jennifer D. Bennett"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
-- 
 topics:
-- 
 summary: "A court should determine whether the Federal Arbitration Act’s § 1 exclusion for disputes involving the “contracts of employment” of certain transportation workers applies before ordering arbitration; here, truck driver Oliveira’s independent contractor operating agreement with New Prime falls within that exception."
 ---
 A court should determine whether the Federal Arbitration Act’s § 1 exclusion for disputes involving the “contracts of employment” of certain transportation workers applies before ordering arbitration; here, truck driver Oliveira’s independent contractor operating agreement with New Prime falls within that exception.

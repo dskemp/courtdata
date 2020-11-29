@@ -1,5 +1,6 @@
 ---
 title: "Michele M. Vercoski"
+date: 2020-11-25
 firstname: "Michele M."
 lastname: "Vercoski"
 alphaname: "vercoski-michele-m"

@@ -1,5 +1,6 @@
 ---
 title: "Stephanos Bibas"
+date: 2020-11-25
 firstname: "Stephanos"
 lastname: "Bibas"
 alphaname: "bibas-stephanos"

@@ -1,5 +1,6 @@
 ---
 title: "Derek Schmidt"
+date: 2020-11-25
 firstname: "Derek"
 lastname: "Schmidt"
 alphaname: "schmidt-derek"

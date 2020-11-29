@@ -1,5 +1,6 @@
 ---
 title: "Erwin Chemerinsky"
+date: 2020-11-25
 firstname: "Erwin"
 lastname: "Chemerinsky"
 alphaname: "chemerinsky-erwin"

@@ -1,5 +1,6 @@
 ---
 title: "Michael M. Daniel"
+date: 2020-11-25
 firstname: "Michael M."
 lastname: "Daniel"
 alphaname: "daniel-michael-m"

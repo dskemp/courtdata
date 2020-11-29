@@ -1,5 +1,6 @@
 ---
 title: "Wendy M. Ward"
+date: 2020-11-25
 firstname: "Wendy M."
 lastname: "Ward"
 alphaname: "ward-wendy-m"

@@ -1,5 +1,6 @@
 ---
 title: "Kenneth K. Jorgensen"
+date: 2020-11-25
 firstname: "Kenneth K."
 lastname: "Jorgensen"
 alphaname: "jorgensen-kenneth-k"

@@ -1,5 +1,6 @@
 ---
 title: "Douglas Hallward-Driemeier"
+date: 2020-11-25
 firstname: "Douglas"
 lastname: "Hallward-Driemeier"
 alphaname: "hallward-driemeier-douglas"

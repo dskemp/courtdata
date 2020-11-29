@@ -1,5 +1,6 @@
 ---
 title: "Carter G. Phillips"
+date: 2020-11-25
 firstname: "Carter G."
 lastname: "Phillips"
 alphaname: "phillips-carter-g"

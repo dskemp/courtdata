@@ -1,5 +1,6 @@
 ---
 title: "Douglas Laycock"
+date: 2020-11-25
 firstname: "Douglas"
 lastname: "Laycock"
 alphaname: "laycock-douglas"

@@ -1,5 +1,6 @@
 ---
 title: "Aaron D. Lindstrom"
+date: 2020-11-25
 firstname: "Aaron D."
 lastname: "Lindstrom"
 alphaname: "lindstrom-aaron-d"

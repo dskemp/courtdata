@@ -5,16 +5,20 @@ docket: "12-1497"
 argdate: "2015-01-13"
 publishdate: "2015-05-26"
 justices:
-- 2006alito
+- "2006alito"
 advocates:
-- John P. Elwood
-- David S. Stone
-- Malcolm L. Stewart
+- "John P. Elwood"
+- "David S. Stone"
+- "Malcolm L. Stewart"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
+- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
-- False Claims Act
-- Wartime Suspension of Limitations Act
+- "False Claims Act"
+- "Wartime Suspension of Limitations Act"
 topics:
-- qui tam
+- "qui tam"
 summary: "The Wartime Suspension of Limitations Act—which suspends “the running of any statute of limitations applicable to any offense” involving fraud against the Federal Government, 18 U.S.C. § 3287—applies only to criminal offenses; the False Claims Act—which prohibits making false or fraudulent claims for federal payments—keeps qui tam suits “based on the facts underlying [a] pending action,” 31 U.S.C. § 3730(b)(5), out of court only while the related claims are still alive."
 ---
 The Wartime Suspension of Limitations Act—which suspends “the running of any statute of limitations applicable to any offense” involving fraud against the Federal Government, 18 U.S.C. § 3287—applies only to criminal offenses; the False Claims Act—which prohibits making false or fraudulent claims for federal payments—keeps qui tam suits “based on the facts underlying [a] pending action,” 31 U.S.C. § 3730(b)(5), out of court only while the related claims are still alive.

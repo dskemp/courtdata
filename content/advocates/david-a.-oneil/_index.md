@@ -1,5 +1,6 @@
 ---
 title: "David A. O’Neil"
+date: 2020-11-25
 firstname: "David A."
 lastname: "O’Neil"
 alphaname: "oneil-david-a"

@@ -1,5 +1,6 @@
 ---
 title: "Barry Richard"
+date: 2020-11-25
 firstname: "Barry"
 lastname: "Richard"
 alphaname: "richard-barry"

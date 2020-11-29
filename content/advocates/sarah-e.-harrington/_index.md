@@ -1,5 +1,6 @@
 ---
 title: "Sarah E. Harrington"
+date: 2020-11-25
 firstname: "Sarah E."
 lastname: "Harrington"
 alphaname: "harrington-sarah-e"

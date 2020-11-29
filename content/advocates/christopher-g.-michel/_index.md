@@ -1,5 +1,6 @@
 ---
 title: "Christopher G. Michel"
+date: 2020-11-25
 firstname: "Christopher G."
 lastname: "Michel"
 alphaname: "michel-christopher-g"

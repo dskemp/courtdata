@@ -1,5 +1,6 @@
 ---
 title: "Joseph R. Palmore"
+date: 2020-11-25
 firstname: "Joseph R."
 lastname: "Palmore"
 alphaname: "palmore-joseph-r"

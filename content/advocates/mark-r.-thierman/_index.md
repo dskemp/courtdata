@@ -1,5 +1,6 @@
 ---
 title: "Mark R. Thierman"
+date: 2020-11-25
 firstname: "Mark R."
 lastname: "Thierman"
 alphaname: "thierman-mark-r"

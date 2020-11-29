@@ -1,5 +1,6 @@
 ---
 title: "Neal Kumar Katyal"
+date: 2020-11-25
 firstname: "Neal Kumar"
 lastname: "Katyal"
 alphaname: "katyal-neal-kumar"

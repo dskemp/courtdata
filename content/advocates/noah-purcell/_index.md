@@ -1,5 +1,6 @@
 ---
 title: "Noah Purcell"
+date: 2020-11-25
 firstname: "Noah"
 lastname: "Purcell"
 alphaname: "purcell-noah"

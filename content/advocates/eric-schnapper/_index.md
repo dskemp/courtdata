@@ -1,5 +1,6 @@
 ---
 title: "Eric Schnapper"
+date: 2020-11-25
 firstname: "Eric"
 lastname: "Schnapper"
 alphaname: "schnapper-eric"

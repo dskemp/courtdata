@@ -1,5 +1,6 @@
 ---
 title: "F. Paul Bland"
+date: 2020-11-25
 firstname: "F. Paul"
 lastname: "Bland"
 alphaname: "bland-f-paul"

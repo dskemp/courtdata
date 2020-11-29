@@ -1,5 +1,6 @@
 ---
 title: "George S. Isaacson"
+date: 2020-11-25
 firstname: "George S."
 lastname: "Isaacson"
 alphaname: "isaacson-george-s"

@@ -1,4 +1,5 @@
+{{ $this := . }}
 {{ with .Params.advocates }}
 	<p><span>Advocates:</span></p>
-	<ul style="list-style-type: none;">{{ range . }}<li style="line-height:1.8"><a href="/advocates/{{ . | urlize }}">{{ . }}</a></li>{{ end }}</ul>
+	<ul style="list-style-type: none; padding-left: 0px;">{{ range $index, $element := . }} <li style="margin: 1em 0em;"><a style="font-weight: 500;" href="/advocates/{{ . | urlize }}">{{ . }}</a>, {{ index $this.Params.roles $index }}</li>{{ end }}</ul>
 {{ end }}

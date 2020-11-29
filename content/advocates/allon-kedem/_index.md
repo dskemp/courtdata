@@ -1,5 +1,6 @@
 ---
 title: "Allon Kedem"
+date: 2020-11-25
 firstname: "Allon"
 lastname: "Kedem"
 alphaname: "kedem-allon"

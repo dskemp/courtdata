@@ -1,5 +1,6 @@
 ---
 title: "John L. Badalamenti"
+date: 2020-11-25
 firstname: "John L."
 lastname: "Badalamenti"
 alphaname: "badalamenti-john-l"

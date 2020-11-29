@@ -1,5 +1,6 @@
 ---
 title: "Randolph L. Schaffer, Jr."
+date: 2020-11-25
 firstname: "Randolph L."
 lastname: "Schaffer, Jr."
 alphaname: "schaffer-jr-randolph-l"

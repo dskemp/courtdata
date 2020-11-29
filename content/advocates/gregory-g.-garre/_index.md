@@ -1,5 +1,6 @@
 ---
 title: "Gregory G. Garre"
+date: 2020-11-25
 firstname: "Gregory G."
 lastname: "Garre"
 alphaname: "garre-gregory-g"

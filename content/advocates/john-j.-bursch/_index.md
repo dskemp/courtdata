@@ -1,5 +1,6 @@
 ---
 title: "John J. Bursch"
+date: 2020-11-25
 firstname: "John J."
 lastname: "Bursch"
 alphaname: "bursch-john-j"

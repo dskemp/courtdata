@@ -5,14 +5,15 @@ docket: "17-1471"
 argdate: "2019-01-15"
 publishdate: "2019-05-28"
 justices:
-- 1991thomas
+- "1991thomas"
 advocates:
-- William P. Barnette
-- F. Paul Bland
+- "William P. Barnette"
+- "F. Paul Bland"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
-- 
 topics:
-- 
 summary: "Neither the general removal provision, 28 U.S.C. § 1441(a), nor the removal provision in the Class Action Fairness Act of 2005, § 1453(b), permit a third-party counterclaim defendant to remove a class-action claim from state to federal court."
 ---
 Neither the general removal provision, 28 U.S.C. § 1441(a), nor the removal provision in the Class Action Fairness Act of 2005, § 1453(b), permit a third-party counterclaim defendant to remove a class-action claim from state to federal court.

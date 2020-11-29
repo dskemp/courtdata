@@ -1,5 +1,6 @@
 ---
 title: "David L. Finger"
+date: 2020-11-25
 firstname: "David L."
 lastname: "Finger"
 alphaname: "finger-david-l"

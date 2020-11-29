@@ -5,17 +5,20 @@ docket: "13-534"
 argdate: "2014-10-14"
 publishdate: "2015-02-25"
 justices:
-- 1988kennedy
-- 2006alito
+- "1988kennedy"
+- "2006alito"
 advocates:
-- Hashim M. Mooppan
-- Malcolm L. Stewart
+- "Hashim M. Mooppan"
+- "Malcolm L. Stewart"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
-- Federal Trade Commission
-- Federal Trade Commission Act
-- Sherman Act
+- "Federal Trade Commission"
+- "Federal Trade Commission Act"
+- "Sherman Act"
 topics:
-- antitrust law
+- "antitrust law"
 summary: "Because a controlling number of the North Carolina State Board of Dental Examiners’ decisionmakers are active market participants in the occupation the Board regulates, the Board can invoke state-action antitrust immunity only if it was subject to active supervision by the State, and here that requirement is not met."
 ---
 Because a controlling number of the North Carolina State Board of Dental Examiners’ decisionmakers are active market participants in the occupation the Board regulates, the Board can invoke state-action antitrust immunity only if it was subject to active supervision by the State, and here that requirement is not met.

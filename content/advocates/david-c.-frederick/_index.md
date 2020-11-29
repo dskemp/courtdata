@@ -1,5 +1,6 @@
 ---
 title: "David C. Frederick"
+date: 2020-11-25
 firstname: "David C."
 lastname: "Frederick"
 alphaname: "frederick-david-c"

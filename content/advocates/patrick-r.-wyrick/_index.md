@@ -1,5 +1,6 @@
 ---
 title: "Patrick R. Wyrick"
+date: 2020-11-25
 firstname: "Patrick R."
 lastname: "Wyrick"
 alphaname: "wyrick-patrick-r"

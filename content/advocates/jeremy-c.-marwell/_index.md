@@ -1,5 +1,6 @@
 ---
 title: "Jeremy C. Marwell"
+date: 2020-11-25
 firstname: "Jeremy C."
 lastname: "Marwell"
 alphaname: "marwell-jeremy-c"

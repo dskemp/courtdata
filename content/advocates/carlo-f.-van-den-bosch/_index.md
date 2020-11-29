@@ -1,5 +1,6 @@
 ---
 title: "Carlo F. Van den Bosch"
+date: 2020-11-25
 firstname: "Carlo F."
 lastname: "Van den Bosch"
 alphaname: "van-den-bosch-carlo-f"

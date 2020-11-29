@@ -1,5 +1,6 @@
 ---
 title: "Elizabeth Prelogar"
+date: 2020-11-25
 firstname: "Elizabeth"
 lastname: "Prelogar"
 alphaname: "prelogar-elizabeth"
