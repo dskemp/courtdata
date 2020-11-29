@@ -10,6 +10,10 @@ advocates:
 - "Noah Purcell"
 - "Ann O’Connell"
 - "Adam G. Unikowsky"
+roles:
+- "Washington State Solicitor General, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Supreme Court of Washington’s judgment—that the “right to travel” provision of the 1855 Treaty Between the United States and the Yakama Nation of Indians pre-empts the State’s fuel tax as applied to Cougar Den’s importation of fuel by public highway for sale within the reservation—is affirmed."

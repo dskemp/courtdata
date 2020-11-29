@@ -10,6 +10,10 @@ advocates:
 - "Lisa S. Blatt"
 - "Rachel P. Kovner"
 - "David C. Frederick"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "A railroad’s payment to an employee for working time lost due to an on-the-job injury is taxable “compensation” under the Railroad Retirement Tax Act."

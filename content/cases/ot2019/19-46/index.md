@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Erica L. Ross"
 - "Lisa S. Blatt"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "A term styled “generic.com” is a generic name for a class of goods or services—and thus ineligible for federal trademark protection—only if the term has that meaning to consumers."

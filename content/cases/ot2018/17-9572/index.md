@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Sheri Lynn Johnson"
 - "Jason Davis"
+roles:
+- "on behalf of the Petitioner"
+- "Special Assistant Attorney General, Mississippi, on behalf of the Respondent"
 tags:
 topics:
 summary: "The trial court at Flowers’ sixth murder trial committed clear error in concluding that the State’s peremptory strike of a particular black prospective juror was not motivated in substantial part by discriminatory intent."

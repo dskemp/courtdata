@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Matthew W. Madden"
 - "Craig Goldblatt"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "bankruptcy"
 - "Chapter 13 bankruptcy"

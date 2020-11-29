@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Gregory G. Rapawy"
 - "Malcolm L. Stewart"
+roles:
+- "on behalf of the Petitioners"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 topics:
 summary: "In a Securities and Exchange Commission enforcement action, a disgorgement award that does not exceed a wrongdoer’s net profits and is awarded for victims is equitable relief permissible under 15 U.S.C. § 78u(d)(5)."

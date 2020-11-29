@@ -12,6 +12,10 @@ advocates:
 - "Aaron Streett"
 - "Brian H. Fletcher"
 - "Jeffrey L. Oldham"
+roles:
+- "on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "on behalf of the Respondent"
 tags:
 - "bankruptcy"
 - "attorney’s fees"

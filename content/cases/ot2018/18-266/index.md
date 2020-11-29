@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Seth P. Waxman"
 - "David C. Frederick"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "A plaintiff may not recover punitive damages on a maritime claim of unseaworthiness."

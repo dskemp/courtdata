@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Adam G. Unikowsky"
 - "Shay Dvoretzky"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The retroactive application of Minnesota’s revocation-on-divorce statute—which automatically nullifies an ex-spouse’s beneficiary designation on a life-insurance policy or other will substitute—does not violate the Contracts Clause."

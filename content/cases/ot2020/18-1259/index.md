@@ -9,6 +9,10 @@ advocates:
 - "David M. Shapiro"
 - "Krissy C. Nobile"
 - "Frederick Liu"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "Eighth Amendment"
 topics:

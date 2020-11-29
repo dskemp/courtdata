@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Eric J. Feigin"
 - "Brandon E. Beck"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Assistant Federal Public Defender, on behalf of the Respondents"
 tags:
 topics:
 summary: "Title 18 U.S.C. § 924(c)(3)(B), which provides enhanced penalties for using a firearm during a “crime of violence,” is unconstitutionally vague."

@@ -10,6 +10,10 @@ advocates:
 - "Paul W. Hughes"
 - "Carlo F. Van den Bosch"
 - "Sarah E. Harrington"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 - "trademark"
 topics:

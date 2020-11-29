@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Shay Dvoretzky"
 - "Thomas C. Goldstein"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "In the maritime tort context, a product manufacturer has a duty to warn when its product requires incorporation of a part, the manufacturer knows or has reason to know that the integrated product is likely to be dangerous for its intended uses, and the manufacturer has no reason to believe that the product’s users will realize that danger."

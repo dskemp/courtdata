@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Franklin Taylor Rouse"
 - "Ann O’Connell"
+roles:
+- "on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 topics:
 summary: "Title 16 U.S.C. § 831c(b), which serves to waive the Tennessee Valley Authority’s sovereign immunity from suit, is not subject to a discretionary function exception of the kind in the Federal Tort Claims Act."

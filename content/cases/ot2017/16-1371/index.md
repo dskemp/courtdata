@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Robert M. Loeb"
 - "Eric J. Feigin"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 topics:
 summary: "The mere fact that a driver in lawful possession or control of a rental car is not listed on the rental agreement will not defeat his or her otherwise reasonable expectation of privacy protected by the Fourth Amendment."

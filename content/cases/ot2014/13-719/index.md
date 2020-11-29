@@ -11,6 +11,9 @@ justices:
 advocates:
 - "Nowell D. Berreth"
 - "Rex A. Sharp"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 - "removal jurisdiction"
 topics:

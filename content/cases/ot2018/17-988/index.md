@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Andrew J. Pincus"
 - "Michele M. Vercoski"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 - "Federal Arbitration Act"
 topics:

@@ -14,6 +14,9 @@ justices:
 advocates:
 - "Andrew J. Pincus"
 - "Barry Richard"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "First Amendment"
 - "judicial conduct"

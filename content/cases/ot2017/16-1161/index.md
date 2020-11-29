@@ -10,6 +10,10 @@ advocates:
 - "Misha Tseytlin"
 - "Erin E. Murphy"
 - "Paul M. Smith"
+roles:
+- "Solicitor General of Wisconsin, on behalf of the Appellants"
+- "for Wisconsin State Senate, et al., as amici curiae"
+- "on behalf of the Appellees"
 tags:
 topics:
 summary: "Plaintiffs—Wisconsin Democratic voters who rested their claim of unconstitutional partisan gerrymandering on statewide injury—have failed to demonstrate Article III standing."

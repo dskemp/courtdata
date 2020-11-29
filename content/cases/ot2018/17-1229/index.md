@@ -10,6 +10,10 @@ advocates:
 - "Kannon K. Shanmugam"
 - "Malcolm L. Stewart"
 - "William M. Jay"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "The sale of an invention to a third party who is obligated to keep the invention confidential may place the invention “on sale” for purposes of the Leahy-Smith America Invents Act, which bars a person from receiving a patent on an invention that was “in public use, on sale, or otherwise available to the public before the effective filing date of the claimed invention,” 35 U.S.C. § 102(a)(1)."

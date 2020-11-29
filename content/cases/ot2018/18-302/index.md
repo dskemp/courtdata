@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Malcolm L. Stewart"
 - "John R. Sommer"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Lanham Act prohibition on the registration of “immoral” or “scandalous” trademarks infringes the First Amendment."

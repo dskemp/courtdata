@@ -10,6 +10,10 @@ advocates:
 - "Aaron M. Panner"
 - "Peter K. Stris"
 - "Jonathan Y. Ellis"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "Registration occurs, and a copyright claimant may commence an infringement suit, when the Copyright Office registers a copyright."

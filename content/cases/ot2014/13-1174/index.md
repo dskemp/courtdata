@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Thomas C. Goldstein"
 - "Seth P. Waxman"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondents"
 tags:
 - "multidistrict litigation"
 - "final order"

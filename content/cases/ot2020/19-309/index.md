@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Michael W. McConnell"
 - "David L. Finger"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "First Amendment"
 summary: "At Issue: Whether a state law that effectively limits state judicial service to members of the Democratic and Republican parties violates the First Amendment."

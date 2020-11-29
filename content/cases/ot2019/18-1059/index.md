@@ -10,6 +10,10 @@ advocates:
 - "Jacob M. Roth"
 - "Michael Levy"
 - "Eric J. Feigin"
+roles:
+- "on behalf of the Petitioner"
+- "for Respondent William E. Baroni, Jr., in support of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 topics:
 summary: "Because the scheme to reduce the number of George Washington Bridge toll lanes dedicated to Fort Lee, New Jersey, morning commuters as political retribution against Fort Lee’s mayor did not aim to obtain money or property from the federal Port Authority, Baroni and Kelly could not have violated the federal-program fraud or wire fraud laws."

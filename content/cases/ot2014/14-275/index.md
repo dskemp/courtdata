@@ -12,6 +12,9 @@ justices:
 advocates:
 - "Michael W. McConnell"
 - "Edwin S. Kneedler"
+roles:
+- "on behalf of the Petitioners"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 - "Takings Clause"
 - "Fifth Amendment"

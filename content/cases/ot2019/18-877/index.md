@@ -11,6 +11,9 @@ justices:
 advocates:
 - "Derek L. Shaffer"
 - "Ryan Park"
+roles:
+- "on behalf of the Petitioners"
+- "Deputy Solicitor General, North Carolina, on behalf of the Respondents"
 tags:
 - "Copyright Remedy Clarification Act of 1990"
 - "abrogation"

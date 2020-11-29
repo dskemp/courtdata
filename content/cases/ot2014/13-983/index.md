@@ -11,6 +11,9 @@ justices:
 advocates:
 - "John P. Elwood"
 - "Michael R. Dreeben"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 - "First Amendment"
 - "criminal intent"

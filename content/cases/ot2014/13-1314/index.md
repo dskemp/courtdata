@@ -13,6 +13,10 @@ advocates:
 - "Paul D. Clement"
 - "Eric J. Feigin"
 - "Seth P. Waxman"
+roles:
+- "on behalf of the Appellant"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Appellees"
+- "on behalf of the Appellees"
 tags:
 - "Elections Clause"
 - "congressional redistricting"

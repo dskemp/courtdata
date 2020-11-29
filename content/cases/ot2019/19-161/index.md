@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Edwin S. Kneedler"
 - "Lee Gelernt"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "As applied here, 8 U.S.C. § 1252(e)(2)—which limits the habeas review obtainable by an alien detained for expedited removal—does not violate the Suspension or Due Process Clauses."

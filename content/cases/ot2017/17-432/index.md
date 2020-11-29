@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Seth A. Aronson"
 - "David C. Frederick"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "Upon denial of class certification, a putative class member may not, in lieu of promptly joining an existing suit or promptly filing an individual action, commence a class action anew beyond the time allowed by the applicable statute of limitations."

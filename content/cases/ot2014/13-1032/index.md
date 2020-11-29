@@ -11,6 +11,9 @@ justices:
 advocates:
 - "George S. Isaacson"
 - "Daniel D. Domenico"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General of Colorado, on behalf of the Respondent"
 tags:
 - "Tax Injunction Act"
 topics:

@@ -13,6 +13,10 @@ advocates:
 - "Elbert Lin"
 - "Malcolm L. Stewart"
 - "David L. Henkin"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondents"
 tags:
 - "Environmental Protection Agency"
 - "Clean Water Act"

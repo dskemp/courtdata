@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Erica L. Ross"
 - "Jeffrey L. Fisher"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "The term “burglary” in the Armed Career Criminal Act includes burglary of a structure or vehicle that has been adapted or is customarily used for overnight accommodation."

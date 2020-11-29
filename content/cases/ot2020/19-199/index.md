@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Sarah M. Harris"
 - "Austin Raynor"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 - "Railroad Unemployment Insurance Act"
 - "Railroad Retirement Act"

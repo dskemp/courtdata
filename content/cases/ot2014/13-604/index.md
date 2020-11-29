@@ -12,6 +12,10 @@ advocates:
 - "Jeffrey L. Fisher"
 - "Robert C. Montgomery"
 - "Rachel P. Kovner"
+roles:
+- "on behalf of the Petitioner"
+- "Senior Deputy Attorney General of North Carolina, on behalf of the Respondent"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "Fourth Amendment"
 - "reasonable suspicion"

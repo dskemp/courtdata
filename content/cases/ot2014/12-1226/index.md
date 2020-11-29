@@ -13,6 +13,10 @@ advocates:
 - "Samuel R. Bagenstos"
 - "Donald B. Verrilli, Jr"
 - "Caitlin J. Halligan"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "Pregnancy Discrimination Act"
 - "Civil Rights Act of 1964"

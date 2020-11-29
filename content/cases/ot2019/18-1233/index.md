@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Lisa S. Blatt"
 - "Neal Kumar Katyal"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "A plaintiff in a trademark infringement suit is not required to show that a defendant willfully infringed the plaintiff’s trademark as a precondition to an award of profits."

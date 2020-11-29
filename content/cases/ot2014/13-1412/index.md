@@ -11,6 +11,10 @@ advocates:
 - "Christine Van Aken"
 - "Ian H. Gershengorn"
 - "Leonard Feldman"
+roles:
+- "Deputy City Attorney, on behalf of the Petitioners"
+- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting vacatur in part and reversal in part"
+- "on behalf of the Respondent"
 tags:
 - "qualified immunity"
 topics:

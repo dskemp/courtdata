@@ -13,6 +13,11 @@ advocates:
 - "Eric Schnapper"
 - "Donald B. Verrilli, Jr"
 - "Andrew L. Brasher"
+roles:
+- "on behalf of the Appellants"
+- "on behalf of the Appellants"
+- "Solicitor General, Department of Justice, for the United States, as amicus curiae"
+- "Solicitor General of Alabama, on behalf of the Appellees"
 tags:
 - "racial gerrymandering"
 - "Fourteenth Amendment"

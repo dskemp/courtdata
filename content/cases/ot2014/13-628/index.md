@@ -13,6 +13,9 @@ justices:
 advocates:
 - "Alyza D. Lewin"
 - "Donald B. Verrilli, Jr"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 - "Foreign Relations Authorization Act"
 topics:

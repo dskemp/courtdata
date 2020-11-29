@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Michael B. Kimberly"
 - "Steven M. Sullivan"
+roles:
+- "on behalf of the Appellants"
+- "Solicitor General of Maryland, on behalf of the Appellees"
 tags:
 topics:
 summary: "Because the balance of equities and the public interest tilt against the preliminary injunction motion of plaintiffs claiming that a Maryland congressional district was gerrymandered to retaliate against them for their political views, the District Court did not abuse its discretion in denying the motion."

@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Danielle Spinelli"
 - "Stephanos Bibas"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 - "Chapter 7 Bankruptcy"
 topics:

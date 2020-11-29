@@ -11,6 +11,9 @@ justices:
 advocates:
 - "Ian H. Gershengorn"
 - "Shay Dvoretzky"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "Title VII"
 - "employment discrimination"

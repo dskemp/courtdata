@@ -14,6 +14,10 @@ advocates:
 - "Noel J. Francisco"
 - "Theodore B. Olson"
 - "Michael J. Mongan"
+roles:
+- "Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "on behalf of the private Respondent"
+- "on behalf of the state Respondents"
 tags:
 topics:
 summary: "The Department of Homeland Security’s decision to rescind the Deferred Action for Childhood Arrivals program was arbitrary and capricious under the Administrative Procedure Act."

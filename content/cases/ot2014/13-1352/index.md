@@ -12,6 +12,10 @@ advocates:
 - "Matthew E. Meyer"
 - "Ilana Eisenstein"
 - "Jeffrey L. Fisher"
+roles:
+- "Assistant Prosecuting Attorney, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "Sixth Amendment"
 - "Confrontation Clause"

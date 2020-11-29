@@ -10,6 +10,10 @@ advocates:
 - "George W. Hicks, Jr"
 - "Frederick Liu"
 - "John G. Knepper"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Chief Deputy Attorney General of Wyoming, on behalf of the Respondent"
 tags:
 topics:
 summary: "Wyoming’s statehood did not abrogate the Crow Tribe’s 1868 federal treaty right to hunt on the “unoccupied lands of the United States”; the lands of the Bighorn National Forest did not become categorically “occupied” when the forest was created."

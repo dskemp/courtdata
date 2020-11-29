@@ -10,6 +10,10 @@ advocates:
 - "E. Joshua Rosenkranz"
 - "Jeffrey L. Fisher"
 - "Jonathan C. Bond"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "State and local governments are covered employers under the Age Discrimination in Employment Act of 1967 regardless of the number of employees they have."

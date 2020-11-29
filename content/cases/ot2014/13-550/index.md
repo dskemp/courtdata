@@ -10,6 +10,10 @@ advocates:
 - "David C. Frederick"
 - "Nicole A. Saharsky"
 - "Jonathan D. Hacker"
+roles:
+- "on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "on behalf of the Respondents"
 tags:
 - "Employee Retirement Income Security Act of 1974"
 - "fiduciary duty"

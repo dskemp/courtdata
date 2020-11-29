@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Jonathan A. Herstoff"
 - "Damien G. Stewart"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "The Seventh Circuit erred in treating as jurisdictional Federal Rule of Appellate Procedure 4(a)(5)(C)’s 30-day limitation on extensions of time to file a notice of appeal."

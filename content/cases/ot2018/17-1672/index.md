@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Eric J. Feigin"
 - "William D. Lunn"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Tenth Circuit’s judgment—that 18 U.S.C. § 3583(k)’s last two sentences are unconstitutional and unenforceable—is vacated, and the case is remanded."

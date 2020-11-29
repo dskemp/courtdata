@@ -10,6 +10,10 @@ advocates:
 - "J. David Breemer"
 - "Noel J. Francisco"
 - "Teresa Ficken Sachs"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "A government violates the Takings Clause when it takes property without compensation, and a property owner may bring a Fifth Amendment claim under 42 U.S.C. § 1983 at that time; the state-litigation requirement of Williamson County Regional Planning Comm’n v. Hamilton Bank of Johnson City, 473 U.S. 172, is overruled."

@@ -10,6 +10,10 @@ advocates:
 - "Scott E. Gant"
 - "Ann O’Connell"
 - "Pratik A. Shah"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondents"
+- "on behalf of the Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians Respondent"
 tags:
 topics:
 summary: "The D. C. Circuit’s judgment affirming the dismissal of Patchak’s suit—which challenged the Secretary of the Interior’s Indian Reorganization Act authority to take land into trust—for lack of jurisdiction in light of Congress’ enactment of the Gun Lake Trust Land Reaffirmation Act is affirmed."

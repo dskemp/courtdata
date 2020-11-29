@@ -10,6 +10,10 @@ advocates:
 - "Neal Kumar Katyal"
 - "Jeffrey B. Wall"
 - "Thomas J. O’Connor"
+roles:
+- "on behalf of the Petitioner"
+- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, in support of reversal"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The statute of limitations for McDonough’s 42 U.S.C. § 1983 fabricated-evidence claim against his prosecutor began to run when the criminal proceedings against him terminated in his favor—that is, when he was acquitted at the end of his second trial."

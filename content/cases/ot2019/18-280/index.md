@@ -11,6 +11,10 @@ advocates:
 - "Paul D. Clement"
 - "Jeffrey B. Wall"
 - "Richard P. Dearing"
+roles:
+- "on behalf of the Petitioners"
+- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "Petitioners’ claim for declaratory and injunctive relief with respect to the City’s old rule on transporting firearms is moot, and any claim for damages with respect to that rule may be addressed in the first instance by the Court of Appeals and the District Court on remand."

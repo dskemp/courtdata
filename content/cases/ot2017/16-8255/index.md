@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Seth P. Waxman"
 - "Elizabeth Murrill"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General of Louisiana, on behalf of the Respondent"
 tags:
 topics:
 summary: "The Sixth Amendment guarantees a defendant the right to choose the objective of his defense and to insist that his counsel refrain from admitting guilt, even when counsel’s experienced-based view is that confessing guilt offers the defendant the best chance to avoid the death penalty."

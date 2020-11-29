@@ -10,6 +10,9 @@ justices:
 advocates:
 - "Ian H. Gershengorn"
 - "Neal Kumar Katyal"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "Merit Systems Protection Board"
 - "Whistleblower Protection Act"

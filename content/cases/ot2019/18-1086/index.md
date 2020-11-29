@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Dale Cendali"
 - "Michael B. Kimberly"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "Because the trademark action at issue challenged different conduct—and raised different claims—from an earlier action between the parties, Marcel cannot preclude Lucky Brand from raising new defenses, including a defense that Lucky Brand failed to press fully in the earlier suit."

@@ -12,6 +12,10 @@ advocates:
 - "Toby Crouse"
 - "Michael R. Huston"
 - "Sarah E. Harrington"
+roles:
+- "Solicitor General, Kansas, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "When a police officer lacks information negating an inference that a person driving is the vehicle’s owner, an investigative traffic stop made after running the vehicle’s license plate and learning that the registered owner’s driver’s license has been revoked is reasonable under the Fourth Amendment."

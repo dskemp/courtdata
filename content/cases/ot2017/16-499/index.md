@@ -10,6 +10,10 @@ advocates:
 - "Jeffrey L. Fisher"
 - "Brian H. Fletcher"
 - "Paul D. Clement"
+roles:
+- "on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Second Circuit’s judgment—that foreign corporations may not be defendants in suits brought under the Alien Tort Statute—is affirmed."

@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Mark E. Olive"
 - "Sarah Hawkins Warren"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General of Georgia, on behalf of the Respondent"
 tags:
 topics:
 summary: "A federal habeas court reviewing an unexplained state-court decision on the merits should “look through” that decision to the last related state-court decision that provides a relevant rationale and presume that the unexplained decision adopted the same reasoning; the State may rebut the presumption by showing that the unexplained decision most likely relied on different grounds than the reasoned decision below."

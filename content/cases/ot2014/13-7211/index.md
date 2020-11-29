@@ -10,6 +10,9 @@ justices:
 advocates:
 - "Randolph L. Schaffer, Jr"
 - "Andrew S. Oldham"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General of Texas, on behalf of the Respondent"
 tags:
 - "habeas corpus"
 - "Sixth Amendment"

@@ -10,6 +10,9 @@ justices:
 advocates:
 - "Hashim M. Mooppan"
 - "Malcolm L. Stewart"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 - "Federal Trade Commission"
 - "Federal Trade Commission Act"

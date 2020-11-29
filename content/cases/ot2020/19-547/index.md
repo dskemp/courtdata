@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Matthew Guarnieri"
 - "Sanjay Narayan"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 - "Freedom of Information Act"
 - "Endangered Species Act of 1973"

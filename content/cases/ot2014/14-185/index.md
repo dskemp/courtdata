@@ -11,6 +11,10 @@ advocates:
 - "Mark C. Fleming"
 - "Anthony A. Yang"
 - "William R. Peterson"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent in support of reversal and remand"
+- "for the Court-appointed amicus curiae, supporting the judgment below"
 tags:
 - "immigration"
 - "removal"

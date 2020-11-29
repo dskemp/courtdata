@@ -9,6 +9,11 @@ justices:
 advocates:
 - "Shay Dvoretzky"
 - "Jonathan Y. Ellis"
+- "Jonathan D. Hacker"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Convention on the Recognition and Enforcement of Foreign Arbitral Awards does not conflict with domestic equitable estoppel doctrines that permit the enforcement of arbitration agreements by nonsignatories to those agreements."

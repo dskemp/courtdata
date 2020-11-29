@@ -10,6 +10,10 @@ advocates:
 - "Daniel R. Ortiz"
 - "Anthony A. Yang"
 - "Amy L. Weil"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, in support of reversal and remand"
+- "Court-appointed amicus curiae, in support of the judgment below"
 tags:
 topics:
 summary: "The Social Security Act’s fee cap of 25% of past-due benefits imposed on attorneys who successfully represent Title II benefit claimants in court proceedings applies only to fees for court representation and not to aggregate fees for both court and agency representation."

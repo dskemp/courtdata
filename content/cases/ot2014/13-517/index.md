@@ -10,6 +10,10 @@ advocates:
 - "Kannon K. Shanmugam"
 - "Sheila L. Birnbaum"
 - "Sarah E. Harrington"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "Federal Rules of Evidence"
 - "jury trial"

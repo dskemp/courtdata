@@ -11,6 +11,10 @@ advocates:
 - "Paul D. Clement"
 - "Curtis E. Gannon"
 - "Mark R. Thierman"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondents"
 tags:
 - "Fair Labor Standards Act of 1938"
 topics:

@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Seth P. Waxman"
 - "Erwin Chemerinsky"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "Nevada v. Hall, 440 U.S. 410, is overruled; States retain their sovereign immunity from private suits brought in courts of other States."

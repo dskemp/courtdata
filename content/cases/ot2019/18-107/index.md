@@ -9,9 +9,13 @@ justices:
 - "2006alito"
 - "2018kavanaugh"
 advocates:
-- "Pamela S. Karlan"
-- "Jeffrey M. Harris"
+- "David D. Cole"
+- "John J. Bursch"
 - "Noel J. Francisco"
+roles:
+- "on behalf of Respondent Aimee Stephens"
+- "on behalf of the Petitioner"
+- "Solicitor General, Department of Justice, on behalf of Respondent EEOC, supporting reversal"
 tags:
 topics:
 summary: "An employer who fires an individual merely for being gay or transgender violates Title VII of the Civil Rights Act of 1964."

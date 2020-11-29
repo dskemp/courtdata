@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Philip J. Weiser"
 - "Jason Harrow"
+roles:
+- "Attorney General of Colorado, on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "The Tenth Circuit’s judgment is reversed for the reasons stated in Chiafalo v. Washington, 591 U.S. ___."

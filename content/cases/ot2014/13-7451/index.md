@@ -11,6 +11,9 @@ justices:
 advocates:
 - "John L. Badalamenti"
 - "Roman Martinez"
+roles:
+- "Assistant Federal Defender, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 - "fishing"
 - "conservation"

@@ -12,6 +12,10 @@ advocates:
 - "Douglas Laycock"
 - "Anthony A. Yang"
 - "David A. Curran"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Deputy Attorney General of Arkansas, on behalf of the Respondent"
 tags:
 - "Religious Land Use and Institutionalized Persons Act of 2000"
 summary: "The Arkansas Department of Correction’s grooming policy, which generally prohibits inmates from growing beards, violates the Religious Land Use and Institutionalized Persons Act of 2000 (RLUIPA) insofar as it prevents petitioner, a devout Muslim, from growing a ½-inch beard in accordance with his religious beliefs."

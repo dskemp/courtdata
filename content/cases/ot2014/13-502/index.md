@@ -13,6 +13,10 @@ advocates:
 - "David A. Cortman"
 - "Eric J. Feigin"
 - "Philip W. Savrin"
+roles:
+- "on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "on behalf of the Respondents"
 tags:
 - "strict scrutiny"
 - "First Amendment"

@@ -9,6 +9,10 @@ advocates:
 - "Toby J. Heytens"
 - "Elizabeth B. Prelogar"
 - "Kelsi B. Corkran"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "Certiorari dismissed as improvidently granted."

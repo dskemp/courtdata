@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Andrew C. Simpson"
 - "Neal Kumar Katyal"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "When one of several cases consolidated under Federal Rule of Civil Procedure 42(a) is finally decided, that decision confers upon the losing party the immediate right to appeal, regardless of whether any of the other consolidated cases remain pending."

@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Sean Marotta"
 - "Deepak Gupta"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 - "personal jurisdiction"
 topics:

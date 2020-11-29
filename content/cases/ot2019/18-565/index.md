@@ -11,6 +11,10 @@ advocates:
 - "Carter G. Phillips"
 - "Erica L. Ross"
 - "Thomas C. Goldstein"
+roles:
+- "on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondent"
+- "on behalf of the private Respondents"
 tags:
 topics:
 summary: "The plain language of the safe-berth clause in the parties’ subcharter agreement—requiring petitioners to designate a safe berth for a vessel to load and discharge cargo—establishes a warranty of safety."

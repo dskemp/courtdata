@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Mitchell P. Reich"
 - "Michael R. Huston"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
 tags:
 topics:
 summary: "The rule of In re Bob Richards Chrysler-Plymouth Corp., 473 F.2d 262—which specifies how federal tax refund proceeds should be allocated among members of an affiliated group of corporations that file a consolidated return—is not a legitimate exercise of federal common lawmaking."

@@ -10,6 +10,10 @@ advocates:
 - "Eric E. Murphy"
 - "Noel J. Francisco"
 - "Paul M. Smith"
+roles:
+- "State Solicitor for Ohio, on behalf of the Petitioner"
+- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "The process that Ohio uses to remove voters on change-of-residence grounds does not violate the National Voter Registration Act."

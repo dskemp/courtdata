@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Edwin S. Kneedler"
 - "Pratik A. Shah"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "Because the Department of Health and Human Services neglected its statutory notice-and-comment obligations when it revealed a new policy that dramatically—and retroactively—reduced Medicare payments to hospitals serving low-income patients, its policy must be vacated."

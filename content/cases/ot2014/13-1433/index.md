@@ -11,6 +11,9 @@ justices:
 advocates:
 - "Michael B. DeSanctis"
 - "Premila Burns"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "death penalty"
 - "habeas corpus"

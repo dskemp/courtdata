@@ -12,6 +12,10 @@ advocates:
 - "Scott A. Keller"
 - "Michael M. Daniel"
 - "Donald B. Verrilli, Jr"
+roles:
+- "Solicitor General of Texas, on behalf of the Petitioners"
+- "on behalf of the Respondent"
+- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "disparate impact"
 - "Fair Housing Act"

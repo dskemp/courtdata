@@ -11,6 +11,10 @@ advocates:
 - "Andrew L. Brasher"
 - "Elaine J. Goldenberg"
 - "Carter G. Phillips"
+roles:
+- "Solicitor General of Alabama, on behalf of the Petitioners"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "on behalf of the Respondent"
 tags:
 - "Railroad Revitalization and Regulation Reform Act of 1976"
 - "dormant Commerce Clause"

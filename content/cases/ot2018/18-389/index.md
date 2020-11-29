@@ -10,6 +10,10 @@ advocates:
 - "Paul D. Clement"
 - "Christopher G. Michel"
 - "David C. Frederick"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "Under the Outer Continental Shelf Lands Act, where federal law addresses the relevant issue, state law is not adopted as surrogate federal law on the Outer Continental Shelf."

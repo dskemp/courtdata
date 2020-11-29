@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Jeffrey L. Fisher"
 - "Elizabeth Murrill"
+roles:
+- "on behalf of the Petitioner"
+- "Solicitor General, Louisiana, on behalf of the Respondent"
 tags:
 topics:
 summary: "The Louisiana Court of Appeal’s holding that nonunanimous jury verdicts are constitutional is reversed."

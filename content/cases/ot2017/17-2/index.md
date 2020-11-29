@@ -8,6 +8,9 @@ justices:
 advocates:
 - "Michael R. Dreeben"
 - "E. Joshua Rosenkranz"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Second Circuit’s judgment is vacated, and the case is remanded with instructions to dismiss the case as moot."

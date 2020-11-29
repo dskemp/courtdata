@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Timothy S. Bishop"
 - "Edwin S. Kneedler"
+roles:
+- "on behalf of the Petitioner"
+- "Deputy Solicitor General, Department of Justice, on behalf of the Respondents"
 tags:
 topics:
 summary: "An area is eligible for designation as “critical habitat” under the Endangered Species Act of 1973 only if it is habitat for the listed species; and the Secretary of the Interior’s decision not to exclude an area from critical habitat under 16 U.S.C. § 1533(b)(2) is subject to judicial review."

@@ -13,6 +13,10 @@ advocates:
 - "William F. Brockman"
 - "Eric J. Feigin"
 - "Dominic F. Perella"
+roles:
+- "Acting Solicitor General of Maryland, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "on behalf of the Respondents"
 tags:
 - "dormant Commerce Clause"
 - "income tax"

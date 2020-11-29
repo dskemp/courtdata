@@ -10,6 +10,9 @@ justices:
 advocates:
 - "Allyson N. Ho"
 - "Julia P. Clark"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondents"
 tags:
 - "collective-bargaining agreement"
 - "Employee Retirement Income Security Act of 1974"

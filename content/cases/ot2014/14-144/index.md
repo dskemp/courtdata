@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Scott A. Keller"
 - "R. James George"
+roles:
+- "Solicitor General of Texas, on behalf of the Petitioners"
+- "on behalf of the Respondents"
 tags:
 - "government speech"
 summary: "Texas’s specialty license plate designs constitute government speech, and thus Texas was entitled to refuse to issue respondents’ proposed plates featuring a Confederate battle flag."

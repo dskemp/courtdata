@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Kannon K. Shanmugam"
 - "Daniel L. Geyser"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The “wholly groundless” exception to the general rule that courts must enforce contracts that delegate threshold arbitrability questions to an arbitrator, not a court, is inconsistent with the Federal Arbitration Act and this Court’s precedent."

@@ -12,6 +12,10 @@ advocates:
 - "Stephen I. Vladeck"
 - "Randolph J. Ortega"
 - "Jeffrey B. Wall"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
+- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "A cross-border shooting by a United States Border Patrol agent does not give rise to a damages claim pursuant to Bivens v. Six Unknown Fed. Narcotics Agents, 403 U.S. 388."

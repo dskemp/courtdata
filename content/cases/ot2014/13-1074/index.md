@@ -10,6 +10,9 @@ justices:
 advocates:
 - "Roman Martinez"
 - "Eric Schnapper"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 - "Federal Tort Claims Act"
 - "time bar"

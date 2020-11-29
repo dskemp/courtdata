@@ -11,6 +11,9 @@ justices:
 advocates:
 - "Curtis E. Gannon"
 - "Thomas H. Dupree, Jr"
+roles:
+- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 - "Amtrak"
 - "Federal Railroad Administration"

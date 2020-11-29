@@ -12,6 +12,10 @@ advocates:
 - "Wendy M. Ward"
 - "John F. Bash"
 - "Paul D. Clement"
+roles:
+- "on behalf of the Petitioner"
+- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting affirmance"
+- "on behalf of the Respondents"
 tags:
 - "Section 1983"
 - "excessive force"

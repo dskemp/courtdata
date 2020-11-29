@@ -9,6 +9,9 @@ justices:
 advocates:
 - "Malcolm L. Stewart"
 - "Morgan Chu"
+roles:
+- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "The Patent and Trademark Office cannot recover the salaries of its legal personnel as “expenses” in civil actions brought by patent applicants pursuant to 35 U.S.C. § 145."
