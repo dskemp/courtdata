@@ -7,7 +7,7 @@ publishdate: "2018-01-22"
 justices:
 - 1993ginsburg
 advocates:
-- "Adam J. Unikowsky"
+- "Adam G. Unikowsky"
 - "Loren L. Alikhan"
 roles:
 - "on behalf of the Petitioner"
