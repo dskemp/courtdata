@@ -5,7 +5,7 @@ docket: "18-481"
 argdate: "2019-04-22"
 publishdate: "2019-06-24"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Evan A. Young"
 - "Anthony A. Yang"

@@ -5,7 +5,7 @@ docket: "13-1019"
 argdate: "2015-01-13"
 publishdate: "2015-04-29"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Thomas C. Goldstein"
 - "Nicole A. Saharsky"
@@ -17,7 +17,7 @@ tags:
 - "Title VII"
 - "Civil Rights Act of 1964"
 - "sex discrimination"
-- "conciliation"
+- conciliation
 - "judicial review of agency action"
 topics:
 - "employment law"

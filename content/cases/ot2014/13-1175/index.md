@@ -5,9 +5,9 @@ docket: "13-1175"
 argdate: "2015-03-03"
 publishdate: "2015-06-22"
 justices:
-- "2009sotomayor"
-- "1986scalia"
-- "2006alito"
+- 2009sotomayor
+- 1986scalia
+- 2006alito
 advocates:
 - "E. Joshua Rosenkranz"
 - "Michael R. Dreeben"

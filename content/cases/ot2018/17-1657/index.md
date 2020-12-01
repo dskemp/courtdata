@@ -5,7 +5,7 @@ docket: "17-1657"
 argdate: "2019-02-20"
 publishdate: "2019-05-20"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Danielle Spinelli"
 - "Zachary D. Tripp"

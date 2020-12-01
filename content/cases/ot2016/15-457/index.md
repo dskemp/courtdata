@@ -3,10 +3,15 @@ title: "Microsoft Corp. v. Baker"
 citation: "582 U.S. ___"
 docket: "15-457"
 publishdate: "2017-06-12"
-argdate: ""
+argdate: "2017-03-21"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
+- "Jeffrey L. Fisher"
+- "Peter K. Stris"
+roles:
+- "on behalf of the Petitioner"
+- "on behalf of the Respondents"
 tags:
 topics:
 summary: "The federal courts of appeals lack jurisdiction under 28 U.S.C. § 1291 to review an order denying class certification (or, as here, an order striking class allegations) after the named plaintiffs have voluntarily dismissed their claims with prejudice."

@@ -5,7 +5,7 @@ docket: "16-969"
 argdate: "2017-11-27"
 publishdate: "2018-04-24"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Gregory A. Castanias"
 - "Jonathan C. Bond"

@@ -5,10 +5,10 @@ docket: "14-275"
 publishdate: "2015-06-22"
 argdate: "2015-04-22"
 justices:
-- "2005roberts"
-- "1991thomas"
-- "1994breyer"
-- "2009sotomayor"
+- 2005roberts
+- 1991thomas
+- 1994breyer
+- 2009sotomayor
 advocates:
 - "Michael W. McConnell"
 - "Edwin S. Kneedler"

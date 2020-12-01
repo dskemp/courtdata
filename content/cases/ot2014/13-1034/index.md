@@ -5,8 +5,8 @@ docket: "13-1034"
 argdate: "2015-01-14"
 publishdate: "2015-06-01"
 justices:
-- "1993ginsburg"
-- "1991thomas"
+- 1993ginsburg
+- 1991thomas
 advocates:
 - "Jon Laramore"
 - "Rachel P. Kovner"

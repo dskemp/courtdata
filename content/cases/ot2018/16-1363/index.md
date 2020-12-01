@@ -5,7 +5,7 @@ docket: "16-1363"
 argdate: "2018-10-10"
 publishdate: "2019-03-19"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Zachary D. Tripp"
 - "Cecillia D. Wang"

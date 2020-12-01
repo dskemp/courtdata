@@ -5,7 +5,7 @@ docket: "17-586"
 argdate: "2018-04-24"
 publishdate: "2018-06-25"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Scott A. Keller"
 - "Edwin S. Kneedler"

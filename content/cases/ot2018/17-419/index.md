@@ -5,7 +5,7 @@ docket: "17-419"
 argdate: "2018-12-03"
 publishdate: "2019-02-20"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Lawrence D. Rosenberg"
 - "Michael R. Huston"

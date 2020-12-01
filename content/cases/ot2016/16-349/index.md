@@ -5,7 +5,7 @@ docket: "16-349"
 publishdate: "2017-06-12"
 argdate: ""
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 tags:
 topics:

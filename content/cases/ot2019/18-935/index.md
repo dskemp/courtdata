@@ -5,7 +5,7 @@ docket: "18-935"
 argdate: "2019-12-11"
 publishdate: "2020-02-25"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Amir C. Tayrani"
 - "Sopan Joshi"

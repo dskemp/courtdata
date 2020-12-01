@@ -5,7 +5,7 @@ docket: "17-587"
 argdate: "2018-10-01"
 publishdate: "2018-11-06"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "E. Joshua Rosenkranz"
 - "Jeffrey L. Fisher"

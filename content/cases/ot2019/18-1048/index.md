@@ -5,7 +5,7 @@ docket: "18-1048"
 argdate: "2020-01-21"
 publishdate: "2020-06-01"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Shay Dvoretzky"
 - "Jonathan Y. Ellis"

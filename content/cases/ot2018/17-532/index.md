@@ -5,7 +5,7 @@ docket: "17-532"
 argdate: "2019-01-08"
 publishdate: "2019-05-20"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "George W. Hicks, Jr"
 - "Frederick Liu"

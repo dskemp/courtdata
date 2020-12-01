@@ -5,9 +5,9 @@ docket: "13-983"
 argdate: "2014-12-01"
 publishdate: "2015-06-01"
 justices:
-- "2005roberts"
-- "2006alito"
-- "1991thomas"
+- 2005roberts
+- 2006alito
+- 1991thomas
 advocates:
 - "John P. Elwood"
 - "Michael R. Dreeben"

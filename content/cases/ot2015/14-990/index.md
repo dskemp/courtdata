@@ -5,7 +5,7 @@ docket: "14-990"
 publishdate: "2015-12-08"
 argdate: ""
 justices:
-- "1986scalia"
+- 1986scalia
 advocates:
 tags:
 topics:

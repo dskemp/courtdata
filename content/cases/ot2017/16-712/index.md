@@ -5,7 +5,7 @@ docket: "16-712"
 argdate: "2017-11-27"
 publishdate: "2018-04-24"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Allyson N. Ho"
 - "Christopher M. Kise"

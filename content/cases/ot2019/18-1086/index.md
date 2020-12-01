@@ -5,7 +5,7 @@ docket: "18-1086"
 argdate: "2020-01-13"
 publishdate: "2020-05-14"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Dale Cendali"
 - "Michael B. Kimberly"

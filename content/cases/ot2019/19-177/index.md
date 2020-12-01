@@ -5,7 +5,7 @@ docket: "19-177"
 argdate: "2020-05-05"
 publishdate: "2020-06-29"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Christopher G. Michel"
 - "David W. Bowker"

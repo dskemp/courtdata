@@ -5,7 +5,7 @@ docket: "17-43"
 argdate: "2018-02-21"
 publishdate: "2018-05-14"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Kannon K. Shanmugam"
 - "Zachary D. Tripp"

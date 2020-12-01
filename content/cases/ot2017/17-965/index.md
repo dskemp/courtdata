@@ -5,7 +5,7 @@ docket: "17-965"
 argdate: "2018-04-25"
 publishdate: "2018-06-26"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Noel J. Francisco"
 - "Neal Kumar Katyal"

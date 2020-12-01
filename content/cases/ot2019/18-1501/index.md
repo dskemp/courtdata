@@ -5,7 +5,7 @@ docket: "18-1501"
 argdate: "2020-03-03"
 publishdate: "2020-06-22"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Gregory G. Rapawy"
 - "Malcolm L. Stewart"

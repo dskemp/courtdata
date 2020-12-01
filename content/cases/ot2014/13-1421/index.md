@@ -5,7 +5,7 @@ docket: "13-1421"
 argdate: "2015-03-24"
 publishdate: "2015-06-01"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Danielle Spinelli"
 - "Stephanos Bibas"

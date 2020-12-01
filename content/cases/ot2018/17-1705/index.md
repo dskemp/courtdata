@@ -5,7 +5,7 @@ docket: "17-1705"
 argdate: "2019-03-25"
 publishdate: "2019-06-20"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Carter G. Phillips"
 - "Glenn L. Hara"

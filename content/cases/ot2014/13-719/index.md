@@ -5,9 +5,9 @@ docket: "13-719"
 argdate: "2014-10-07"
 publishdate: "2014-12-15T00:00:01-00:00"
 justices:
-- "1993ginsburg"
-- "1986scalia"
-- "1991thomas"
+- 1993ginsburg
+- 1986scalia
+- 1991thomas
 advocates:
 - "Nowell D. Berreth"
 - "Rex A. Sharp"

@@ -5,7 +5,7 @@ docket: "141, Orig."
 argdate: "2018-01-08"
 publishdate: "2018-03-05"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Ann O’Connell"
 - "Scott A. Keller"

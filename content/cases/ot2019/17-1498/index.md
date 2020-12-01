@@ -5,9 +5,9 @@ docket: "17-1498"
 argdate: "2019-12-03"
 publishdate: "2020-04-20"
 justices:
-- "2005roberts"
-- "2006alito"
-- "2017gorsuch"
+- 2005roberts
+- 2006alito
+- 2017gorsuch
 advocates:
 - "Lisa S. Blatt"
 - "Christopher G. Michel"

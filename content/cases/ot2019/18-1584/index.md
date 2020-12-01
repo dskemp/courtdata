@@ -5,7 +5,7 @@ docket: "18-1584"
 argdate: "2020-02-24"
 publishdate: "2020-06-15"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Anthony A. Yang"
 - "Paul D. Clement"

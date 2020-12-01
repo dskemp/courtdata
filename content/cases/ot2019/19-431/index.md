@@ -5,7 +5,7 @@ docket: "19-431"
 argdate: "2020-05-06"
 publishdate: "2020-07-08"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Noel J. Francisco"
 - "Paul D. Clement"

@@ -5,7 +5,7 @@ docket: "17-1594"
 argdate: "2019-02-19"
 publishdate: "2019-06-10"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Beth S. Brinkmann"
 - "Malcolm L. Stewart"

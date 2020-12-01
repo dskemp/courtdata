@@ -5,7 +5,7 @@ docket: "16-285"
 argdate: "2017-10-02"
 publishdate: "2018-05-21"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Paul D. Clement"
 - "Jeffrey B. Wall"

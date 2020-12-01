@@ -5,7 +5,7 @@ docket: "18-6943"
 argdate: "2019-12-04"
 publishdate: "2020-06-01"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Brian T. Burgess"
 - "Kyle D. Hawkins"

@@ -5,8 +5,8 @@ docket: "13-1412"
 argdate: "2015-03-23"
 publishdate: "2015-05-18"
 justices:
-- "2006alito"
-- "1986scalia"
+- 2006alito
+- 1986scalia
 advocates:
 - "Christine Van Aken"
 - "Ian H. Gershengorn"

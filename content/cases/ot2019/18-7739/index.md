@@ -5,7 +5,7 @@ docket: "18-7739"
 argdate: "2019-12-10"
 publishdate: "2020-02-26"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Kendall Turner"
 - "Morgan L. Ratner"

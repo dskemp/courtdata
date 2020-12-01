@@ -5,7 +5,7 @@ docket: "16-1150"
 argdate: "2018-01-16"
 publishdate: "2018-03-27"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Andrew C. Simpson"
 - "Neal Kumar Katyal"

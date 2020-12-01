@@ -5,7 +5,7 @@ docket: "17-5716"
 argdate: "2018-03-27"
 publishdate: "2018-06-04"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Jeffrey L. Fisher"
 - "Eric J. Feigin"

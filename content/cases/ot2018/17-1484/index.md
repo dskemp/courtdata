@@ -5,7 +5,7 @@ docket: "17-1484"
 argdate: "2019-01-15"
 publishdate: "2019-06-03"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Edwin S. Kneedler"
 - "Pratik A. Shah"

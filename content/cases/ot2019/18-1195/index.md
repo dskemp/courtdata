@@ -5,7 +5,7 @@ docket: "18-1195"
 argdate: "2020-01-22"
 publishdate: "2020-06-30"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Richard D. Komer"
 - "Jeffrey B. Wall"

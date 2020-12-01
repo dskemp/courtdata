@@ -5,7 +5,7 @@ docket: "13-517"
 argdate: "2014-10-08"
 publishdate: "2014-12-09"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Kannon K. Shanmugam"
 - "Sheila L. Birnbaum"

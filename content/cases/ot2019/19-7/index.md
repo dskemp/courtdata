@@ -5,7 +5,7 @@ docket: "19-7"
 argdate: "2020-03-03"
 publishdate: "2020-06-29"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Kannon K. Shanmugam"
 - "Noel J. Francisco"

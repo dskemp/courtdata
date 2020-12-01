@@ -5,7 +5,7 @@ docket: "17-8995"
 argdate: "2019-02-26"
 publishdate: "2019-06-03"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Vanessa F. Malone"
 - "Jenny Ellickson"

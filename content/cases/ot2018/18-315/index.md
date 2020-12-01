@@ -5,7 +5,7 @@ docket: "18-315"
 argdate: "2019-03-19"
 publishdate: "2019-05-13"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Theodore J. Boutrous, Jr"
 - "Earl N. Mayfield III"

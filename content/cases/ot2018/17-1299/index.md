@@ -5,7 +5,7 @@ docket: "17-1299"
 argdate: "2019-01-09"
 publishdate: "2019-05-13"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Seth P. Waxman"
 - "Erwin Chemerinsky"

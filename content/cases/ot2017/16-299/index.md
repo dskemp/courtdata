@@ -5,7 +5,7 @@ docket: "16-299"
 argdate: "2017-10-11"
 publishdate: "2018-01-22"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Timothy S. Bishop"
 - "Eric E. Murphy"

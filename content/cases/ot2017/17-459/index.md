@@ -5,7 +5,7 @@ docket: "17-459"
 argdate: "2018-04-23"
 publishdate: "2018-06-21"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "David J. Zimmer"
 - "Frederick Liu"

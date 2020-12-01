@@ -5,7 +5,7 @@ docket: "17-1672"
 argdate: "2019-02-26"
 publishdate: "2019-06-26"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Eric J. Feigin"
 - "William D. Lunn"

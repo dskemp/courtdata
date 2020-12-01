@@ -5,7 +5,7 @@ docket: "17-1077"
 argdate: "2018-12-03"
 publishdate: "2019-03-27"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Robert Heim"
 - "Christopher G. Michel"

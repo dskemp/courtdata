@@ -9,3 +9,4 @@ appointedby: Jackson
 startdate: "1836-03-28"
 enddate: "1864-10-12"
 ---
+This justice does not yet have a biography. To submit one, please contact the site administrator.

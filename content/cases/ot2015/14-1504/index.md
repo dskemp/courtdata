@@ -5,7 +5,7 @@ docket: "14-1504"
 publishdate: "2016-05-23"
 argdate: ""
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 tags:
 topics:

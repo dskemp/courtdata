@@ -5,7 +5,7 @@ docket: "16-1276"
 argdate: "2017-11-28"
 publishdate: "2018-02-21"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Kannon K. Shanmugam"
 - "Daniel L. Geyser"

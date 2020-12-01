@@ -5,7 +5,7 @@ docket: "17-1184"
 argdate: "2018-12-04"
 publishdate: "2019-04-01"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Ishan Bhabha"
 - "Anthony A. Yang"

@@ -5,9 +5,9 @@ docket: "13-271"
 argdate: "2015-01-12"
 publishdate: "2015-04-21"
 justices:
-- "1994breyer"
-- "1991thomas"
-- "1986scalia"
+- 1994breyer
+- 1991thomas
+- 1986scalia
 advocates:
 - "Neal Kumar Katyal"
 - "Anthony A. Yang"

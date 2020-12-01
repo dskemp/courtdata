@@ -5,10 +5,10 @@ docket: "13-485"
 argdate: "2014-11-12"
 publishdate: "2015-05-18"
 justices:
-- "2006alito"
-- "1986scalia"
-- "1991thomas"
-- "1993ginsburg"
+- 2006alito
+- 1986scalia
+- 1991thomas
+- 1993ginsburg
 advocates:
 - "William F. Brockman"
 - "Eric J. Feigin"

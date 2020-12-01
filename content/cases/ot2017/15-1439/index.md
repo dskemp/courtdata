@@ -5,7 +5,7 @@ docket: "15-1439"
 argdate: "2017-11-28"
 publishdate: "2018-03-20"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Neal Kumar Katyal"
 - "Allon Kedem"

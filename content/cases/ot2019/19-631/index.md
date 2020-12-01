@@ -5,7 +5,7 @@ docket: "19-631"
 argdate: "2020-05-06"
 publishdate: "2020-07-06"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Malcolm L. Stewart"
 - "Roman Martinez"

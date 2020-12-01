@@ -5,7 +5,7 @@ docket: "18-281"
 argdate: "2019-03-18"
 publishdate: "2019-06-17"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Paul D. Clement"
 - "Morgan L. Ratner"

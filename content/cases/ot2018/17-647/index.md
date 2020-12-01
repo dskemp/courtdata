@@ -5,7 +5,7 @@ docket: "17-647"
 argdate: "2019-01-16"
 publishdate: "2019-06-21"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "J. David Breemer"
 - "Noel J. Francisco"

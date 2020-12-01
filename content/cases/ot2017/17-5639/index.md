@@ -5,7 +5,7 @@ docket: "17-5639"
 argdate: "2018-04-23"
 publishdate: "2018-06-18"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Todd A. Coberly"
 - "Rod J. Rosenstein"

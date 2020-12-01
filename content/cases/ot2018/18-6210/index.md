@@ -5,7 +5,7 @@ docket: "18-6210"
 argdate: "2019-04-23"
 publishdate: "2019-06-27"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Andrew R. Hinkel"
 - "Hannah S. Jurss"

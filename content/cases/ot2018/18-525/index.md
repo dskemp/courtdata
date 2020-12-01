@@ -5,7 +5,7 @@ docket: "18-525"
 argdate: "2019-04-22"
 publishdate: "2019-06-03"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Colleen E. Roh Sinzdak"
 - "Raffi Melkonian"

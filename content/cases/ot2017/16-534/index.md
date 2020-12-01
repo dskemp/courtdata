@@ -5,7 +5,7 @@ docket: "16-534"
 argdate: "2017-12-04"
 publishdate: "2018-02-21"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Asher Perlin"
 - "David A. Strauss"

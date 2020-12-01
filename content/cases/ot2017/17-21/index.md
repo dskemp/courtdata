@@ -5,7 +5,7 @@ docket: "17-21"
 argdate: "2018-02-27"
 publishdate: "2018-06-18"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Pamela S. Karlan"
 - "Shay Dvoretzky"

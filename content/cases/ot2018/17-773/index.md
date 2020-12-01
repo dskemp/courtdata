@@ -5,7 +5,7 @@ docket: "17-773"
 argdate: "2018-11-07"
 publishdate: "2019-01-08"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Daniel R. Ortiz"
 - "Anthony A. Yang"

@@ -5,10 +5,10 @@ docket: "18-260"
 argdate: "2019-11-06"
 publishdate: "2020-04-23"
 justices:
-- "1994breyer"
-- "2018kavanaugh"
-- "1991thomas"
-- "2006alito"
+- 1994breyer
+- 2018kavanaugh
+- 1991thomas
+- 2006alito
 advocates:
 - "Elbert Lin"
 - "Malcolm L. Stewart"

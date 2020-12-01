@@ -5,7 +5,7 @@ docket: "18-9526"
 argdate: "2020-05-11"
 publishdate: "2020-07-09"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Ian H. Gershengorn"
 - "Riyaz A. Kanji"

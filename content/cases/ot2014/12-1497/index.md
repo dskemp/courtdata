@@ -5,7 +5,7 @@ docket: "12-1497"
 argdate: "2015-01-13"
 publishdate: "2015-05-26"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "John P. Elwood"
 - "David S. Stone"

@@ -5,7 +5,7 @@ docket: "14-1538"
 publishdate: "2017-02-22"
 argdate: "2016-12-06"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Carter G. Phillips"
 - "Zachary D. Tripp"

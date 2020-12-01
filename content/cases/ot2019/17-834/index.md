@@ -5,9 +5,9 @@ docket: "17-834"
 argdate: "2019-10-16"
 publishdate: "2020-03-03"
 justices:
-- "2006alito"
-- "1991thomas"
-- "1994breyer"
+- 2006alito
+- 1991thomas
+- 1994breyer
 advocates:
 - "Derek Schmidt"
 - "Christopher G. Michel"

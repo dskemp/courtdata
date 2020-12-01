@@ -5,9 +5,9 @@ docket: "14-6368"
 publishdate: "2015-06-22"
 argdate: "2015-04-27"
 justices:
-- "1994breyer"
-- "1986scalia"
-- "2006alito"
+- 1994breyer
+- 1986scalia
+- 2006alito
 advocates:
 - "Wendy M. Ward"
 - "John F. Bash"

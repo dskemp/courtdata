@@ -5,7 +5,7 @@ docket: "13-1487"
 argdate: "2015-02-24"
 publishdate: "2015-05-18"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Daniel R. Ortiz"
 - "Ann O’Connell"

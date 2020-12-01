@@ -5,7 +5,7 @@ docket: "15-6418"
 publishdate: "2016-04-18"
 argdate: ""
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 tags:
 topics:

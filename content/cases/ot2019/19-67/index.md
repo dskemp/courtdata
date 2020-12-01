@@ -5,7 +5,7 @@ docket: "19-67"
 argdate: "2020-02-25"
 publishdate: "2020-05-07"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Eric J. Feigin"
 - "Mark C. Fleming"

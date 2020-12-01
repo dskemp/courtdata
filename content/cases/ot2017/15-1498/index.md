@@ -5,7 +5,7 @@ docket: "15-1498"
 argdate: "2017-10-02"
 publishdate: "2018-04-17"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Edwin S. Kneedler"
 - "E. Joshua Rosenkranz"

@@ -5,7 +5,7 @@ docket: "17-778"
 argdate: "2019-04-24"
 publishdate: "2019-06-10"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Jeremy C. Marwell"
 - "Zachary D. Tripp"

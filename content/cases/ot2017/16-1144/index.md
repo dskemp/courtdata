@@ -5,7 +5,7 @@ docket: "16-1144"
 argdate: "2017-12-06"
 publishdate: "2018-03-21"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Matthew S. Hellman"
 - "Robert A. Parker"

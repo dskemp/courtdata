@@ -5,7 +5,7 @@ docket: "17-571"
 argdate: "2019-01-08"
 publishdate: "2019-03-04"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Aaron M. Panner"
 - "Peter K. Stris"

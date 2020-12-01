@@ -5,10 +5,10 @@ docket: "13-1041"
 argdate: "2014-12-01"
 publishdate: "2015-03-09"
 justices:
-- "2009sotomayor"
-- "2006alito"
-- "1986scalia"
-- "1991thomas"
+- 2009sotomayor
+- 2006alito
+- 1986scalia
+- 1991thomas
 advocates:
 - "Edwin S. Kneedler"
 - "Allyson N. Ho"

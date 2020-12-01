@@ -14,7 +14,7 @@ roles:
 - "Chief Deputy Attorney General of Nebraska, on behalf of the Defendants"
 tags:
 - "original jurisdiction"
-- "decree"
+- decree
 - "Republican River Compact"
 topics:
 - "water law"

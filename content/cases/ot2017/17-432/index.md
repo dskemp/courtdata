@@ -5,7 +5,7 @@ docket: "17-432"
 argdate: "2018-03-26"
 publishdate: "2018-06-11"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Seth A. Aronson"
 - "David C. Frederick"

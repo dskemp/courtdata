@@ -5,9 +5,9 @@ docket: "13-1371"
 argdate: "2015-01-21"
 publishdate: "2015-06-25"
 justices:
-- "1988kennedy"
-- "1991thomas"
-- "2006alito"
+- 1988kennedy
+- 1991thomas
+- 2006alito
 advocates:
 - "Scott A. Keller"
 - "Michael M. Daniel"

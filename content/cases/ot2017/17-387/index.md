@@ -5,7 +5,7 @@ docket: "17-387"
 argdate: "2018-03-21"
 publishdate: "2018-05-21"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "David S. Hawkins"
 - "Ann O’Connell"

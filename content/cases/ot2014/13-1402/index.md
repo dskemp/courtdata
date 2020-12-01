@@ -5,9 +5,9 @@ docket: "13-1402"
 argdate: "2015-02-23"
 publishdate: "2015-06-15"
 justices:
-- "1986scalia"
-- "1988kennedy"
-- "1994breyer"
+- 1986scalia
+- 1988kennedy
+- 1994breyer
 advocates:
 - "Edwin S. Kneedler"
 - "Mark E. Haddad"

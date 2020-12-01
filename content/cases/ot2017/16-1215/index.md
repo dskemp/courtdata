@@ -5,7 +5,7 @@ docket: "16-1215"
 argdate: "2018-04-17"
 publishdate: "2018-06-04"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Gregory G. Garre"
 - "Paul Hughes"

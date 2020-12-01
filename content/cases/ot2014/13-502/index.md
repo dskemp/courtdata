@@ -5,10 +5,10 @@ docket: "13-502"
 argdate: "2015-01-12"
 publishdate: "2015-06-18"
 justices:
-- "1991thomas"
-- "2006alito"
-- "1994breyer"
-- "2010kagan"
+- 1991thomas
+- 2006alito
+- 1994breyer
+- 2010kagan
 advocates:
 - "David A. Cortman"
 - "Eric J. Feigin"

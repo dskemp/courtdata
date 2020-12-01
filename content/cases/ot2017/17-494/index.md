@@ -5,7 +5,7 @@ docket: "17-494"
 argdate: "2018-04-17"
 publishdate: "2018-06-21"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Marty J. Jackley"
 - "Malcolm L. Stewart"

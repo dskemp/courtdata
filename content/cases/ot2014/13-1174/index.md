@@ -5,7 +5,7 @@ docket: "13-1174"
 argdate: "2014-12-09"
 publishdate: "2015-01-21"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Thomas C. Goldstein"
 - "Seth P. Waxman"

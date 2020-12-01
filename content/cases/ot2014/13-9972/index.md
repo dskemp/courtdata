@@ -5,10 +5,10 @@ docket: "13-9972"
 argdate: "2015-01-21"
 publishdate: "2015-04-21"
 justices:
-- "1993ginsburg"
-- "1988kennedy"
-- "1991thomas"
-- "2006alito"
+- 1993ginsburg
+- 1988kennedy
+- 1991thomas
+- 2006alito
 advocates:
 - "Shannon P. O’Connor"
 - "Ginger D. Anders"

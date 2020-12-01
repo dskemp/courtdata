@@ -5,7 +5,7 @@ docket: "17-71"
 argdate: "2018-10-01"
 publishdate: "2018-11-27"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Timothy S. Bishop"
 - "Edwin S. Kneedler"

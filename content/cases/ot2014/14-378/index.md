@@ -5,8 +5,8 @@ docket: "14-378"
 publishdate: "2015-01-20"
 argdate: "2015-04-21"
 justices:
-- "1991thomas"
-- "2005roberts"
+- 1991thomas
+- 2005roberts
 advocates:
 - "Kevin K. Russell"
 - "Sarah E. Harrington"

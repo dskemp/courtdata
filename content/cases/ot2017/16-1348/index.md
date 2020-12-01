@@ -5,7 +5,7 @@ docket: "16-1348"
 argdate: "2018-02-20"
 publishdate: "2018-06-22"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Jeffrey L. Fisher"
 - "Matthew R. McGuire"

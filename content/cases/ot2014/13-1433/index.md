@@ -5,9 +5,9 @@ docket: "13-1433"
 argdate: "2015-03-30"
 publishdate: "2015-06-18"
 justices:
-- "2006sotomayor"
-- "1991thomas"
-- "2006alito"
+- 2006sotomayor
+- 1991thomas
+- 2006alito
 advocates:
 - "Michael B. DeSanctis"
 - "Premila Burns"

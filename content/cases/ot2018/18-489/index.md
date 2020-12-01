@@ -5,7 +5,7 @@ docket: "18-489"
 argdate: "2019-04-24"
 publishdate: "2019-06-03"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Daniel L. Geyser"
 - "Sopan Joshi"

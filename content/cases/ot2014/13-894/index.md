@@ -5,8 +5,8 @@ docket: "13-894"
 argdate: "2014-11-04"
 publishdate: "2015-01-21"
 justices:
-- "2005roberts"
-- "2009sotomayor"
+- 2005roberts
+- 2009sotomayor
 advocates:
 - "Ian H. Gershengorn"
 - "Neal Kumar Katyal"

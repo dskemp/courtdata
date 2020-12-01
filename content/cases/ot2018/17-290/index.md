@@ -5,7 +5,7 @@ docket: "17-290"
 argdate: "2019-01-07"
 publishdate: "2019-05-20"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Shay Dvoretzky"
 - "Malcolm L. Stewart"

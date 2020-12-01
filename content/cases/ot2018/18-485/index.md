@@ -5,7 +5,7 @@ docket: "18-485"
 argdate: "2019-04-17"
 publishdate: "2019-06-20"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Neal Kumar Katyal"
 - "Jeffrey B. Wall"

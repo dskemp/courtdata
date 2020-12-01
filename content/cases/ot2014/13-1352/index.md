@@ -5,9 +5,9 @@ docket: "13-1352"
 argdate: "2015-03-02"
 publishdate: "2015-06-18"
 justices:
-- "2006alito"
-- "1986scalia"
-- "1991thomas"
+- 2006alito
+- 1986scalia
+- 1991thomas
 advocates:
 - "Matthew E. Meyer"
 - "Ilana Eisenstein"

@@ -2,7 +2,7 @@
 title: "Carpenter v. Murphy"
 citation: "591 U.S. ___"
 docket: "17-1107"
-publishdate: 2020-07-09
+publishdate: "2020-07-09"
 argdate: "2018-11-27"
 advocates:
 - "Lisa S. Blatt"

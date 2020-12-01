@@ -5,7 +5,7 @@ docket: "17-7505"
 argdate: "2018-10-02"
 publishdate: "2019-02-27"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Bryan A. Stevenson"
 - "Thomas R. Govan, Jr"

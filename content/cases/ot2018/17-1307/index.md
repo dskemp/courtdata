@@ -5,7 +5,7 @@ docket: "17-1307"
 argdate: "2019-01-07"
 publishdate: "2019-03-20"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Daniel L. Geyser"
 - "Kannon K. Shanmugam"

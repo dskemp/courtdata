@@ -5,7 +5,7 @@ docket: "15-1509"
 argdate: "2017-10-31"
 publishdate: "2018-03-05"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Gregory A. Cross"
 - "Daniel L. Geyser"

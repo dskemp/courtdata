@@ -5,9 +5,9 @@ docket: "18-107"
 argdate: "2019-10-08"
 publishdate: "2020-06-15"
 justices:
-- "2017gorsuch"
-- "2006alito"
-- "2018kavanaugh"
+- 2017gorsuch
+- 2006alito
+- 2018kavanaugh
 advocates:
 - "David D. Cole"
 - "John J. Bursch"

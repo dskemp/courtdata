@@ -5,8 +5,8 @@ docket: "14-114"
 publishdate: "2015-06-25"
 argdate: "2015-03-04"
 justices:
-- "2005roberts"
-- "1986scalia"
+- 2005roberts
+- 1986scalia
 advocates:
 - "Michael A. Carvin"
 - "Donald B. Verrilli, Jr"

@@ -5,11 +5,11 @@ docket: "14-556"
 publishdate: "2015-06-26"
 argdate: "2015-04-28"
 justices:
-- "1988kennedy"
-- "2005roberts"
-- "1986scalia"
-- "1991thomas"
-- "2006alito"
+- 1988kennedy
+- 2005roberts
+- 1986scalia
+- 1991thomas
+- 2006alito
 advocates:
 - "Mary L. Bonauto"
 - "Donald B. Verrilli, Jr"

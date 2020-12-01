@@ -5,7 +5,7 @@ docket: "15-339"
 publishdate: "2016-06-06"
 argdate: ""
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 tags:
 topics:

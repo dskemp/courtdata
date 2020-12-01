@@ -5,7 +5,7 @@ docket: "16-1011"
 argdate: "2018-04-16"
 publishdate: "2018-06-22"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Paul D. Clement"
 - "Zachary D. Tripp"

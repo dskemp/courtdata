@@ -5,7 +5,7 @@ docket: "16-1161"
 argdate: "2017-10-03"
 publishdate: "2018-06-18"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Misha Tseytlin"
 - "Erin E. Murphy"

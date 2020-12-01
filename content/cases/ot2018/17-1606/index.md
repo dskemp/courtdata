@@ -5,7 +5,7 @@ docket: "17-1606"
 argdate: "2019-03-18"
 publishdate: "2019-05-28"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Michael B. Kimberly"
 - "Michael R. Huston"

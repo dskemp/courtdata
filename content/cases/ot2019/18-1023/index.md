@@ -5,7 +5,7 @@ docket: "18-1023"
 argdate: "2019-12-10"
 publishdate: "2020-04-27"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Paul D. Clement"
 - "Edwin S. Kneedler"

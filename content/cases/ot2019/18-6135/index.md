@@ -5,7 +5,7 @@ docket: "18-6135"
 argdate: "2019-10-07"
 publishdate: "2020-03-23"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Sarah Schrup"
 - "Toby Crouse"

@@ -5,7 +5,7 @@ docket: "16-1454"
 argdate: "2018-02-26"
 publishdate: "2018-06-25"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Eric E. Murphy"
 - "Malcolm L. Stewart"

@@ -5,7 +5,7 @@ docket: "16-8255"
 argdate: "2018-01-17"
 publishdate: "2018-05-14"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Seth P. Waxman"
 - "Elizabeth Murrill"

@@ -5,7 +5,7 @@ docket: "18-1269"
 argdate: "2019-12-03"
 publishdate: "2020-02-25"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Mitchell P. Reich"
 - "Michael R. Huston"

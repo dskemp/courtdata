@@ -5,7 +5,7 @@ docket: "18-5924"
 argdate: "2019-10-07"
 publishdate: "2020-04-20"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Jeffrey L. Fisher"
 - "Elizabeth Murrill"

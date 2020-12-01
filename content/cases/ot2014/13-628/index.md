@@ -5,11 +5,11 @@ docket: "13-628"
 argdate: "2014-11-03"
 publishdate: "2015-06-08"
 justices:
-- "1988kennedy"
-- "1994breyer"
-- "1991thomas"
-- "2005roberts"
-- "1986scalia"
+- 1988kennedy
+- 1994breyer
+- 1991thomas
+- 2005roberts
+- 1986scalia
 advocates:
 - "Alyza D. Lewin"
 - "Donald B. Verrilli, Jr"

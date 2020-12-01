@@ -5,7 +5,7 @@ docket: "17-9560"
 argdate: "2019-04-23"
 publishdate: "2019-06-21"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Rosemary T. Camkis"
 - "Allon Kedem"

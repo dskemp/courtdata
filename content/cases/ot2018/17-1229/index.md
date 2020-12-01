@@ -5,7 +5,7 @@ docket: "17-1229"
 argdate: "2018-12-04"
 publishdate: "2019-01-22"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Kannon K. Shanmugam"
 - "Malcolm L. Stewart"

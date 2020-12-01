@@ -5,7 +5,7 @@ docket: "14-1468"
 publishdate: "2016-06-23"
 argdate: ""
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 tags:
 topics:

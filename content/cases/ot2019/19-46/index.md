@@ -5,7 +5,7 @@ docket: "19-46"
 argdate: "2020-05-04"
 publishdate: "2020-06-30"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Erica L. Ross"
 - "Lisa S. Blatt"

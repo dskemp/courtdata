@@ -5,7 +5,7 @@ docket: "19-161"
 argdate: "2020-03-20"
 publishdate: "2020-06-25"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Edwin S. Kneedler"
 - "Lee Gelernt"

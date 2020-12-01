@@ -5,7 +5,7 @@ docket: "16-476"
 argdate: "2017-12-04"
 publishdate: "2018-05-14"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Theodore B. Olson"
 - "Paul D. Clement"

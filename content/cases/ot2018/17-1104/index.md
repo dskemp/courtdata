@@ -5,7 +5,7 @@ docket: "17-1104"
 argdate: "2018-10-10"
 publishdate: "2019-03-19"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Shay Dvoretzky"
 - "Thomas C. Goldstein"

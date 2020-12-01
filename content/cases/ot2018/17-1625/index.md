@@ -5,7 +5,7 @@ docket: "17-1625"
 argdate: "2019-01-14"
 publishdate: "2019-03-04"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Mark A. Perry"
 - "Allon Kedem"

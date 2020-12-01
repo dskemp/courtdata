@@ -5,7 +5,7 @@ docket: "18-938"
 argdate: "2019-11-13"
 publishdate: "2020-01-14"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "James K. Lehman"
 - "Griffin S. Dunham"

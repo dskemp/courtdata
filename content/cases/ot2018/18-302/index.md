@@ -5,7 +5,7 @@ docket: "18-302"
 argdate: "2019-04-15"
 publishdate: "2019-06-24"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Malcolm L. Stewart"
 - "John R. Sommer"

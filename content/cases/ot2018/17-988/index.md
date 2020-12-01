@@ -5,7 +5,7 @@ docket: "17-988"
 argdate: "2020-10-29"
 publishdate: "2019-04-24"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Andrew J. Pincus"
 - "Michele M. Vercoski"

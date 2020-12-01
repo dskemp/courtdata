@@ -5,7 +5,7 @@ docket: "16-1498"
 argdate: "2018-10-30"
 publishdate: "2019-03-19"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Noah Purcell"
 - "Ann O’Connell"

@@ -5,7 +5,7 @@ docket: "18-1334"
 argdate: "2019-10-15"
 publishdate: "2020-06-01"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Donald B. Verrilli, Jr"
 - "Jeffrey B. Wall"

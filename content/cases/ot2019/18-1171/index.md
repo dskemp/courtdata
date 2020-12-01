@@ -5,7 +5,7 @@ docket: "18-1171"
 argdate: "2019-11-13"
 publishdate: "2020-03-23"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Miguel Estrada"
 - "Morgan L. Ratner"

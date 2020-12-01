@@ -5,7 +5,7 @@ docket: "18-389"
 argdate: "2019-04-16"
 publishdate: "2019-06-10"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Paul D. Clement"
 - "Christopher G. Michel"

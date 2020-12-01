@@ -5,7 +5,7 @@ docket: "16-1094"
 argdate: "2018-11-07"
 publishdate: "2019-03-26"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Christopher M. Curran"
 - "Erica L. Ross"

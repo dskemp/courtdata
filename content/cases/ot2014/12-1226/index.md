@@ -5,10 +5,10 @@ docket: "12-1226"
 argdate: "2014-12-03"
 publishdate: "2015-03-25"
 justices:
-- "1994breyer"
-- "2006alito"
-- "1986scalia"
-- "1988kennedy"
+- 1994breyer
+- 2006alito
+- 1986scalia
+- 1988kennedy
 advocates:
 - "Samuel R. Bagenstos"
 - "Donald B. Verrilli, Jr"

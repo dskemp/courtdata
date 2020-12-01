@@ -6,10 +6,10 @@ argdate: "2014-11-05"
 reargdate: "2015-04-20"
 publishdate: "2015-06-26"
 justices:
-- "1986scalia"
-- "1988kennedy"
-- "1991thomas"
-- "2006alito"
+- 1986scalia
+- 1988kennedy
+- 1991thomas
+- 2006alito
 advocates:
 - "Katherine M. Menendez"
 - "John F. Bash"

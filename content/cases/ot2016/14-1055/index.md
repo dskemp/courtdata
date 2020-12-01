@@ -5,7 +5,7 @@ docket: "14-1055"
 publishdate: "2017-01-18"
 argdate: "2016-11-08"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "E. Joshua Rosenkranz"
 - "Ann O’Connell"

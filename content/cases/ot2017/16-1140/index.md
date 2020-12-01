@@ -5,7 +5,7 @@ docket: "16-1140"
 argdate: "2018-03-20"
 publishdate: "2018-06-26"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Michael P. Farris"
 - "Jeffrey B. Wall"

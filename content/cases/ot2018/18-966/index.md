@@ -5,7 +5,7 @@ docket: "18-966"
 argdate: "2019-04-23"
 publishdate: "2019-06-27"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Noel J. Francisco"
 - "Barbara D. Underwood"

@@ -5,7 +5,7 @@ docket: "16-9493"
 argdate: "2018-02-21"
 publishdate: "2018-06-18"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Kristin L. Davidson"
 - "Jonathan Y. Ellis"

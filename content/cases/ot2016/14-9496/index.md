@@ -5,7 +5,7 @@ docket: "14-9496"
 publishdate: "2017-03-21"
 argdate: "2016-10-05"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Stanley B. Eisenhammer"
 - "Ilana H. Eistenstein"

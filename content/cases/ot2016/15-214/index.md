@@ -5,7 +5,7 @@ docket: "15-214"
 publishdate: "2017-06-23"
 argdate: "2017-03-20"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "John M. Groen"
 - "Misha Tseytlin"

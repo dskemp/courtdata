@@ -5,9 +5,9 @@ docket: "18-556"
 argdate: "2019-11-04"
 publishdate: "2020-04-06"
 justices:
-- "1991thomas"
-- "2010kagan"
-- "2009sotomayor"
+- 1991thomas
+- 2010kagan
+- 2009sotomayor
 advocates:
 - "Toby Crouse"
 - "Michael R. Huston"

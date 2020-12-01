@@ -5,10 +5,10 @@ docket: "13-1428"
 argdate: "2015-03-03"
 publishdate: "2015-06-18"
 justices:
-- "2006alito"
-- "1988kennedy"
-- "1991thomas"
-- "2006sotomayor"
+- 2006alito
+- 1988kennedy
+- 1991thomas
+- 2006sotomayor
 advocates:
 - "Robin Urbanski"
 - "Anthony J. Dain"

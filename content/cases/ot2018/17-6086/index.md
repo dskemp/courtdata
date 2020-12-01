@@ -5,7 +5,7 @@ docket: "17-6086"
 argdate: "2018-10-02"
 publishdate: "2019-06-20"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Sarah Baumgartel"
 - "Jeffrey B. Wall"

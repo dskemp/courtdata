@@ -5,7 +5,7 @@ docket: "17-312"
 argdate: "2018-03-26"
 publishdate: "2018-05-14"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Allon Kedem"
 - "Reuben C. Cahn"

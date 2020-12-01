@@ -5,7 +5,7 @@ docket: "16-1371"
 argdate: "2018-01-09"
 publishdate: "2018-05-14"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Robert M. Loeb"
 - "Eric J. Feigin"

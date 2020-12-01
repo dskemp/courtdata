@@ -5,7 +5,7 @@ docket: "17-155"
 argdate: "2018-03-27"
 publishdate: "2018-06-04"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Eric Shumsky"
 - "Rachel P. Kovner"

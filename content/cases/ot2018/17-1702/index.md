@@ -5,7 +5,7 @@ docket: "17-1702"
 argdate: "2019-02-25"
 publishdate: "2019-06-17"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Michael D. de Leeuw"
 - "Paul W. Hughes"

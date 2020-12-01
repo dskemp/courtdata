@@ -5,7 +5,7 @@ docket: "16-498"
 argdate: "2017-11-07"
 publishdate: "2018-02-27"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Scott E. Gant"
 - "Ann O’Connell"

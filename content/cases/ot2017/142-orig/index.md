@@ -5,7 +5,7 @@ docket: "142, Orig."
 argdate: "2018-01-08"
 publishdate: "2018-06-27"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Gregory G. Garre"
 - "Craig S. Primis"

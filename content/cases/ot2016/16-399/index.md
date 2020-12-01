@@ -5,7 +5,7 @@ docket: "16-399"
 publishdate: "2017-06-23"
 argdate: ""
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 tags:
 topics:

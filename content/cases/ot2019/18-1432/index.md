@@ -5,7 +5,7 @@ docket: "18-1432"
 argdate: "2020-03-02"
 publishdate: "2020-06-01"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Paul Hughes"
 - "Matthew Guarnieri"

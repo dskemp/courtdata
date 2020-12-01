@@ -55,6 +55,14 @@ header .profileLogo .logoPlaceholder
 	text-align: center;
 }
 
+/*header .breadcrumbs
+{
+	list-style: none;
+	clear:left;
+	text-align: left;
+	padding-left: 0px;
+}*/
+
 header .logoPlaceholder span
 {
 	width: 80px;

@@ -5,7 +5,7 @@ docket: "15-474"
 publishdate: "2016-06-27"
 argdate: ""
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 tags:
 topics:

@@ -5,7 +5,7 @@ docket: "13-1333"
 argdate: "2015-02-23"
 publishdate: "2015-05-18"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Kannon K. Shanmugam"
 - "Aaron D. Lindstrom"

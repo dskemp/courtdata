@@ -5,7 +5,7 @@ docket: "18-1323"
 argdate: "2020-03-04"
 publishdate: "2020-06-29"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Julie Rikelman"
 - "Elizabeth Murrill"

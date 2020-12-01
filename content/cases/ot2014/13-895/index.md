@@ -5,9 +5,9 @@ docket: "13-895"
 argdate: "2014-11-12"
 publishdate: "2015-03-25"
 justices:
-- "1994breyer"
-- "1986scalia"
-- "1991thomas"
+- 1994breyer
+- 1986scalia
+- 1991thomas
 advocates:
 - "Richard Pildes"
 - "Eric Schnapper"

@@ -5,7 +5,7 @@ docket: "18-1116"
 argdate: "2019-12-04"
 publishdate: "2020-02-26"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Donald B. Verrilli, Jr"
 - "Matthew W.H. Wessler"

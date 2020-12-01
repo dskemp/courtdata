@@ -5,7 +5,7 @@ docket: "16-1519"
 argdate: "2018-04-18"
 publishdate: "2018-05-29"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Daniel L. Geyser"
 - "Michael R. Huston"

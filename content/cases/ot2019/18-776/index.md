@@ -5,8 +5,8 @@ docket: "18-776"
 argdate: "2019-12-09"
 publishdate: "2020-03-23"
 justices:
-- "1994breyer"
-- "1991thomas"
+- 1994breyer
+- 1991thomas
 advocates:
 - "Paul W. Hughes"
 - "Frederick Liu"

@@ -5,7 +5,7 @@ docket: "16-54"
 publishdate: "2017-05-30"
 argdate: ""
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 tags:
 topics:

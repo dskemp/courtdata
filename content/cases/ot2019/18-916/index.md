@@ -5,7 +5,7 @@ docket: "18-916"
 argdate: "2019-12-09"
 publishdate: "2020-04-20"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Adam H. Charnes"
 - "Jonathan Y. Ellis"

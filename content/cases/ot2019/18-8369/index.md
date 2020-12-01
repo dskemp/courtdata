@@ -5,7 +5,7 @@ docket: "18-8369"
 argdate: "2020-02-26"
 publishdate: "2020-06-08"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Brian T. Burgess"
 - "Eric R. Olson"

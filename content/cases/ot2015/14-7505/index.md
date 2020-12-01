@@ -5,7 +5,7 @@ docket: "14-7505"
 publishdate: "2016-01-12"
 argdate: ""
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 tags:
 topics:

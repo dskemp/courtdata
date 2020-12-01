@@ -5,10 +5,10 @@ docket: "13-975"
 argdate: "2014-11-10"
 publishdate: "2015-01-14"
 justices:
-- "2009sotomayor"
-- "2006alito"
-- "2005roberts"
-- "1991thomas"
+- 2009sotomayor
+- 2006alito
+- 2005roberts
+- 1991thomas
 advocates:
 - "Jeffrey L. Fisher"
 - "Ann O’Connell"

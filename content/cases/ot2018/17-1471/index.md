@@ -5,7 +5,7 @@ docket: "17-1471"
 argdate: "2019-01-15"
 publishdate: "2019-05-28"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "William P. Barnette"
 - "F. Paul Bland"

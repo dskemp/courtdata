@@ -5,8 +5,8 @@ docket: "13-433"
 argdate: "2014-10-08"
 publishdate: "2014-12-09"
 justices:
-- "1991thomas"
-- "2009sotomayor"
+- 1991thomas
+- 2009sotomayor
 advocates:
 - "Paul D. Clement"
 - "Curtis E. Gannon"

@@ -5,7 +5,7 @@ docket: "18-1059"
 argdate: "2020-11-14"
 publishdate: "2020-05-07"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Jacob M. Roth"
 - "Michael Levy"

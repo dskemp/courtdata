@@ -5,7 +5,7 @@ docket: "17-9572"
 argdate: "2019-03-20"
 publishdate: "2019-06-21"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Sheri Lynn Johnson"
 - "Jason Davis"

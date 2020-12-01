@@ -5,7 +5,7 @@ docket: "16-402"
 argdate: "2017-11-29"
 publishdate: "2018-06-22"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Nathan F. Wessler"
 - "Michael R. Dreeben"

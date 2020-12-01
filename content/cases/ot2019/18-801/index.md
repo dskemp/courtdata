@@ -5,7 +5,7 @@ docket: "18-801"
 argdate: "2019-10-07"
 publishdate: "2019-12-11"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Malcolm L. Stewart"
 - "Morgan Chu"

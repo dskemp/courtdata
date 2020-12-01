@@ -9,3 +9,4 @@ appointedby: Taft
 startdate: "1910-12-19"
 enddate: "1921-05-19"
 ---
+This justice does not yet have a biography. To submit one, please contact the site administrator.

@@ -5,11 +5,11 @@ docket: "14-7955"
 publishdate: "2015-06-29"
 argdate: "2015-04-29"
 justices:
-- "2006alito"
-- "1991thomas"
-- "1986scalia"
-- "1994breyer"
-- "2009sotomayor"
+- 2006alito
+- 1991thomas
+- 1986scalia
+- 1994breyer
+- 2009sotomayor
 advocates:
 - "Robin C. Konrad"
 - "Patrick R. Wyrick"

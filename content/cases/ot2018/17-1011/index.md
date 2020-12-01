@@ -5,7 +5,7 @@ docket: "17-1011"
 argdate: "2018-10-31"
 publishdate: "2019-02-27"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Jeffrey L. Fisher"
 - "Jonathan Y. Ellis"

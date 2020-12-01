@@ -5,7 +5,7 @@ docket: "16-1423"
 argdate: "2018-01-16"
 publishdate: "2018-06-22"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Stephen I. Vladeck"
 - "Aditya Bamzai"

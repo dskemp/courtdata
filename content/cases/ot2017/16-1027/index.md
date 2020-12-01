@@ -5,7 +5,7 @@ docket: "16-1027"
 argdate: "2018-01-09"
 publishdate: "2018-05-29"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Matthew A. Fitzgerald"
 - "Trevor S. Cox"
