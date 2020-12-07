@@ -12,7 +12,7 @@ advocates:
 - "Seth P. Waxman"
 roles:
 - "on behalf of the Petitioner in No. 15-1039 (Sandoz Inc.)"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner in No. 15-1039 (Sandoz Inc.)"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner in No. 15-1039 (Sandoz Inc.)"
 - "on behalf of the Petitioners in No. 15-1195 (Amgen Inc., et al.)"
 tags:
 topics:

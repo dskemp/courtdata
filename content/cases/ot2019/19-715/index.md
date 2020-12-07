@@ -12,7 +12,7 @@ advocates:
 - "Douglas N. Letter"
 roles:
 - "on behalf of the Petitioners"
-- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Principal Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "General Counsel, U.S. House of Representatives, on behalf of the U.S. House of Representatives Respondents"
 tags:
 topics:

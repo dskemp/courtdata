@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondents"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "Title 28 U.S.C. § 1610(g) does not provide a freestanding basis for parties holding a judgment against a state sponsor of terrorism for an act of terrorism, see § 1605A, to attach and execute against the foreign state’s property; rather, for § 1610(g) to apply, the property’s immunity must be rescinded under a separate provision within § 1610."

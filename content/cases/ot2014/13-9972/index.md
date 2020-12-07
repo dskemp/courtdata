@@ -14,7 +14,7 @@ advocates:
 - "Ginger D. Anders"
 roles:
 - "First Assistant Federal Public Defender, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 - "Fourth Amendment"
 - "search and seizure"

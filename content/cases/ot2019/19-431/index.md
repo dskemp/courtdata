@@ -11,7 +11,7 @@ advocates:
 - "Paul D. Clement"
 - "Michael J. Fischer"
 roles:
-- "Solicitor General, Department of Justice, on behalf of the Petitioners in No. 19-454"
+- "Solicitor General, on behalf of the Petitioners in No. 19-454"
 - "on behalf of the Petitioner in No. 19-431"
 - "Chief Deputy Attorney General of Pennsylvania, on behalf of the Respondents"
 tags:

@@ -8,11 +8,11 @@ justices:
 - 2005roberts
 advocates:
 - "Jeffrey L. Fisher"
-- "Irv Gornstein"
-- "Neal Kumar Katyal"
+- "Irving L. Gornstein"
+- "Neal K. Katyal"
 roles:
 - "on behalf of the Petitioner"
-- "Counselor to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Counselor to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

@@ -12,7 +12,7 @@ advocates:
 - "Zane D. Wilson"
 roles:
 - "Assistant Attorney General of Alaska, on behalf of the Petitioners"
-- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Principal Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondent"
 tags:
 topics:

@@ -8,11 +8,11 @@ justices:
 advocates:
 - "Lori H. Windham"
 - "Hashim M. Mooppan"
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 - "Jeffrey L. Fisher"
 roles:
 - "on behalf of the Petitioners"
-- "Counselor to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Counselor to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "for the City of Philadelphia, et al., Respondents"
 - "for the Support Center for Child Advocates and Philadelphia Family Pride Respondents"
 tags:

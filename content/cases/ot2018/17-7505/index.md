@@ -11,7 +11,7 @@ advocates:
 - "Thomas R. Govan, Jr"
 roles:
 - "on behalf of the Petitioner"
-- "Alabama Deputy Attorney General, on behalf of the Respondent"
+- "Deputy Attorney General of Alabama, on behalf of the Respondent"
 tags:
 topics:
 summary: "The Eighth Amendment may permit executing a prisoner even if he cannot remember committing his crime but it may prohibit executing a prisoner who suffers from dementia or another disorder rather than psychotic delusions."

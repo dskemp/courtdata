@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Plaintiff"
 - "on behalf of the Defendant"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, in support of overruling Florida's exception 2c"
+- "Deputy Solicitor General, for the United States, as amicus curiae, in support of overruling Florida's exception 2c"
 tags:
 topics:
 summary: "Florida has made a legally sufficient showing as to the possibility of fashioning an effective remedial decree equitably apportioning the water from an interstate river basin."

@@ -11,7 +11,7 @@ advocates:
 - "D. John Sauer"
 roles:
 - "on behalf of the Petitioner"
-- "State Solicitor, Missouri, on behalf of the Respondents"
+- "Solicitor General of Missouri, on behalf of the Respondents"
 tags:
 topics:
 summary: "Baze v. Rees, 553 U.S. 35, and Glossip v. Gross, 576 U.S. ___, govern all Eighth Amendment challenges alleging that a method of execution inflicts unconstitutionally cruel pain; petitioner’s as-applied challenge to Missouri’s single-drug execution protocol—that it would cause him severe pain because of his particular medical condition—fails to satisfy the Baze-Glossip test."

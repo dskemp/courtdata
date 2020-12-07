@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondents"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "Professional and Amateur Sports Protection Act (PASPA) provisions that prohibit state authorization and licensing of sports gambling schemes, see 28 U.S.C. § 3702(1), violate the Constitution’s anticommandeering rule; no other PASPA provisions are severable from the provisions at issue."

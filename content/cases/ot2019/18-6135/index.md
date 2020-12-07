@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "Due process does not require Kansas to adopt an insanity test that turns on a defendant’s ability to recognize that his crime was morally wrong."

@@ -10,7 +10,7 @@ advocates:
 - "Erica L. Ross"
 - "Jeffrey L. Fisher"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

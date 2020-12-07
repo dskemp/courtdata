@@ -12,7 +12,7 @@ advocates:
 - "Steven C. Wu"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "Deputy Solicitor General of New York, on behalf of the Respondents"
 tags:
 topics:

@@ -12,7 +12,7 @@ advocates:
 - "Nathaniel P. Garrett"
 roles:
 - "Solicitor General of Washington, D.C., on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae"
 - "on behalf of the Respondents"
 tags:
 topics:

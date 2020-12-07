@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "Solicitor General of Colorado, on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "The Sixth Amendment requires that the no-impeachment rule—which recognizes that a verdict, once entered, cannot be challenged based on comments the jurors made during deliberations—must give way in order for the trial court to assess the possible denial of the jury trial guarantee where compelling evidence indicates that a juror relied on racial stereotypes or animus to convict a criminal defendant."

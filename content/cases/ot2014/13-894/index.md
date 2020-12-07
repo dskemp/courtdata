@@ -9,9 +9,9 @@ justices:
 - 2009sotomayor
 advocates:
 - "Ian H. Gershengorn"
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Deputy Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Merit Systems Protection Board"

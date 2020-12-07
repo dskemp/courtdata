@@ -13,7 +13,7 @@ advocates:
 - "Noel J. Francisco"
 roles:
 - "on behalf of the Petitioner"
-- "Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "The plain meaning of 29 U.S.C. § 633a(a), the federal-sector provision of the Age Discrimination in Employment Act of 1967, demands that personnel actions be untainted by any consideration of age, but but-for causation is important in determining the appropriate remedy that may be obtained."

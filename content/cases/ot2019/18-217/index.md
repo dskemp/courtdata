@@ -10,7 +10,7 @@ advocates:
 - "Danielle Spinelli"
 roles:
 - "Solicitor General, Virginia, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - 

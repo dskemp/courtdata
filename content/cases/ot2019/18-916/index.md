@@ -12,7 +12,7 @@ advocates:
 - "Daniel L. Geyser"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondent, supporting reversal"
+- "Assistant to the Solicitor General, on behalf of the federal Respondent, supporting reversal"
 - "on behalf of the private Respondent"
 tags:
 topics:

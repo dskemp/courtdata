@@ -10,7 +10,7 @@ advocates:
 - "Edwin S. Kneedler"
 - "Pratik A. Shah"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Deputy Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

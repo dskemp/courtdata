@@ -11,7 +11,7 @@ advocates:
 - "Jeffrey A. Lamken"
 - "Rachel Meeropol"
 roles:
-- "Acting Solicitor General, Department of Justice, on behalf of the Petitioners in Nos. 15-1358 and 15-1359 (Ziglar and Ashcroft)"
+- "Acting Solicitor General, on behalf of the Petitioners in Nos. 15-1358 and 15-1359 (Ziglar and Ashcroft)"
 - "on behalf of the Petitioners in No. 15-1363 (Hasty)"
 - "on behalf of the Respondents"
 tags:

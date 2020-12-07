@@ -11,7 +11,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondent"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 summary: "At Issue: Whether copyright protection extends to a software interface, and whether the petitioner’s use of a software interface in the context of creating a new computer program constitutes fair use."
 ---
 **At Issue**: Whether copyright protection extends to a software interface, and whether the petitioner’s use of a software interface in the context of creating a new computer program constitutes fair use.

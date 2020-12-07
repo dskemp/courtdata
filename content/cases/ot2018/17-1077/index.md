@@ -11,7 +11,7 @@ advocates:
 - "Christopher G. Michel"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "Dissemination of false or misleading statements with intent to defraud can fall within the scope of SEC Rules 10b–5(a) and (c), as well as the relevant statutory provisions, even if the disseminator cannot be held liable under Rule 10b–5(b)."

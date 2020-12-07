@@ -11,7 +11,7 @@ advocates:
 - "Jenny Ellickson"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "Pretrial detention later credited as time served for a new conviction tolls a supervised-release term under 18 U.S.C. § 3624(e), even if the court must make the tolling calculation after learning whether the time will be credited."

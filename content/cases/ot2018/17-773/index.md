@@ -12,7 +12,7 @@ advocates:
 - "Amy L. Weil"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, in support of reversal and remand"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, in support of reversal and remand"
 - "Court-appointed amicus curiae, in support of the judgment below"
 tags:
 topics:

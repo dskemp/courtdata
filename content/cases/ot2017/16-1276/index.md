@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "The Dodd-Frank Wall Street Reform and Consumer Protection Act’s anti-retaliation provision does not extend to an individual, like Somers, who has not reported a violation of the securities laws to the Securities and Exchange Commission."

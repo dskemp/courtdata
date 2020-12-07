@@ -11,7 +11,7 @@ advocates:
 - "Eric J. Feigin"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "Petitioners do not qualify for sentence reductions under 18 U.S.C. § 3582(c)(2) because their sentences were not “based on” their lowered Federal Sentencing Guidelines ranges but, instead, were “based on” their mandatory minimums and their substantial assistance to the Government."

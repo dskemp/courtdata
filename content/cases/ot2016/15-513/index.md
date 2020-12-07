@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondents"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "The False Claims Act does not mandate dismissal of a qui tam relator’s complaint for a violation of the FCA requirement that a complaint be sealed for a specified period of time; nor did the District Court abuse its discretion in denying petitioner’s motion to dismiss respondents’ complaint for violating that requirement."

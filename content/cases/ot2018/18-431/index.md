@@ -10,7 +10,7 @@ advocates:
 - "Eric J. Feigin"
 - "Brandon E. Beck"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, on behalf of the Petitioner"
 - "Assistant Federal Public Defender, on behalf of the Respondents"
 tags:
 topics:

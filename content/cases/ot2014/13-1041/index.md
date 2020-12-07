@@ -13,7 +13,7 @@ advocates:
 - "Edwin S. Kneedler"
 - "Allyson N. Ho"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Deputy Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondents"
 tags:
 - "Administrative Procedure Act"

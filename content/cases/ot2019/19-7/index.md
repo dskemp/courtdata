@@ -13,7 +13,7 @@ advocates:
 - "Douglas N. Letter"
 roles:
 - "on behalf of the Petitioner"
-- "Solicitor General, Department of Justice, on behalf of the Respondent, supporting vacatur"
+- "Solicitor General, on behalf of the Respondent, supporting vacatur"
 - "Court-appointed amicus curiae in support of the judgment below on Q1"
 - "for the U.S. House of Representatives, as amicus curiae"
 tags:

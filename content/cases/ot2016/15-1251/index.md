@@ -10,7 +10,7 @@ advocates:
 - "Ian H. Gershengorn"
 - "Shay Dvoretzky"
 roles:
-- "Acting Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Acting Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

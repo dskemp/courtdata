@@ -12,7 +12,7 @@ advocates:
 - "John G. Knepper"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "Chief Deputy Attorney General of Wyoming, on behalf of the Respondent"
 tags:
 topics:

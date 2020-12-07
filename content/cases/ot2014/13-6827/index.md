@@ -14,7 +14,7 @@ advocates:
 - "David A. Curran"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "Deputy Attorney General of Arkansas, on behalf of the Respondent"
 tags:
 - "Religious Land Use and Institutionalized Persons Act of 2000"

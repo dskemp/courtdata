@@ -10,7 +10,7 @@ advocates:
 - "Eric J. Feigin"
 - "Mark C. Fleming"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Deputy Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

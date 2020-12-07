@@ -10,7 +10,7 @@ advocates:
 - "Matthew W. Sawchak"
 - "David A. O’Neil"
 roles:
-- "North Carolina Solicitor General, on behalf of the Petitioner"
+- "Solicitor General of North Carolina, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

@@ -12,7 +12,7 @@ advocates:
 - "Rachel P. Kovner"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 - "Board of Immigration Appeals"
 - "Immigration and Nationality Act"

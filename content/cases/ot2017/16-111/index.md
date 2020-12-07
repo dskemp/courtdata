@@ -13,7 +13,7 @@ advocates:
 - "David D. Cole"
 roles:
 - "on behalf of the Petitioners"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "Solicitor General of Colorado, on behalf of the Respondent"
 - "on behalf of the private Respondents"
 tags:

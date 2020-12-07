@@ -12,7 +12,7 @@ advocates:
 - "Toby J. Heytens"
 roles:
 - "on behalf of the Petitioners"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "Solicitor General, Virginia, on behalf of the Respondent"
 tags:
 topics:

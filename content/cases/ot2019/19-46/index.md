@@ -10,7 +10,7 @@ advocates:
 - "Erica L. Ross"
 - "Lisa S. Blatt"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Assistant to the Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondent"
 tags:
 topics:

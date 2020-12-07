@@ -12,7 +12,7 @@ advocates:
 - "Anton Metlitsky"
 roles:
 - "on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Court-appointed amicus curiae in support of the judgment below"
 tags:
 topics:

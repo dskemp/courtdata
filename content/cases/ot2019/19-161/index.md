@@ -10,7 +10,7 @@ advocates:
 - "Edwin S. Kneedler"
 - "Lee Gelernt"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Deputy Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondent"
 tags:
 topics:

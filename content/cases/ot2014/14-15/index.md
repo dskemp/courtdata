@@ -14,7 +14,7 @@ advocates:
 - "James M. Piotrowski"
 roles:
 - "Deputy Attorney General of Idaho, on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondents"
 tags:
 - "Supremacy Clause"

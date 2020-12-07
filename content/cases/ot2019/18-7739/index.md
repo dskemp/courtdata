@@ -12,7 +12,7 @@ advocates:
 - "K. Winn Allen"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent in support of vacatur"
+- "Assistant to the Solicitor General, on behalf of the Respondent in support of vacatur"
 - "for the Court-appointed amicus curiae in support of the judgment below"
 tags:
 topics:

@@ -11,7 +11,7 @@ advocates:
 - "Eric J. Feigin"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "A guilty plea, by itself, does not bar a federal criminal defendant from challenging the constitutionality of his statute of conviction on direct appeal."

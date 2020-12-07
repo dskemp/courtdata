@@ -10,7 +10,7 @@ advocates:
 - "Malcolm L. Stewart"
 - "Roman Martinez"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Deputy Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

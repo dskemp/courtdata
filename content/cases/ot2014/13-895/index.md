@@ -16,7 +16,7 @@ advocates:
 roles:
 - "on behalf of the Appellants"
 - "on behalf of the Appellants"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae"
+- "Solicitor General, for the United States, as amicus curiae"
 - "Solicitor General of Alabama, on behalf of the Appellees"
 tags:
 - "racial gerrymandering"

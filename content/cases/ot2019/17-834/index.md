@@ -11,10 +11,10 @@ justices:
 advocates:
 - "Derek Schmidt"
 - "Christopher G. Michel"
-- "Paul Hughes"
+- "Paul W. Hughes"
 roles:
 - "Attorney General of Kansas, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Immigration Reform and Control Act of 1986"

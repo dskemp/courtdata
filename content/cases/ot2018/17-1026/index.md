@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "Lead Deputy Attorney General of Idaho, on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "The presumption of prejudice for Sixth Amendment purposes recognized in Roe v. Flores-Ortega, 528 U.S. 470, applies regardless of whether a defendant has signed an appeal waiver."

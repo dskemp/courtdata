@@ -16,7 +16,7 @@ advocates:
 roles:
 - "Solicitor General of Michigan, on behalf of the state Petitioners"
 - "on behalf of the industry Petitioners and Respondents in support"
-- "Solicitor General, Department of Justice, on behalf of the federal Respondents"
+- "Solicitor General, on behalf of the federal Respondents"
 - "on behalf of the industry Respondents"
 tags:
 - "Clean Air Act"

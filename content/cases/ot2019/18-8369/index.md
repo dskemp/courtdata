@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "Solicitor General, Colorado, on behalf of the Respondents"
-- "Deputy Attorney General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Deputy Attorney General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "A Prison Litigation Reform Act of 1995 provision that generally prevents a prisoner from bringing suit in forma pauperis if he has had three or more prior suits “dismissed on the ground[ ] that [they] . . . fail[ed] to state a claim upon which relief may be granted,” 28 U.S.C. § 1915(g), refers to any dismissal for failure to state a claim, whether with prejudice or without."

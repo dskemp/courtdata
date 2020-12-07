@@ -12,7 +12,7 @@ advocates:
 - "Eric J. Feigin"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondents"
+- "Assistant to the Solicitor General, on behalf of the Respondents"
 tags:
 - "Civil Service Reform Act of 1978"
 - "judicial review"

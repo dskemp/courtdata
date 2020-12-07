@@ -13,7 +13,7 @@ advocates:
 - "Thomas C. Goldstein"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondent"
+- "Assistant to the Solicitor General, on behalf of the federal Respondent"
 - "on behalf of the private Respondents"
 tags:
 topics:

@@ -15,7 +15,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondents"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 - "Securities Act of 1933"
 topics:

@@ -13,7 +13,7 @@ advocates:
 - "Robin Urbanski"
 - "Anthony J. Dain"
 roles:
-- "California Deputy Attorney General, on behalf of the Petitioner"
+- "Deputy Attorney General of California, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Antiterrorism and Effective Death Penalty Act of 1996"

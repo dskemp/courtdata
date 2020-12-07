@@ -12,8 +12,8 @@ advocates:
 - "Lindsay S. See"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
-- "West Virginia Solicitor General, on behalf of the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
+- "Solicitor General of West Virginia, on behalf of the Respondent"
 tags:
 topics:
 summary: "By taxing the federal pension benefits of U.S. Marshals Service retiree Dawson, while exempting from taxation the pension benefits of certain state and local law enforcement officers, West Virginia unlawfully discriminates against Mr. Dawson as 4 U.S.C. § 111 forbids."

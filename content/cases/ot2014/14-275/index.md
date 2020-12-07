@@ -14,7 +14,7 @@ advocates:
 - "Edwin S. Kneedler"
 roles:
 - "on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Deputy Solicitor General, on behalf of the Respondent"
 tags:
 - "Takings Clause"
 - "Fifth Amendment"

@@ -15,7 +15,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondents"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 topics:
 summary: "Absent the application of an equitable doctrine, the Federal Debt Collection Practices Act’s statute of limitations for bringing a private civil action against debt collectors who engage in certain prohibited practices, 15 U.S.C. § 1692k(d), begins to run when the alleged violation occurs, not when it is discovered."

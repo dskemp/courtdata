@@ -6,12 +6,12 @@ publishdate: ""
 argdate: "2020-12-01"
 justices:
 advocates:
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 - "Curtis E. Gannon"
 - "Paul L. Hoffman"
 roles:
 - "on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondents"
 tags:
 - 

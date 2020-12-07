@@ -10,7 +10,7 @@ advocates:
 - "Eric J. Feigin"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Deputy Solicitor General, on behalf of the Respondent"
 tags:
 - "Armed Career Criminal Act of 1984"
 - "criminal intent"

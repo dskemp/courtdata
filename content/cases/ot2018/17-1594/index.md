@@ -11,7 +11,7 @@ advocates:
 - "Malcolm L. Stewart"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondents"
+- "Deputy Solicitor General, on behalf of the Respondents"
 tags:
 topics:
 summary: "The Federal Government is not a “person” capable of petitioning the Patent Trial and Appeal Board to institute patent review proceedings under the Leahy-Smith America Invents Act."

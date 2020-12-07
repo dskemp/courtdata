@@ -2,12 +2,12 @@
 	<section class="profileHeader">
 		<h1>{{ .Title }}</h1>
 		<hr>
-		<p>Hello, world.<!--{{ .Content }}--></p>
+		<p><!--Hello, world.-->{{ .Content }}</p>
 	</section>
 {{ end }}
 
 {{ define "main" }}
-<p class="sectionContent">Hello, world.</p>
-<!--	{{ partial "homepage-cases.html" . }}
-	{{ partial "homepage-justices.html" . }}-->
+<!--<p class="sectionContent">Hello, world.</p>-->
+	{{ partial "homepage-cases.html" . }}
+	{{ partial "homepage-justices.html" . }}
 {{ end }}

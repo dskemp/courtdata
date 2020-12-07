@@ -8,7 +8,7 @@ justices:
 - 2005roberts
 advocates:
 - "Andrew C. Simpson"
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondents"

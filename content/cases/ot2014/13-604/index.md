@@ -15,7 +15,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "Senior Deputy Attorney General of North Carolina, on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "Fourth Amendment"
 - "reasonable suspicion"

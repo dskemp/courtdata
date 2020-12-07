@@ -11,7 +11,7 @@ advocates:
 - "Michael R. Dreeben"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Deputy Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "The Government’s acquisition of Carpenter’s cell-site records from his wireless carriers was a Fourth Amendment search; and the Government did not obtain a warrant supported by probable cause before acquiring those records."

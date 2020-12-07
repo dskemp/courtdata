@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Appellants"
 - "on behalf of the Appellees"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Appellants"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Appellants"
 tags:
 topics:
 summary: "The District Court did not clearly err in concluding that race furnished the predominant rationale for North Carolina’s redesign of Congressional Districts 1 and 12."

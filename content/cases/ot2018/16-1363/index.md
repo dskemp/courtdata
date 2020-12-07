@@ -10,7 +10,7 @@ advocates:
 - "Zachary D. Tripp"
 - "Cecillia D. Wang"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Assistant to the Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

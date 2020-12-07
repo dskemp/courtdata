@@ -13,7 +13,7 @@ advocates:
 - "Allison J. Riggs"
 roles:
 - "Solicitor General of Texas, on behalf of the Appellants"
-- "Deputy Solicitor General, Department of Justice, on behalf of Appellee United States, in support of the Appellants"
+- "Deputy Solicitor General, on behalf of Appellee United States, in support of the Appellants"
 - "on behalf of the Appellees in No. 17-586"
 - "on behalf of the Appellees in No. 17-626"
 tags:

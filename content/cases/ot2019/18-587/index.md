@@ -15,7 +15,7 @@ advocates:
 - "Theodore B. Olson"
 - "Michael J. Mongan"
 roles:
-- "Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Solicitor General, on behalf of the Petitioners"
 - "on behalf of the private Respondent"
 - "on behalf of the state Respondents"
 tags:

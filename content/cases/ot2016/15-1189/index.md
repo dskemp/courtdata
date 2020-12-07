@@ -12,7 +12,7 @@ advocates:
 - "Constantine L. Trela, Jr"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting reversal in part and vacatur in part"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting reversal in part and vacatur in part"
 - "on behalf of the Respondent"
 tags:
 topics:

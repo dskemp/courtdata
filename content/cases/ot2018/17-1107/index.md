@@ -11,7 +11,7 @@ advocates:
 - "Riyaz A. Kanji"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 - "for the Muscogee (Creek) Nation, as amicus curiae, supporting the Respondent"
 tags:

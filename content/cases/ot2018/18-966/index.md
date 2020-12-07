@@ -12,7 +12,7 @@ advocates:
 - "Dale E. Ho"
 - "Douglas N. Letter"
 roles:
-- "Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Solicitor General, on behalf of the Petitioners"
 - "Solicitor General of New York, on behalf of Respondents New York, et al."
 - "on behalf of the Respondents New York Immigration Coalition, et al."
 - "on behalf of the U.S. House of Representatives, as amicus curiae, in support of the Respondents"

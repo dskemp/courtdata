@@ -11,8 +11,8 @@ advocates:
 - "Malcolm L. Stewart"
 - "George S. Isaacson"
 roles:
-- "South Dakota Attorney General, on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Attorney General of South Dakota, on behalf of the Petitioner"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

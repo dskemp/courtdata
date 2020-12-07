@@ -11,7 +11,7 @@ advocates:
 - "Frederick Liu"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "A putative notice sent to a nonpermanent resident to appear at a removal proceeding that fails to designate a specific time or place for that proceeding does not end the continuous residence period calculation necessary for possible cancellation of the individual’s removal."

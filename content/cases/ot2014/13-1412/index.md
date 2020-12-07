@@ -13,7 +13,7 @@ advocates:
 - "Leonard Feldman"
 roles:
 - "Deputy City Attorney, on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting vacatur in part and reversal in part"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting vacatur in part and reversal in part"
 - "on behalf of the Respondent"
 tags:
 - "qualified immunity"

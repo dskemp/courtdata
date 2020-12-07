@@ -12,7 +12,7 @@ advocates:
 - "David C. Frederick"
 roles:
 - "on behalf of the Petitioner"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

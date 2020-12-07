@@ -15,7 +15,7 @@ advocates:
 - "Richard A. Carothers"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of the Respondent"
 tags:
 - "Telecommunications Act of 1996"

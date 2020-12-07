@@ -11,7 +11,7 @@ advocates:
 - "Frederick Liu"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "The Armed Career Criminal Act’s elements clause encompasses a robbery offense that, like Florida’s law, requires the criminal to overcome the victim’s resistance."

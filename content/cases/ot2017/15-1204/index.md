@@ -16,8 +16,8 @@ advocates:
 - "Malcolm L. Stewart"
 - "Anilan T. Arulanantham"
 roles:
-- "Acting Solicitor General, Department of Justice, on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner (reargument)"
+- "Acting Solicitor General, on behalf of the Petitioners"
+- "Deputy Solicitor General, on behalf of the Petitioner (reargument)"
 - "on behalf of the Respondents"
 tags:
 topics:

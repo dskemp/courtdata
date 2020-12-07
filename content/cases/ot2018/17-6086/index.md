@@ -11,7 +11,7 @@ advocates:
 - "Jeffrey B. Wall"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Deputy Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "The Second Circuit’s judgment that 34 U.S.C. § 20913(d)—which requires the Attorney General to apply the Sex Offender Registration and Notification Act’s registration requirements as soon as feasible to offenders convicted before the statute’s enactment—is not an unconstitutional delegation of legislative authority is affirmed."

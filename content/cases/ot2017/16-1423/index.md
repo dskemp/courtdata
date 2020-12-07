@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "as amicus curiae, in support of neither party"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "Military Judge Mitchell’s simultaneous service on an Air Force appeals court and the Court of Military Commission Review violated neither 10 U.S.C. § 973(b)(2)(A) nor the Appointments Clause."

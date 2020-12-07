@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondent"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "False Claims Act"
 - "Wartime Suspension of Limitations Act"

@@ -12,7 +12,7 @@ advocates:
 - "Pratik A. Shah"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondents"
+- "Assistant to the Solicitor General, on behalf of the federal Respondents"
 - "on behalf of the Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians Respondent"
 tags:
 topics:

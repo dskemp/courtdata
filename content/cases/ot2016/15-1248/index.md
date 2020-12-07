@@ -12,7 +12,7 @@ advocates:
 - "Stephen B. Kinnaird"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 - "for Court-appointed amicus curiae defending the judgment below"
 tags:
 topics:

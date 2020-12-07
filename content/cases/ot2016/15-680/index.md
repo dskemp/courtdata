@@ -12,7 +12,7 @@ advocates:
 - "Paul D. Clement"
 roles:
 - "on behalf of the Appellants"
-- "Counselor to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting vacatur in part and affirmance in part"
+- "Counselor to the Solicitor General, for the United States, as amicus curiae, supporting vacatur in part and affirmance in part"
 - "on behalf of the Appellees"
 tags:
 topics:

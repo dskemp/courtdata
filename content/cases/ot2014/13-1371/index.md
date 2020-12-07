@@ -15,7 +15,7 @@ advocates:
 roles:
 - "Solicitor General of Texas, on behalf of the Petitioners"
 - "on behalf of the Respondent"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "disparate impact"
 - "Fair Housing Act"

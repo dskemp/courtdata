@@ -12,7 +12,7 @@ advocates:
 - "Jeffrey A. Lamken"
 roles:
 - "on behalf of the Petitioners"
-- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Principal Deputy Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of Respondent Google LLC"
 - "on behalf of Respondents Paloma Gaos, et al."
 tags:
