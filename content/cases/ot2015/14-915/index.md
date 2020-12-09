@@ -1,5 +1,5 @@
 ---
-title: "Friedrichs v. California Teachers Assn."
+title: "Friedrichs v. California Teachers Association"
 citation: "578 U.S. ___"
 docket: "14-915"
 publishdate: "2016-03-29"
