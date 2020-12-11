@@ -5,14 +5,14 @@ docket: "14-1055"
 publishdate: "2017-01-18"
 argdate: "2016-11-08"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "E. Joshua Rosenkranz"
 - "Ann O’Connell"
 - "Brian P. Brooks"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

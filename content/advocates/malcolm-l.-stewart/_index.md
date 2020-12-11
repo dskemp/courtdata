@@ -1,10 +1,10 @@
 ---
 title: "Malcolm L. Stewart"
-date: 2020-11-25
-lastmod: 2020-11-26
 firstname: "Malcolm L."
 lastname: "Stewart"
 alphaname: "stewart-malcolm-l"
-summary: "Malcolm Stewart is a Deputy Solicitor General in U.S. Department of Justice."
+date: "2020-11-30"
+summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
-Malcolm Stewart is a Deputy Solicitor General in U.S. Department of Justice. He has worked in the U.S. Solicitor General’s office since 1993.
+This advocate does not yet have a biography. To submit one, please contact the site administrator.
+

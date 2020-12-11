@@ -5,14 +5,14 @@ docket: "17-1174"
 argdate: "2018-11-26"
 publishdate: "2019-05-28"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Dario Borghesan"
 - "Jeffrey B. Wall"
 - "Zane D. Wilson"
 roles:
 - "Assistant Attorney General of Alaska, on behalf of the Petitioners"
-- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Principal Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondent"
 tags:
 topics:

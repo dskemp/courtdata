@@ -5,17 +5,17 @@ docket: "18-587"
 argdate: "2019-11-12"
 publishdate: "2020-06-18"
 justices:
-- "2005roberts"
-- "2009sotomayor"
-- "1991thomas"
-- "2006alito"
-- "2018kavanaugh"
+- 2005roberts
+- 2009sotomayor
+- 1991thomas
+- 2006alito
+- 2018kavanaugh
 advocates:
 - "Noel J. Francisco"
 - "Theodore B. Olson"
 - "Michael J. Mongan"
 roles:
-- "Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Solicitor General, on behalf of the Petitioners"
 - "on behalf of the private Respondent"
 - "on behalf of the state Respondents"
 tags:

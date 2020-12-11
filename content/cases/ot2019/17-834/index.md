@@ -5,16 +5,16 @@ docket: "17-834"
 argdate: "2019-10-16"
 publishdate: "2020-03-03"
 justices:
-- "2006alito"
-- "1991thomas"
-- "1994breyer"
+- 2006alito
+- 1991thomas
+- 1994breyer
 advocates:
 - "Derek Schmidt"
 - "Christopher G. Michel"
-- "Paul Hughes"
+- "Paul W. Hughes"
 roles:
 - "Attorney General of Kansas, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Immigration Reform and Control Act of 1986"

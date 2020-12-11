@@ -5,14 +5,14 @@ docket: "16-1011"
 argdate: "2018-04-16"
 publishdate: "2018-06-22"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Paul D. Clement"
 - "Zachary D. Tripp"
 - "Kannon K. Shanmugam"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

@@ -5,7 +5,7 @@ docket: "16-1432"
 argdate: "2018-03-19"
 publishdate: "2018-06-11"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Adam G. Unikowsky"
 - "Shay Dvoretzky"

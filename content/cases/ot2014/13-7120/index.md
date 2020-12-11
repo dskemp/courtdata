@@ -6,18 +6,18 @@ argdate: "2014-11-05"
 reargdate: "2015-04-20"
 publishdate: "2015-06-26"
 justices:
-- "1986scalia"
-- "1988kennedy"
-- "1991thomas"
-- "2006alito"
+- 1986scalia
+- 1988kennedy
+- 1991thomas
+- 2006alito
 advocates:
 - "Katherine M. Menendez"
 - "John F. Bash"
 - "Michael R. Dreeben"
 roles:
 - "Assistant Federal Defender, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent (Argument)"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent (Reargument)"
+- "Assistant to the Solicitor General, on behalf of the Respondent (Argument)"
+- "Deputy Solicitor General, on behalf of the Respondent (Reargument)"
 tags:
 - "Armed Career Criminal Act of 1984"
 - "residual clause"

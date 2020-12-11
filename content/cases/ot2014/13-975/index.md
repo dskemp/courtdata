@@ -5,17 +5,17 @@ docket: "13-975"
 argdate: "2014-11-10"
 publishdate: "2015-01-14"
 justices:
-- "2009sotomayor"
-- "2006alito"
-- "2005roberts"
-- "1991thomas"
+- 2009sotomayor
+- 2006alito
+- 2005roberts
+- 1991thomas
 advocates:
 - "Jeffrey L. Fisher"
 - "Ann O’Connell"
 - "Richard A. Carothers"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of the Respondent"
 tags:
 - "Telecommunications Act of 1996"

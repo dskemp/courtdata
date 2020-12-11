@@ -5,14 +5,14 @@ docket: "17-1657"
 argdate: "2019-02-20"
 publishdate: "2019-05-20"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Danielle Spinelli"
 - "Zachary D. Tripp"
 - "Douglas Hallward-Driemeier"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

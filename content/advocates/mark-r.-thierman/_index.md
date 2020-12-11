@@ -1,9 +1,9 @@
 ---
 title: "Mark R. Thierman"
-date: 2020-11-25
 firstname: "Mark R."
 lastname: "Thierman"
 alphaname: "thierman-mark-r"
+date: "2020-11-30"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.

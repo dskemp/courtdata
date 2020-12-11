@@ -5,14 +5,14 @@ docket: "18-489"
 argdate: "2019-04-24"
 publishdate: "2019-06-03"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Daniel L. Geyser"
 - "Sopan Joshi"
 - "Nicole A. Saharsky"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of the Respondents"
 tags:
 topics:

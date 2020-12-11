@@ -5,9 +5,9 @@ docket: "13-895"
 argdate: "2014-11-12"
 publishdate: "2015-03-25"
 justices:
-- "1994breyer"
-- "1986scalia"
-- "1991thomas"
+- 1994breyer
+- 1986scalia
+- 1991thomas
 advocates:
 - "Richard Pildes"
 - "Eric Schnapper"
@@ -16,7 +16,7 @@ advocates:
 roles:
 - "on behalf of the Appellants"
 - "on behalf of the Appellants"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae"
+- "Solicitor General, for the United States, as amicus curiae"
 - "Solicitor General of Alabama, on behalf of the Appellees"
 tags:
 - "racial gerrymandering"

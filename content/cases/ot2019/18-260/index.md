@@ -5,17 +5,17 @@ docket: "18-260"
 argdate: "2019-11-06"
 publishdate: "2020-04-23"
 justices:
-- "1994breyer"
-- "2018kavanaugh"
-- "1991thomas"
-- "2006alito"
+- 1994breyer
+- 2018kavanaugh
+- 1991thomas
+- 2006alito
 advocates:
 - "Elbert Lin"
 - "Malcolm L. Stewart"
 - "David L. Henkin"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 - "Environmental Protection Agency"

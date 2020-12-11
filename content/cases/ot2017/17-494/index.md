@@ -5,14 +5,14 @@ docket: "17-494"
 argdate: "2018-04-17"
 publishdate: "2018-06-21"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Marty J. Jackley"
 - "Malcolm L. Stewart"
 - "George S. Isaacson"
 roles:
-- "South Dakota Attorney General, on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Attorney General of South Dakota, on behalf of the Petitioner"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

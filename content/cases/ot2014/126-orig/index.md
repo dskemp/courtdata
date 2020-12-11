@@ -10,11 +10,11 @@ advocates:
 - "David D. Cookson"
 roles:
 - "Solicitor General of Kansas, on behalf of the Plaintiff"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae"
 - "Chief Deputy Attorney General of Nebraska, on behalf of the Defendants"
 tags:
 - "original jurisdiction"
-- "decree"
+- decree
 - "Republican River Compact"
 topics:
 - "water law"

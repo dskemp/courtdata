@@ -5,7 +5,7 @@ docket: "16-1067"
 argdate: "2017-12-06"
 publishdate: "2018-02-21"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Stuart Banner"
 - "Brett E. Legner"

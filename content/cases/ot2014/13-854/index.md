@@ -5,18 +5,18 @@ docket: "13-854"
 argdate: "2014-10-15"
 publishdate: "2015-01-20"
 justices:
-- "1994breyer"
-- "1991thomas"
+- 1994breyer
+- 1991thomas
 advocates:
 - "William M. Jay"
 - "Ginger D. Anders"
 - "Carter G. Phillips"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae"
 - "on behalf of the Respondents"
 tags:
-- "patent"
+- patent
 - "standard of review"
 topics:
 - "intellectual property law"

@@ -5,14 +5,14 @@ docket: "18-916"
 argdate: "2019-12-09"
 publishdate: "2020-04-20"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Adam H. Charnes"
 - "Jonathan Y. Ellis"
 - "Daniel L. Geyser"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondent, supporting reversal"
+- "Assistant to the Solicitor General, on behalf of the federal Respondent, supporting reversal"
 - "on behalf of the private Respondent"
 tags:
 topics:

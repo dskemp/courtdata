@@ -5,17 +5,17 @@ docket: "13-271"
 argdate: "2015-01-12"
 publishdate: "2015-04-21"
 justices:
-- "1994breyer"
-- "1991thomas"
-- "1986scalia"
+- 1994breyer
+- 1991thomas
+- 1986scalia
 advocates:
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 - "Anthony A. Yang"
 - "Jeffrey L. Fisher"
 - "Stephen R. McAllister"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondent"
 - "Solicitor General of Kansas, on behalf of Kansas, et al., as amici curiae, supporting the Respondents"
 tags:

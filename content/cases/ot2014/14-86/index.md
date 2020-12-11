@@ -5,14 +5,14 @@ docket: "14-86"
 publishdate: "2015-06-01"
 argdate: "2015-02-25"
 justices:
-- "1986scalia"
-- "2006alito"
-- "1991thomas"
+- 1986scalia
+- 2006alito
+- 1991thomas
 advocates:
 - "Ian H. Gershengorn"
 - "Shay Dvoretzky"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Deputy Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Title VII"

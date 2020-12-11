@@ -5,7 +5,7 @@ docket: "16-6795"
 argdate: "2017-10-30"
 publishdate: "2018-03-21"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Lee B. Kovarsky"
 - "Scott A. Keller"

@@ -5,13 +5,13 @@ docket: "18-1584"
 argdate: "2020-02-24"
 publishdate: "2020-06-15"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Anthony A. Yang"
 - "Paul D. Clement"
 - "Michael K. Kellogg"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners in 18-1584"
+- "Assistant to the Solicitor General, on behalf of the Petitioners in 18-1584"
 - "on behalf of the Petitioner in 18-1587"
 - "on behalf of the Respondents"
 tags:

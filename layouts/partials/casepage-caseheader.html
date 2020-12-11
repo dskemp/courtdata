@@ -3,13 +3,13 @@
 	{{ $this := . }}
 	{{ with .Params.citation }}
 		{{ if gt (len .) 3 }}
-			<h3>{{ . }} ({{ $this.Params.PublishDate.Format "2006" }})</h3>
+			<h3>{{ . }} ({{ $this.Params.PublishDate.Format "January 2, 2006" }})</h3>
 		{{ else }} <!-- Lines 7-8 may be unnecessary -->
-			<h3>No. {{ .Params.docket }} (argued {{ dateFormat "Jan. 2, 2006" .Params.argdate }})</h3>
+			<h3>No. {{ .Params.docket }} (argued {{ dateFormat "January 2, 2006" .Params.argdate }})</h3>
 		{{ end }}
 	{{ end }}
 	{{ if eq .Params.citation "" }}
-		<h3>No. {{ .Params.docket }} (argued {{ dateFormat "Jan. 2, 2006" .Params.argdate }})</h3>
+		<h3>No. {{ .Params.docket }} (argued {{ dateFormat "January 2, 2006" .Params.argdate }})</h3>
 	{{ end }}
 	<hr>
 	<p>{{ .Content }}</p>

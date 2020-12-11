@@ -5,12 +5,12 @@ docket: "17-1484"
 argdate: "2019-01-15"
 publishdate: "2019-06-03"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Edwin S. Kneedler"
 - "Pratik A. Shah"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Deputy Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

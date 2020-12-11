@@ -5,14 +5,14 @@ docket: "16-499"
 argdate: "2017-10-11"
 publishdate: "2018-04-24"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Jeffrey L. Fisher"
 - "Brian H. Fletcher"
 - "Paul D. Clement"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of the Respondent"
 tags:
 topics:

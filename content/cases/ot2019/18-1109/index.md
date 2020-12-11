@@ -5,9 +5,9 @@ docket: "18-1109"
 argdate: "2019-12-11"
 publishdate: "2020-02-25"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 - "Oramel H. Skinner"
 roles:
 - "on behalf of the Petitioner"

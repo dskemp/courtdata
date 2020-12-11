@@ -5,16 +5,16 @@ docket: "17-1712"
 argdate: "2020-01-13"
 publishdate: "2020-06-01"
 justices:
-- "2018kavanaugh"
-- "1991thomas"
-- "2009sotomayor"
+- 2018kavanaugh
+- 1991thomas
+- 2009sotomayor
 advocates:
 - "Peter K. Stris"
 - "Sopan Joshi"
 - "Joseph R. Palmore"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondents"
 tags:
 - "Employee Retirement Income Security Act of 1974"

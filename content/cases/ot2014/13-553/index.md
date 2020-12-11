@@ -5,15 +5,15 @@ docket: "13-553"
 publishdate: "2015-03-04"
 argdate: "2014-12-09"
 justices:
-- "2006alito"
-- "1991thomas"
+- 2006alito
+- 1991thomas
 advocates:
 - "Andrew L. Brasher"
 - "Elaine J. Goldenberg"
 - "Carter G. Phillips"
 roles:
 - "Solicitor General of Alabama, on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of the Respondent"
 tags:
 - "Railroad Revitalization and Regulation Reform Act of 1976"

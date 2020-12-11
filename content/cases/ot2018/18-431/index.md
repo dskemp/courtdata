@@ -5,12 +5,12 @@ docket: "18-431"
 argdate: "2019-04-17"
 publishdate: "2019-06-24"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Eric J. Feigin"
 - "Brandon E. Beck"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, on behalf of the Petitioner"
 - "Assistant Federal Public Defender, on behalf of the Respondents"
 tags:
 topics:

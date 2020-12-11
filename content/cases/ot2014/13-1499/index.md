@@ -5,12 +5,12 @@ docket: "13-1499"
 argdate: "2015-01-20"
 publishdate: "2015-04-29"
 justices:
-- "2005roberts"
-- "1994breyer"
-- "1993ginsburg"
-- "1986scalia"
-- "1988kennedy"
-- "2006alito"
+- 2005roberts
+- 1994breyer
+- 1993ginsburg
+- 1986scalia
+- 1988kennedy
+- 2006alito
 advocates:
 - "Andrew J. Pincus"
 - "Barry Richard"

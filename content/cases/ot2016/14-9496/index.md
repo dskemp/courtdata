@@ -5,14 +5,14 @@ docket: "14-9496"
 publishdate: "2017-03-21"
 argdate: "2016-10-05"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "Stanley B. Eisenhammer"
-- "Ilana H. Eistenstein"
+- "Ilana H. Eisenstein"
 - "Michael A. Scodro"
 roles:
 - "on behalf of the Petitioner, as appointed by the Court"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

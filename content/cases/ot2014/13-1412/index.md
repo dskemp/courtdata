@@ -5,15 +5,15 @@ docket: "13-1412"
 argdate: "2015-03-23"
 publishdate: "2015-05-18"
 justices:
-- "2006alito"
-- "1986scalia"
+- 2006alito
+- 1986scalia
 advocates:
 - "Christine Van Aken"
 - "Ian H. Gershengorn"
 - "Leonard Feldman"
 roles:
 - "Deputy City Attorney, on behalf of the Petitioners"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting vacatur in part and reversal in part"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting vacatur in part and reversal in part"
 - "on behalf of the Respondent"
 tags:
 - "qualified immunity"

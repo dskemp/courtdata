@@ -5,7 +5,7 @@ docket: "16-6855"
 argdate: "2017-10-30"
 publishdate: "2018-04-17"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Mark E. Olive"
 - "Sarah Hawkins Warren"

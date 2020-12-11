@@ -5,14 +5,14 @@ docket: "17-647"
 argdate: "2019-01-16"
 publishdate: "2019-06-21"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "J. David Breemer"
 - "Noel J. Francisco"
 - "Teresa Ficken Sachs"
 roles:
 - "on behalf of the Petitioner"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

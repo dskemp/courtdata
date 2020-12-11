@@ -5,14 +5,14 @@ docket: "18-485"
 argdate: "2019-04-17"
 publishdate: "2019-06-20"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 - "Jeffrey B. Wall"
 - "Thomas J. O’Connor"
 roles:
 - "on behalf of the Petitioner"
-- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, in support of reversal"
+- "Principal Deputy Solicitor General, for the United States, as amicus curiae, in support of reversal"
 - "on behalf of the Respondent"
 tags:
 topics:

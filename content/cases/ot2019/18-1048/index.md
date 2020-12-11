@@ -5,14 +5,14 @@ docket: "18-1048"
 argdate: "2020-01-21"
 publishdate: "2020-06-01"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Shay Dvoretzky"
 - "Jonathan Y. Ellis"
 - "Jonathan D. Hacker"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

@@ -5,14 +5,14 @@ docket: "19-267"
 argdate: "2020-05-11"
 publishdate: "2020-07-08"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Eric C. Rassbach"
 - "Morgan L. Ratner"
 - "Jeffrey L. Fisher"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

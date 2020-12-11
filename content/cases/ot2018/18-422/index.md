@@ -5,7 +5,7 @@ docket: "18-422"
 argdate: "2019-03-26"
 publishdate: "2019-06-27"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Paul D. Clement"
 - "Emmet J. Bondurant, II"

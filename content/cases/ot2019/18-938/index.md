@@ -5,7 +5,7 @@ docket: "18-938"
 argdate: "2019-11-13"
 publishdate: "2020-01-14"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "James K. Lehman"
 - "Griffin S. Dunham"
@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "A bankruptcy court’s order unreservedly denying relief from the automatic stay of creditor debt-collection efforts outside the bankruptcy forum, see 11 U.S.C. § 362(a), is final and immediately appealable under 28 U.S.C. § 158(a)."

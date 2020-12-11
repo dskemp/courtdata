@@ -11,7 +11,7 @@ advocates:
 - "Mark D. Standridge"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting vacatur and remand"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting vacatur and remand"
 - "on behalf of the Respondents"
 tags:
 - "Fourth Amendment"

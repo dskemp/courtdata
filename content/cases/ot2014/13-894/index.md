@@ -5,13 +5,13 @@ docket: "13-894"
 argdate: "2014-11-04"
 publishdate: "2015-01-21"
 justices:
-- "2005roberts"
-- "2009sotomayor"
+- 2005roberts
+- 2009sotomayor
 advocates:
 - "Ian H. Gershengorn"
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Deputy Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Merit Systems Protection Board"

@@ -5,12 +5,12 @@ docket: "19-177"
 argdate: "2020-05-05"
 publishdate: "2020-06-29"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Christopher G. Michel"
 - "David W. Bowker"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Assistant to the Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

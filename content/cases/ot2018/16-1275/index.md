@@ -5,14 +5,16 @@ docket: "16-1275"
 argdate: "2018-11-05"
 publishdate: "2019-06-17"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
+- 1993ginsburg
+- 2005roberts
 advocates:
 - "Charles J. Cooper"
 - "Noel J. Francisco"
 - "Toby J. Heytens"
 roles:
 - "on behalf of the Petitioners"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "Solicitor General, Virginia, on behalf of the Respondent"
 tags:
 topics:

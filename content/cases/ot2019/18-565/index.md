@@ -5,15 +5,15 @@ docket: "18-565"
 argdate: "2019-11-05"
 publishdate: "2020-03-30"
 justices:
-- "2009sotomayor"
-- "1991thomas"
+- 2009sotomayor
+- 1991thomas
 advocates:
 - "Carter G. Phillips"
 - "Erica L. Ross"
 - "Thomas C. Goldstein"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the federal Respondent"
+- "Assistant to the Solicitor General, on behalf of the federal Respondent"
 - "on behalf of the private Respondents"
 tags:
 topics:

@@ -5,17 +5,17 @@ docket: "13-1314"
 argdate: "2015-03-02"
 publishdate: "2015-06-29"
 justices:
-- "1993ginsburg"
-- "2005roberts"
-- "1986scalia"
-- "1991thomas"
+- 1993ginsburg
+- 2005roberts
+- 1986scalia
+- 1991thomas
 advocates:
 - "Paul D. Clement"
 - "Eric J. Feigin"
 - "Seth P. Waxman"
 roles:
 - "on behalf of the Appellant"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Appellees"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Appellees"
 - "on behalf of the Appellees"
 tags:
 - "Elections Clause"

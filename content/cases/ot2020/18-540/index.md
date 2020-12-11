@@ -10,7 +10,7 @@ advocates:
 - "Seth P. Waxman"
 roles:
 - "Solicitor General, Little Rock, Arkansas; on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, Washington D.C.; for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, Washington D.C.; for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Petitioner"
 tags:
 - "Employee Retirement Income Security Act of 1974"

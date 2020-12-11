@@ -5,7 +5,7 @@ docket: "19A1016"
 argdate: ""
 publishdate: "2020-04-06"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 tags:
 topics:
 summary: "The District Court’s order granting a preliminary injunction is stayed to the extent it requires Wisconsin to count absentee ballots postmarked after April 7, 2020, the date of the State’s election."

@@ -15,7 +15,7 @@
 		<h2 class="sectionTitle">Advocates</h2>
 		<hr class="sectionTitleRule">
 		<hr class="sectionTitleRule2">
-		{{ range .Data.Terms.ByCount }}
+		{{ range .Data.Terms.ByCount }} <!-- Alternate between .Data.Terms.ByCount and .Data.Terms.Alphabetical-->
 			<article class="section2Content">
 				<h2 class="sectionContentTitle"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span style="font-weight:normal;">({{.Count}})</span></h2>
 				<p class="sectionContent">{{ .Page.Summary }}</p>			</article>

@@ -5,7 +5,7 @@ docket: "18-96"
 argdate: "2019-01-16"
 publishdate: "2019-06-26"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "Shay Dvoretzky"
 - "David L. Franklin"

@@ -5,7 +5,7 @@ docket: "18-1334"
 argdate: "2019-10-15"
 publishdate: "2020-06-01"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Donald B. Verrilli, Jr"
 - "Jeffrey B. Wall"
@@ -13,7 +13,7 @@ advocates:
 - "Jessica E. Mendez-Colberg"
 roles:
 - "on behalf of the Financial Oversight and Management Board for Puerto Rico"
-- "Principal Deputy Solicitor General, Department of Justice, on behalf of the United States"
+- "Principal Deputy Solicitor General, on behalf of the United States"
 - "on behalf of Aurelius INvestment, LLC, et al."
 - "on behalf of UTIER"
 tags:

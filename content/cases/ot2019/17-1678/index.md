@@ -5,9 +5,9 @@ docket: "17-1678"
 argdate: "2019-11-12"
 publishdate: "2020-02-25"
 justices:
-- "2006alito"
-- "1991thomas"
-- "1993ginsburg"
+- 2006alito
+- 1991thomas
+- 1993ginsburg
 advocates:
 - "Stephen I. Vladeck"
 - "Randolph J. Ortega"
@@ -15,7 +15,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondent"
-- "Principal Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Principal Deputy Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 topics:
 summary: "A cross-border shooting by a United States Border Patrol agent does not give rise to a damages claim pursuant to Bivens v. Six Unknown Fed. Narcotics Agents, 403 U.S. 388."

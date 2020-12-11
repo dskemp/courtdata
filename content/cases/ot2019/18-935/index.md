@@ -5,14 +5,14 @@ docket: "18-935"
 argdate: "2019-12-11"
 publishdate: "2020-02-25"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Amir C. Tayrani"
 - "Sopan Joshi"
 - "Andrew J. Pincus"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting neither party"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting neither party"
 - "on behalf of the Respondent"
 tags:
 topics:

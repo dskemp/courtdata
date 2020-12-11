@@ -5,12 +5,12 @@ docket: "18-457"
 argdate: "2019-04-16"
 publishdate: "2019-06-21"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Matthew W. Sawchak"
 - "David A. O’Neil"
 roles:
-- "North Carolina Solicitor General, on behalf of the Petitioner"
+- "Solicitor General of North Carolina, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

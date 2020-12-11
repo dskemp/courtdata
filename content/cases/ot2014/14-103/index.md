@@ -5,19 +5,19 @@ docket: "14-103"
 publishdate: "2015-06-15"
 argdate: "2015-02-25"
 justices:
-- "1991thomas"
-- "2009sotomayor"
-- "1994breyer"
+- 1991thomas
+- 2009sotomayor
+- 1994breyer
 advocates:
 - "Aaron Streett"
 - "Brian H. Fletcher"
 - "Jeffrey L. Oldham"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondent"
 tags:
-- "bankruptcy"
+- bankruptcy
 - "attorney’s fees"
 topics:
 - "bankruptcy law"

@@ -5,14 +5,14 @@ docket: "18-966"
 argdate: "2019-04-23"
 publishdate: "2019-06-27"
 justices:
-- "2005roberts"
+- 2005roberts
 advocates:
 - "Noel J. Francisco"
 - "Barbara D. Underwood"
 - "Dale E. Ho"
 - "Douglas N. Letter"
 roles:
-- "Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Solicitor General, on behalf of the Petitioners"
 - "Solicitor General of New York, on behalf of Respondents New York, et al."
 - "on behalf of the Respondents New York Immigration Coalition, et al."
 - "on behalf of the U.S. House of Representatives, as amicus curiae, in support of the Respondents"

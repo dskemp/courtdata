@@ -5,7 +5,7 @@ docket: "18-6662"
 argdate: "2020-01-21"
 publishdate: "2020-02-26"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Richard M. Summa"
 - "Jonathan C. Bond"

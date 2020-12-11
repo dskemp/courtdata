@@ -9,3 +9,4 @@ appointedby: Lincoln
 startdate: "1864-12-15"
 enddate: "1873-05-07"
 ---
+This justice does not yet have a biography. To submit one, please contact the site administrator.

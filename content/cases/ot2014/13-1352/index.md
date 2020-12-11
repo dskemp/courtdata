@@ -5,16 +5,16 @@ docket: "13-1352"
 argdate: "2015-03-02"
 publishdate: "2015-06-18"
 justices:
-- "2006alito"
-- "1986scalia"
-- "1991thomas"
+- 2006alito
+- 1986scalia
+- 1991thomas
 advocates:
 - "Matthew E. Meyer"
-- "Ilana Eisenstein"
+- "Ilana H. Eisenstein"
 - "Jeffrey L. Fisher"
 roles:
 - "Assistant Prosecuting Attorney, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Sixth Amendment"

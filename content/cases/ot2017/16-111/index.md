@@ -1,11 +1,11 @@
 ---
-title: "Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Comm’n"
+title: "Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Commission"
 citation: "584 U.S. ___"
 docket: "16-111"
 argdate: "2017-12-05"
 publishdate: "2018-06-04"
 justices:
-- "1988kennedy"
+- 1988kennedy
 advocates:
 - "Kristen K. Waggoner"
 - "Noel J. Francisco"
@@ -13,7 +13,7 @@ advocates:
 - "David D. Cole"
 roles:
 - "on behalf of the Petitioners"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "Solicitor General of Colorado, on behalf of the Respondent"
 - "on behalf of the private Respondents"
 tags:

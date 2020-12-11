@@ -5,14 +5,14 @@ docket: "15-1439"
 argdate: "2017-11-28"
 publishdate: "2018-03-20"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 - "Allon Kedem"
 - "Thomas C. Goldstein"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, in support of affirmance"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, in support of affirmance"
 - "on behalf of the Respondents"
 tags:
 topics:

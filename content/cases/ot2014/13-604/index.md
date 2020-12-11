@@ -5,9 +5,9 @@ docket: "13-604"
 argdate: "2014-10-06"
 publishdate: "2014-12-15T00:00:00-00:00"
 justices:
-- "2005roberts"
-- "2010kagan"
-- "2009sotomayor"
+- 2005roberts
+- 2010kagan
+- 2009sotomayor
 advocates:
 - "Jeffrey L. Fisher"
 - "Robert C. Montgomery"
@@ -15,7 +15,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "Senior Deputy Attorney General of North Carolina, on behalf of the Respondent"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "Fourth Amendment"
 - "reasonable suspicion"

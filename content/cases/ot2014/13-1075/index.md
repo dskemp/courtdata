@@ -5,13 +5,13 @@ docket: "13-1075"
 argdate: "2014-12-10"
 publishdate: "2015-04-22"
 justices:
-- "2010kagan"
-- "2006alito"
+- 2010kagan
+- 2006alito
 advocates:
 - "Elizabeth B. Prelogar"
 - "E. Joshua Rosenkranz"
 roles:
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Federal Tort Claims Act"

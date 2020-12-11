@@ -5,8 +5,8 @@ docket: "13-7211"
 argdate: "2014-10-15"
 publishdate: "2015-01-14"
 justices:
-- "1986scalia"
-- "1991thomas"
+- 1986scalia
+- 1991thomas
 advocates:
 - "Randolph L. Schaffer, Jr"
 - "Andrew S. Oldham"

@@ -9,3 +9,4 @@ appointedby: Grant
 startdate: "1874-03-04"
 enddate: "1888-03-23"
 ---
+This justice does not yet have a biography. To submit one, please contact the site administrator.

@@ -5,7 +5,7 @@ docket: "19-465"
 argdate: "2020-05-13"
 publishdate: "2020-07-06"
 justices:
-- "2010kagan"
+- 2010kagan
 advocates:
 - "L. Lawrence Lessig"
 - "Noah Purcell"

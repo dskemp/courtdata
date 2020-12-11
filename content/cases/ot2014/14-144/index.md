@@ -5,7 +5,7 @@ docket: "14-144"
 publishdate: "2015-06-18"
 argdate: "2015-03-23"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Scott A. Keller"
 - "R. James George"

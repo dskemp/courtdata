@@ -5,9 +5,9 @@ docket: "13-1032"
 argdate: "2014-12-08"
 publishdate: "2015-03-03"
 justices:
-- "1991thomas"
-- "1988kennedy"
-- "1993ginsburg"
+- 1991thomas
+- 1988kennedy
+- 1993ginsburg
 advocates:
 - "George S. Isaacson"
 - "Daniel D. Domenico"

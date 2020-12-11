@@ -5,7 +5,7 @@ docket: "16-1220"
 argdate: "2018-04-24"
 publishdate: "2018-06-14"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Michael J. Gottlieb"
 - "Brian H. Fletcher"
@@ -13,7 +13,7 @@ advocates:
 - "Jonathan Jacobson"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Ministry of Commerce of the People’s Republic of China, as amicus curiae, in support of the Respondents"
 - "on behalf of the Respondents"
 tags:

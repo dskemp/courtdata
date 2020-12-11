@@ -5,14 +5,14 @@ docket: "17-1268"
 argdate: "2020-02-24"
 publishdate: "2020-05-18"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Matthew D. McGill"
 - "Erica L. Ross"
 - "Christopher M. Curran"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

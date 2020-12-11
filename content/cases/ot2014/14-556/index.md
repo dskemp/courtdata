@@ -5,11 +5,11 @@ docket: "14-556"
 publishdate: "2015-06-26"
 argdate: "2015-04-28"
 justices:
-- "1988kennedy"
-- "2005roberts"
-- "1986scalia"
-- "1991thomas"
-- "2006alito"
+- 1988kennedy
+- 2005roberts
+- 1986scalia
+- 1991thomas
+- 2006alito
 advocates:
 - "Mary L. Bonauto"
 - "Donald B. Verrilli, Jr"
@@ -18,7 +18,7 @@ advocates:
 - "Joseph F. Whalen"
 roles:
 - "on behalf of the Petitioners on Q1"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting Petitioners on Q1"
+- "Solicitor General, for the United States, as amicus curiae, supporting Petitioners on Q1"
 - "Special Assistant Attorney General of Michigan, on behalf of the Respondents on Q1"
 - "on behalf of the Petitioners on Q2"
 - "Associate Solicitor General of Tennessee, on behalf of the Respondents on Q2"

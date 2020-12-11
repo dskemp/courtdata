@@ -5,7 +5,7 @@ docket: "17-1094"
 argdate: "2018-11-27"
 publishdate: "2019-02-26"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "John Hueston"
 - "Jonathan A. Herstoff"

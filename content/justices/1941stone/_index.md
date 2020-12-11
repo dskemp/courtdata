@@ -9,3 +9,4 @@ appointedby: "Roosevelt, F."
 startdate: "1941-07-03"
 enddate: "1946-04-22"
 ---
+This justice does not yet have a biography. To submit one, please contact the site administrator.

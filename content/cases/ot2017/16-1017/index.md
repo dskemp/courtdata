@@ -11,7 +11,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "as amicus curiae, in support of neither party"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 topics:
 summary: "Certiorari dismissed as improvidently granted."

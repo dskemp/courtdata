@@ -5,14 +5,14 @@ docket: "13-534"
 argdate: "2014-10-14"
 publishdate: "2015-02-25"
 justices:
-- "1988kennedy"
-- "2006alito"
+- 1988kennedy
+- 2006alito
 advocates:
 - "Hashim M. Mooppan"
 - "Malcolm L. Stewart"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Deputy Solicitor General, on behalf of the Respondent"
 tags:
 - "Federal Trade Commission"
 - "Federal Trade Commission Act"

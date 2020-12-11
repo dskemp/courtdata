@@ -3,10 +3,15 @@ title: "Henson v. Santander Consumer USA Inc."
 citation: "582 U.S. ___"
 docket: "16-349"
 publishdate: "2017-06-12"
-argdate: ""
+argdate: "2017-04-18"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
+- "Kevin K. Russell"
+- "Kannon K. Shanmugam"
+roles:
+- "on behalf of the Petitioners"
+- "on behalf of the Respondent"
 tags:
 topics:
 summary: "A company that collects debts that it purchased for its own account, like Santander did here, is not a “debt collector” for purposes of the Fair Debt Collection Practices Act."

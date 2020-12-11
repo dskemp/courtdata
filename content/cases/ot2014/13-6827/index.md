@@ -5,16 +5,16 @@ docket: "13-6827"
 argdate: "2014-10-07"
 publishdate: "2015-01-20"
 justices:
-- "2006alito"
-- "1993ginsburg"
-- "2009sotomayor"
+- 2006alito
+- 1993ginsburg
+- 2009sotomayor
 advocates:
 - "Douglas Laycock"
 - "Anthony A. Yang"
 - "David A. Curran"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "Deputy Attorney General of Arkansas, on behalf of the Respondent"
 tags:
 - "Religious Land Use and Institutionalized Persons Act of 2000"

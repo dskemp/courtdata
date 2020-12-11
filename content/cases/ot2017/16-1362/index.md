@@ -5,7 +5,7 @@ docket: "16-1362"
 argdate: "2018-01-17"
 publishdate: "2018-04-02"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Paul D. Clement"
 - "James A. Feldman"

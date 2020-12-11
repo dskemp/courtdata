@@ -5,14 +5,14 @@ docket: "13-1034"
 argdate: "2015-01-14"
 publishdate: "2015-06-01"
 justices:
-- "1993ginsburg"
-- "1991thomas"
+- 1993ginsburg
+- 1991thomas
 advocates:
 - "Jon Laramore"
 - "Rachel P. Kovner"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of the Respondent"
+- "Assistant to the Solicitor General, on behalf of the Respondent"
 tags:
 - "Board of Immigration Appeals"
 - "Immigration and Nationality Act"

@@ -5,14 +5,14 @@ docket: "14-114"
 publishdate: "2015-06-25"
 argdate: "2015-03-04"
 justices:
-- "2005roberts"
-- "1986scalia"
+- 2005roberts
+- 1986scalia
 advocates:
 - "Michael A. Carvin"
 - "Donald B. Verrilli, Jr"
 roles:
 - "on behalf of the Petitioner"
-- "Solicitor General, Department of Justice, on behalf of the Respondents"
+- "Solicitor General, on behalf of the Respondents"
 tags:
 - "Patient Protection and Affordable Care Act"
 summary: "The Patient Protection and Affordable Care Act’s tax credits are available to individuals in States that have a Federal Exchange."

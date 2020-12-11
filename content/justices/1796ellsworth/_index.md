@@ -9,3 +9,4 @@ appointedby: Washington
 startdate: "1796-03-08"
 enddate: "1800-12-15"
 ---
+This justice does not yet have a biography. To submit one, please contact the site administrator.

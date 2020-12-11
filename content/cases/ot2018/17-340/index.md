@@ -5,7 +5,7 @@ docket: "17-340"
 argdate: "2018-10-03"
 publishdate: "2019-01-15"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Theodore J. Boutrous, Jr"
 - "Jennifer D. Bennett"

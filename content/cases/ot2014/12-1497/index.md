@@ -5,7 +5,7 @@ docket: "12-1497"
 argdate: "2015-01-13"
 publishdate: "2015-05-26"
 justices:
-- "2006alito"
+- 2006alito
 advocates:
 - "John P. Elwood"
 - "David S. Stone"
@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondent"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondent"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 tags:
 - "False Claims Act"
 - "Wartime Suspension of Limitations Act"

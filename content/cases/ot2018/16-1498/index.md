@@ -5,14 +5,14 @@ docket: "16-1498"
 argdate: "2018-10-30"
 publishdate: "2019-03-19"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Noah Purcell"
 - "Ann O’Connell"
 - "Adam G. Unikowsky"
 roles:
-- "Washington State Solicitor General, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Solicitor General of Washington, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 topics:

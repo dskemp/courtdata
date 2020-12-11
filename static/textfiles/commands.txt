@@ -9,3 +9,7 @@ Advocates
 	- Run "advocates cleanup and sh.textfactory"
 
 Cases
+
+- Add time to keep cases in correct decided order
+	2017-03-03T14:15:59-05:00
+	YYYY-MM-DDTHH:MM:SS-hh:mm

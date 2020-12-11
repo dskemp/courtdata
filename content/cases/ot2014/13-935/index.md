@@ -5,21 +5,21 @@ docket: "13-935"
 argdate: "2015-01-14"
 publishdate: "2015-05-26"
 justices:
-- "2009sotomayor"
-- "2006alito"
-- "2005roberts"
-- "1991thomas"
+- 2009sotomayor
+- 2006alito
+- 2005roberts
+- 1991thomas
 advocates:
 - "Catherine Steege"
 - "Curtis E. Gannon"
 - "Jonathan D. Hacker"
 roles:
 - "on behalf of the Petitioners"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioners"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
 - "on behalf of the Respondent"
 tags:
 - "separation of powers"
-- "consent"
+- consent
 - "Article III"
 topics:
 - "bankruptcy law"

@@ -5,14 +5,14 @@ docket: "17-290"
 argdate: "2019-01-07"
 publishdate: "2019-05-20"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Shay Dvoretzky"
 - "Malcolm L. Stewart"
 - "David C. Frederick"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

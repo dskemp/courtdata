@@ -5,14 +5,14 @@ docket: "13-1402"
 argdate: "2015-02-23"
 publishdate: "2015-06-15"
 justices:
-- "1986scalia"
-- "1988kennedy"
-- "1994breyer"
+- 1986scalia
+- 1988kennedy
+- 1994breyer
 advocates:
 - "Edwin S. Kneedler"
 - "Mark E. Haddad"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Deputy Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondent"
 tags:
 - "Due Process Clause"

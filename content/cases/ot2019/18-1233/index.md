@@ -5,10 +5,10 @@ docket: "18-1233"
 argdate: "2020-01-14"
 publishdate: "2020-04-23"
 justices:
-- "2017gorsuch"
+- 2017gorsuch
 advocates:
 - "Lisa S. Blatt"
-- "Neal Kumar Katyal"
+- "Neal K. Katyal"
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondents"

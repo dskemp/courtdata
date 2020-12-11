@@ -5,7 +5,7 @@ docket: "16-658"
 argdate: "2017-10-10"
 publishdate: "2017-11-08"
 justices:
-- "1993ginsburg"
+- 1993ginsburg
 advocates:
 - "Jonathan A. Herstoff"
 - "Damien G. Stewart"

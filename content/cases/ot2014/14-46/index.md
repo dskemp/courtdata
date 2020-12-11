@@ -5,9 +5,9 @@ docket: "14-46"
 publishdate: "2015-06-29"
 argdate: "2015-03-25"
 justices:
-- "1986scalia"
-- "1991thomas"
-- "2010kagan"
+- 1986scalia
+- 1991thomas
+- 2010kagan
 advocates:
 - "Aaron D. Lindstrom"
 - "F. William Brownell"
@@ -16,7 +16,7 @@ advocates:
 roles:
 - "Solicitor General of Michigan, on behalf of the state Petitioners"
 - "on behalf of the industry Petitioners and Respondents in support"
-- "Solicitor General, Department of Justice, on behalf of the federal Respondents"
+- "Solicitor General, on behalf of the federal Respondents"
 - "on behalf of the industry Respondents"
 tags:
 - "Clean Air Act"

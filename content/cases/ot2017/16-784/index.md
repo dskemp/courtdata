@@ -5,7 +5,7 @@ docket: "16-784"
 argdate: "2017-11-06"
 publishdate: "2018-02-27"
 justices:
-- "2009sotomayor"
+- 2009sotomayor
 advocates:
 - "Brian C. Walsh"
 - "Paul D. Clement"

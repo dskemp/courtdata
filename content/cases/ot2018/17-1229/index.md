@@ -5,14 +5,14 @@ docket: "17-1229"
 argdate: "2018-12-04"
 publishdate: "2019-01-22"
 justices:
-- "1991thomas"
+- 1991thomas
 advocates:
 - "Kannon K. Shanmugam"
 - "Malcolm L. Stewart"
 - "William M. Jay"
 roles:
 - "on behalf of the Petitioner"
-- "Deputy Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Deputy Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondents"
 tags:
 topics:

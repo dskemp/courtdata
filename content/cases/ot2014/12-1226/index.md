@@ -5,17 +5,17 @@ docket: "12-1226"
 argdate: "2014-12-03"
 publishdate: "2015-03-25"
 justices:
-- "1994breyer"
-- "2006alito"
-- "1986scalia"
-- "1988kennedy"
+- 1994breyer
+- 2006alito
+- 1986scalia
+- 1988kennedy
 advocates:
 - "Samuel R. Bagenstos"
 - "Donald B. Verrilli, Jr"
 - "Caitlin J. Halligan"
 roles:
 - "on behalf of the Petitioner"
-- "Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Petitioner"
+- "Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 tags:
 - "Pregnancy Discrimination Act"

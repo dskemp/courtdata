@@ -7,13 +7,13 @@
 	{{ end }}
 <!--{{ .Params.citation }}</p>-->
 <p><span>Argued:</span> 
-	{{ if ne .Params.argdate "" }}
-		{{ $arg := dateFormat "January 2, 2006" .Params.argdate }}
+	{{ with .Params.argdate }}
+		{{ $arg := dateFormat "January 2, 2006" . }}
 		{{ printf $arg }}
 	{{ else }}
-		{{ printf "not argued"}}
+		{{ printf "not argued" }}
 	{{ end }}
-	</p>
+</p>
 {{ with .Params.reargdate }}
 	<p><span>Reargued:</span> {{ dateFormat "January 2, 2006" . }}</p>
 {{ end }}

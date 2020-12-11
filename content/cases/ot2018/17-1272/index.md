@@ -5,7 +5,7 @@ docket: "17-1272"
 argdate: "2018-10-29"
 publishdate: "2019-01-08"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Kannon K. Shanmugam"
 - "Daniel L. Geyser"

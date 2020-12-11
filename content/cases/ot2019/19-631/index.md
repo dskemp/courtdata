@@ -5,12 +5,12 @@ docket: "19-631"
 argdate: "2020-05-06"
 publishdate: "2020-07-06"
 justices:
-- "2018kavanaugh"
+- 2018kavanaugh
 advocates:
 - "Malcolm L. Stewart"
 - "Roman Martinez"
 roles:
-- "Deputy Solicitor General, Department of Justice, on behalf of the Petitioners"
+- "Deputy Solicitor General, on behalf of the Petitioners"
 - "on behalf of the Respondents"
 tags:
 topics:

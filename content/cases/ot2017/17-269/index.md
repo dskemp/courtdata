@@ -10,8 +10,8 @@ advocates:
 - "Allon Kedem"
 - "William M. Jay"
 roles:
-- "Washington State Solicitor General, on behalf of the Petitioner"
-- "Assistant to the Solicitor General, Department of Justice, on behalf of Respondent United States"
+- "Solicitor General of Washington, on behalf of the Petitioner"
+- "Assistant to the Solicitor General, on behalf of Respondent United States"
 - "on behalf of the Respondents Suquamish Indian Tribe, et al."
 tags:
 topics:

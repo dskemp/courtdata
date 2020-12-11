@@ -5,7 +5,7 @@ docket: "13-1333"
 argdate: "2015-02-23"
 publishdate: "2015-05-18"
 justices:
-- "1994breyer"
+- 1994breyer
 advocates:
 - "Kannon K. Shanmugam"
 - "Aaron D. Lindstrom"
@@ -13,7 +13,7 @@ advocates:
 roles:
 - "on behalf of the Petitioner"
 - "Solicitor General of Michigan, on behalf of the Respondents"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 - "three strikes provision"
 topics:

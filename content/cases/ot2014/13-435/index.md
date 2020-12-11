@@ -5,9 +5,9 @@ docket: "13-435"
 argdate: "2014-11-03"
 publishdate: "2015-03-24"
 justices:
-- "2010kagan"
-- "1986scalia"
-- "1991thomas"
+- 2010kagan
+- 1986scalia
+- 1991thomas
 advocates:
 - "Kannon K. Shanmugam"
 - "Thomas C. Goldstein"
@@ -15,7 +15,7 @@ advocates:
 roles:
 - "on behalf of the Petitioners"
 - "on behalf of the Respondents"
-- "Assistant to the Solicitor General, Department of Justice, for the United States, as amicus curiae, supporting the Respondents"
+- "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondents"
 tags:
 - "Securities Act of 1933"
 topics:
