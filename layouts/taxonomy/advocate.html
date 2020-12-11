@@ -31,8 +31,8 @@
 							{{ $advdict := dict (index .Params.advocates 0) (index .Params.roles 0) }}
 							{{ range $i, $count := seq $count }}
 								{{ $advdict := dict (index $thisPage.Params.advocates $i) (index $thisPage.Params.roles $i) }}
-								{{ if in (index $thisPage.Params.advocates $i) $thisAdvocate.Title }}
-									{{ index $advdict $thisAdvocate.Title }}
+								{{ if in (index $thisPage.Params.advocates $i) (strings.TrimSuffix "." $thisAdvocate.Title) }}
+									{{ index $advdict (strings.TrimSuffix "." $thisAdvocate.Title) }}
 								{{ end }}
 							{{ end }}
 						</h3>

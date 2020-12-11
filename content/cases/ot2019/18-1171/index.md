@@ -7,7 +7,7 @@ publishdate: "2020-03-23"
 justices:
 - 2017gorsuch
 advocates:
-- "Miguel A Estrada"
+- "Miguel A. Estrada"
 - "Morgan L. Ratner"
 - "Erwin Chemerinsky"
 roles:

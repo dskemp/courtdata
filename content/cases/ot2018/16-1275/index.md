@@ -6,6 +6,8 @@ argdate: "2018-11-05"
 publishdate: "2019-06-17"
 justices:
 - 2017gorsuch
+- 1993ginsburg
+- 2005roberts
 advocates:
 - "Charles J. Cooper"
 - "Noel J. Francisco"
