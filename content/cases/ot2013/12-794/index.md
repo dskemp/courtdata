@@ -2,8 +2,8 @@
 title: "White v. Woodall"
 citation: "572 U.S. 415"
 docket: "12-794"
-publishdate: "2014-04-23"
 argdate: "2013-12-11"
+publishdate: "2014-04-23"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Manuel v. Joliet"
 citation: "580 U.S. ___"
 docket: "14-9496"
-publishdate: "2017-03-21"
 argdate: "2016-10-05"
+publishdate: "2017-03-21"
 justices:
 - 2010kagan
 advocates:

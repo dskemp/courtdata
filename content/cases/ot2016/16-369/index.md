@@ -2,8 +2,8 @@
 title: "County of Los Angeles v. Mendez"
 citation: "581 U.S. ___"
 docket: "16-369"
-publishdate: "2017-05-30"
 argdate: "2017-03-22"
+publishdate: "2017-05-30"
 justices:
 - 2006alito
 advocates:

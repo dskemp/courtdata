@@ -2,8 +2,8 @@
 title: "Hughes v. Talen Energy Marketing, LLC"
 citation: "578 U.S. ___"
 docket: "14-614"
-publishdate: "2016-04-19"
 argdate: "2016-02-24"
+publishdate: "2016-04-19"
 justices:
 - 1993ginsburg
 advocates:

@@ -2,8 +2,8 @@
 title: "Luis v. United States"
 citation: "578 U.S. ___"
 docket: "14-419"
-publishdate: "2016-03-30"
 argdate: "2015-11-10"
+publishdate: "2016-03-30"
 justices:
 - 1994breyer
 advocates:

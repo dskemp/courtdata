@@ -2,8 +2,8 @@
 title: "SCA Hygiene Products Aktiebolag v. First Quality Baby Products, LLC"
 citation: "580 U.S. ___"
 docket: "15-927"
-publishdate: "2017-03-21"
 argdate: "2016-11-01"
+publishdate: "2017-03-21"
 justices:
 - 2006alito
 advocates:

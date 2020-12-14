@@ -2,8 +2,8 @@
 title: "Zubik v. Burwell"
 citation: "578 U.S. ___"
 docket: "14-1418"
-publishdate: "2016-05-16"
 argdate: "2016-03-23"
+publishdate: "2016-05-16"
 justices:
 advocates:
 - "Paul D. Clement"

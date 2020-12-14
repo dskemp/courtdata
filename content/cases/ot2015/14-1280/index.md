@@ -2,8 +2,8 @@
 title: "Heffernan v. City of Paterson"
 citation: "578 U.S. ___"
 docket: "14-1280"
-publishdate: "2016-04-26"
 argdate: "2016-01-19"
+publishdate: "2016-04-26"
 justices:
 - 1994breyer
 advocates:

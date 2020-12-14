@@ -2,8 +2,8 @@
 title: "Wittman v. Personhuballah"
 citation: "578 U.S. ___"
 docket: "14-1504"
-publishdate: "2016-05-23"
 argdate: "2016-03-21"
+publishdate: "2016-05-23"
 justices:
 - 1994breyer
 advocates:

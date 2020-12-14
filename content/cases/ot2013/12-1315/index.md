@@ -2,8 +2,8 @@
 title: "Petrella v. Metro-Goldwyn-Mayer"
 citation: "572 U.S. 663"
 docket: "12-1315"
-publishdate: "2014-05-19"
 argdate: "2014-01-21"
+publishdate: "2014-05-19"
 justices:
 advocates:
 tags:

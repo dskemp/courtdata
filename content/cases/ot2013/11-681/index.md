@@ -2,8 +2,8 @@
 title: "Harris v. Quinn"
 citation: "573 U.S. 616"
 docket: "11-681"
-publishdate: "2014-06-30"
 argdate: "2014-01-21"
+publishdate: "2014-06-30"
 justices:
 advocates:
 tags:

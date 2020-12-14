@@ -2,8 +2,8 @@
 title: "Sessions v. Morales-Santana"
 citation: "582 U.S. ___"
 docket: "15-1191"
-publishdate: "2017-06-12"
 argdate: "2016-11-09"
+publishdate: "2017-06-12"
 justices:
 - 1993ginsburg
 advocates:

@@ -2,8 +2,8 @@
 title: "Scialabba v. Cuellar de Osorio"
 citation: "573 U.S. 41"
 docket: "12-930"
-publishdate: "2014-06-09"
 argdate: "2013-12-10"
+publishdate: "2014-06-09"
 justices:
 advocates:
 tags:

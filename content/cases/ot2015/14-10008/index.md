@@ -2,8 +2,8 @@
 title: "Wearry v. Cain"
 citation: "577 U.S. ___"
 docket: "14-10008"
-publishdate: "2016-03-07"
 argdate: ""
+publishdate: "2016-03-07"
 justices:
 advocates:
 tags:

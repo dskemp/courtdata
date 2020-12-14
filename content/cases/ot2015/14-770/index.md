@@ -2,8 +2,8 @@
 title: "Bank Markazi v. Peterson"
 citation: "578 U.S. ___"
 docket: "14-770"
-publishdate: "2016-04-20"
 argdate: "2016-01-13"
+publishdate: "2016-04-20"
 justices:
 - 1993ginsburg
 advocates:

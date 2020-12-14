@@ -2,8 +2,8 @@
 title: "Bosse v. Oklahoma"
 citation: "580 U.S. ___"
 docket: "15-9173"
-publishdate: "2016-10-11"
 argdate: ""
+publishdate: "2016-10-11"
 justices:
 advocates:
 tags:

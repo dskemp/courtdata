@@ -2,8 +2,8 @@
 title: "Madigan v. Levin"
 citation: "571 U.S. 1"
 docket: "12-872"
-publishdate: "2013-10-15"
 argdate: "2013-10-07"
+publishdate: "2013-10-15"
 justices:
 advocates:
 tags:

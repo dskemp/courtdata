@@ -2,8 +2,8 @@
 title: "Campbell-Ewald v. Gomez"
 citation: "577 U.S. ___"
 docket: "14-857"
-publishdate: "2016-01-20"
 argdate: "2015-10-14"
+publishdate: "2016-01-20"
 justices:
 - 1993ginsburg
 advocates:

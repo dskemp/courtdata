@@ -2,8 +2,8 @@
 title: "CRST Van Expedited, Inc. v. EEOC"
 citation: "578 U.S. ___"
 docket: "14-1375"
-publishdate: "2016-05-19"
 argdate: "2016-03-28"
+publishdate: "2016-05-19"
 justices:
 - 1988kennedy
 advocates:

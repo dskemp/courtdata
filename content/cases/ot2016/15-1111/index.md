@@ -2,8 +2,8 @@
 title: "Bank of America Corp. v. Miami"
 citation: "581 U.S. ___"
 docket: "15-1111"
-publishdate: "2017-05-01"
 argdate: "2016-11-08"
+publishdate: "2017-05-01"
 justices:
 - 1994breyer
 advocates:

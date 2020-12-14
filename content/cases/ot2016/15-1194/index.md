@@ -2,8 +2,8 @@
 title: "Packingham v. North Carolina"
 citation: "582 U.S. ___"
 docket: "15-1194"
-publishdate: "2017-06-19"
 argdate: "2017-02-27"
+publishdate: "2017-06-19"
 justices:
 - 1988kennedy
 advocates:

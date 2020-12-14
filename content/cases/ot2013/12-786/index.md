@@ -2,8 +2,8 @@
 title: "Limelight Networks v. Akamai Technologies"
 citation: "572 U.S. 915"
 docket: "12-786"
-publishdate: "2014-06-02"
 argdate: "2014-04-30"
+publishdate: "2014-06-02"
 justices:
 advocates:
 tags:

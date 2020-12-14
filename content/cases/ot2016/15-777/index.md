@@ -2,8 +2,8 @@
 title: "Samsung Electronics Co. v. Apple Inc."
 citation: "580 U.S. ___"
 docket: "15-777"
-publishdate: "2016-12-06"
 argdate: "2016-10-11"
+publishdate: "2016-12-06"
 justices:
 - 2009sotomayor
 advocates:

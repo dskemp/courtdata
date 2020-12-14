@@ -2,8 +2,8 @@
 title: "Ray Haluch Gravel Co. v. Central Pension Fund"
 citation: "571 U.S. 177"
 docket: "12-992"
-publishdate: "2014-01-15"
 argdate: "2013-12-09"
+publishdate: "2014-01-15"
 justices:
 advocates:
 tags:

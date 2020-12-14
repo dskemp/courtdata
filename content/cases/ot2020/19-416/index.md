@@ -2,8 +2,8 @@
 title: "Nestle USA, Inc. v. Doe I"
 citation: ""
 docket: "19-416"
-publishdate: ""
 argdate: "2020-12-01"
+publishdate: ""
 justices:
 advocates:
 - "Neal K. Katyal"

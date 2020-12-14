@@ -2,8 +2,8 @@
 title: "DIRECTV, Inc. v. Imburgia"
 citation: "577 U.S. ___"
 docket: "14-462"
-publishdate: "2015-12-14"
 argdate: "2015-10-06"
+publishdate: "2015-12-14"
 justices:
 - 1994breyer
 advocates:

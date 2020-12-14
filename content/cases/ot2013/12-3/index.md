@@ -2,8 +2,8 @@
 title: "Lawson v. FMR LLC"
 citation: "571 U.S. 429"
 docket: "12-3"
-publishdate: "2014-03-04"
 argdate: "2013-11-12"
+publishdate: "2014-03-04"
 justices:
 advocates:
 tags:

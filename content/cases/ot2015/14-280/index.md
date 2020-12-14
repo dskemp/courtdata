@@ -2,8 +2,8 @@
 title: "Montgomery v. Louisiana"
 citation: "577 U.S. ___"
 docket: "14-280"
-publishdate: "2016-01-25"
 argdate: "2015-10-13"
+publishdate: "2016-01-25"
 justices:
 - 1988kennedy
 advocates:

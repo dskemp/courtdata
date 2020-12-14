@@ -2,8 +2,8 @@
 title: "Michigan v. Bay Mills Indian Community"
 citation: "572 U.S. 782"
 docket: "12-515"
-publishdate: "2014-05-27"
 argdate: "2013-12-02"
+publishdate: "2014-05-27"
 justices:
 advocates:
 tags:

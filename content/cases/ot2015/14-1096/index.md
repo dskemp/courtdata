@@ -2,8 +2,8 @@
 title: "Luna Torres v. Lynch"
 citation: "578 U.S. ___"
 docket: "14-1096"
-publishdate: "2016-05-19"
 argdate: "2015-11-03"
+publishdate: "2016-05-19"
 justices:
 - 2010kagan
 advocates:

@@ -2,8 +2,8 @@
 title: "Turner v. United States"
 citation: "582 U.S. ___"
 docket: "15-1503"
-publishdate: "2017-06-22"
 argdate: "2017-03-29"
+publishdate: "2017-06-22"
 justices:
 - 1994breyer
 advocates:

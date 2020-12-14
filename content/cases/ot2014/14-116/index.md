@@ -2,8 +2,8 @@
 title: "Bullard v. Blue Hills Bank"
 citation: "576 U.S. ___"
 docket: "14-116"
-publishdate: "2015-05-04"
 argdate: "2015-04-01"
+publishdate: "2015-05-04"
 justices: 
 - 2005roberts
 advocates:

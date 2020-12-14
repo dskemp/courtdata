@@ -2,8 +2,8 @@
 title: "United States v. Clarke"
 citation: "573 U.S. 248"
 docket: "13-301"
-publishdate: "2014-06-19"
 argdate: "2014-04-23"
+publishdate: "2014-06-19"
 justices:
 advocates:
 tags:

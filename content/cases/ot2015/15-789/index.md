@@ -2,8 +2,8 @@
 title: "Johnson v. Lee"
 citation: "578 U.S. ___"
 docket: "15-789"
-publishdate: "2016-05-31"
 argdate: ""
+publishdate: "2016-05-31"
 justices:
 advocates:
 tags:

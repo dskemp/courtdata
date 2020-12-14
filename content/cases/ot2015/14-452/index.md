@@ -2,8 +2,8 @@
 title: "Kansas v. Gleason"
 citation: "577 U.S. ___"
 docket: "14-452"
-publishdate: "2016-01-20"
 argdate: "2015-10-07"
+publishdate: "2016-01-20"
 justices:
 - 1986scalia
 advocates:

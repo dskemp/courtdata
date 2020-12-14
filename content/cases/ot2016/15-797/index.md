@@ -2,8 +2,8 @@
 title: "Moore v. Texas"
 citation: "581 U.S. ___"
 docket: "15-797"
-publishdate: "2017-03-28"
 argdate: "2016-11-29"
+publishdate: "2017-03-28"
 justices:
 - 1993ginsburg
 advocates:

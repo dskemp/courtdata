@@ -2,8 +2,8 @@
 title: "Coventry Health Care of Mo., Inc. v. Nevils"
 citation: "581 U.S. ___"
 docket: "16-149"
-publishdate: "2017-04-18"
 argdate: "2017-03-01"
+publishdate: "2017-04-18"
 justices:
 - 1993ginsburg
 advocates:

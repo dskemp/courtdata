@@ -2,8 +2,8 @@
 title: "Advocate Health Care Network v. Stapleton"
 citation: "581 U.S. ___"
 docket: "16-74"
-publishdate: "2017-06-05"
 argdate: "2017-03-27"
+publishdate: "2017-06-05"
 justices:
 - 2010kagan
 advocates:

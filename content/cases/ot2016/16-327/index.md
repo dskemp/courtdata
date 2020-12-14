@@ -2,8 +2,8 @@
 title: "Jae Lee v. United States"
 citation: "582 U.S. ___"
 docket: "16-327"
-publishdate: "2017-06-23"
 argdate: "2017-03-28"
+publishdate: "2017-06-23"
 justices:
 - 2005roberts
 advocates:

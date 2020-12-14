@@ -2,8 +2,8 @@
 title: "Chamber of Commerce of the United States v. Environmental Protection Agency"
 citation: "573 U.S. 302"
 docket: "12-1272"
-publishdate: "2014-06-23"
 argdate: "2014-02-24"
+publishdate: "2014-06-23"
 justices:
 advocates:
 tags:

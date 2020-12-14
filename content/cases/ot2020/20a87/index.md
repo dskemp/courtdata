@@ -2,8 +2,8 @@
 title: "Roman Catholic Diocese of Brooklyn v. Cuomo"
 citation: "592 U.S. ___"
 docket: "20A87"
-publishdate: "2020-11-25"
 argdate: ""
+publishdate: "2020-11-25"
 justices:
 - 2017gorsuch
 - 2018kavanaugh

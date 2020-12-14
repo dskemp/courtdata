@@ -2,8 +2,8 @@
 title: "Harris v. Arizona Independent Redistricting Commission"
 citation: "578 U.S. ___"
 docket: "14-232"
-publishdate: "2016-04-20"
 argdate: "2015-12-08"
+publishdate: "2016-04-20"
 justices:
 - 1994breyer
 advocates:

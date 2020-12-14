@@ -2,8 +2,8 @@
 title: "Mississippi ex rel. Hood v. AU Optronics Corp."
 citation: "571 U.S. 161"
 docket: "12-1036"
-publishdate: "2014-01-14"
 argdate: "2013-11-06"
+publishdate: "2014-01-14"
 justices:
 advocates:
 tags:

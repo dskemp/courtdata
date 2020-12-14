@@ -2,8 +2,8 @@
 title: "Sturgeon v. Frost"
 citation: "577 U.S. ___"
 docket: "14-1209"
-publishdate: "2016-03-22"
 argdate: "2016-01-20"
+publishdate: "2016-03-22"
 justices:
 - 2005roberts
 advocates:

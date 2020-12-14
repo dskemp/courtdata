@@ -2,8 +2,8 @@
 title: "Gobeille v. Liberty Mut. Ins. Co."
 citation: "577 U.S. ___"
 docket: "14-181"
-publishdate: "2016-03-01"
 argdate: "2015-12-02"
+publishdate: "2016-03-01"
 justices:
 - 1988kennedy
 advocates:

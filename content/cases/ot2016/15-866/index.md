@@ -2,8 +2,8 @@
 title: "Star Athletica, L. L. C. v. Varsity Brands, Inc."
 citation: "580 U.S. ___"
 docket: "15-866"
-publishdate: "2017-03-22"
 argdate: "2016-10-31"
+publishdate: "2017-03-22"
 justices:
 - 1991thomas
 advocates:

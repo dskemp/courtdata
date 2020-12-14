@@ -2,8 +2,8 @@
 title: "Nautilus v. Biosig Instruments"
 citation: "572 U.S. 898"
 docket: "13-369"
-publishdate: "2014-06-02"
 argdate: "2014-04-28"
+publishdate: "2014-06-02"
 justices:
 advocates:
 tags:

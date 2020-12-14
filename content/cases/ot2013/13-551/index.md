@@ -2,8 +2,8 @@
 title: "Tolan v. Cotton"
 citation: "572 U.S. 650"
 docket: "13-551"
-publishdate: "2014-05-05"
 argdate: ""
+publishdate: "2014-05-05"
 justices:
 advocates:
 tags:

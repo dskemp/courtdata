@@ -2,8 +2,8 @@
 title: "Puerto Rico v. Sanchez Valle"
 citation: "579 U.S. ___"
 docket: "15-108"
-publishdate: "2016-06-09"
 argdate: "2016-01-13"
+publishdate: "2016-06-09"
 justices:
 - 2010kagan
 advocates:

@@ -2,8 +2,8 @@
 title: "Woods v. Etherton"
 citation: "578 U.S. ___"
 docket: "15-723"
-publishdate: "2016-04-04"
 argdate: ""
+publishdate: "2016-04-04"
 justices:
 advocates:
 tags:

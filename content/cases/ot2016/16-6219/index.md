@@ -2,8 +2,8 @@
 title: "Davila v. Davis"
 citation: "582 U.S. ___"
 docket: "16-6219"
-publishdate: "2017-06-26"
 argdate: "2017-04-24"
+publishdate: "2017-06-26"
 justices:
 - 1991thomas
 advocates:

@@ -2,8 +2,8 @@
 title: "CIC Services, LLC v. Internal Revenue Service"
 citation: ""
 docket: "19-930"
-publishdate: ""
 argdate: "2020-12-01"
+publishdate: ""
 justices:
 advocates:
 - "Cameron T. Norris"

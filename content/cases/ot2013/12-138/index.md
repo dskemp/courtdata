@@ -2,8 +2,8 @@
 title: "BG Group PLC v. Republic of Argentina"
 citation: "572 U.S. 25"
 docket: "12-138"
-publishdate: "2014-03-05"
 argdate: "2013-12-02"
+publishdate: "2014-03-05"
 justices:
 advocates:
 tags:

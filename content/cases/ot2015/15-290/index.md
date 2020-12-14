@@ -2,8 +2,8 @@
 title: "Army Corps of Engineers v. Hawkes Co."
 citation: "578 U.S. ___"
 docket: "15-290"
-publishdate: "2016-05-31"
 argdate: "2016-03-30"
+publishdate: "2016-05-31"
 justices:
 - 2005roberts
 advocates:

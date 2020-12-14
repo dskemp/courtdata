@@ -2,8 +2,8 @@
 title: "Ziglar v. Abbasi"
 citation: "582 U.S. ___"
 docket: "15-1358"
-publishdate: "2017-06-19"
 argdate: "2017-01-18"
+publishdate: "2017-06-19"
 justices:
 - 1988kennedy
 advocates:

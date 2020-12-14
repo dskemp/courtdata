@@ -2,8 +2,8 @@
 title: "Bristol-Myers Squibb Co. v. Superior Court of Cal., San Francisco Cty."
 citation: "582 U.S. ___"
 docket: "16-466"
-publishdate: "2017-06-19"
 argdate: "2017-04-25"
+publishdate: "2017-06-19"
 justices:
 - 2006alito
 advocates:

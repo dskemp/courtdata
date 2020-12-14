@@ -2,8 +2,8 @@
 title: "Franchise Tax Board of California v. Hyatt"
 citation: "578 U.S. ___"
 docket: "14-1175"
-publishdate: "2016-04-19"
 argdate: "2015-12-07"
+publishdate: "2016-04-19"
 justices:
 - 1994breyer
 advocates:

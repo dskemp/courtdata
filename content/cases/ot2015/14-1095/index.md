@@ -2,8 +2,8 @@
 title: "Musacchio v. United States"
 citation: "577 U.S. ___"
 docket: "14-1095"
-publishdate: "2016-01-25"
 argdate: "2015-11-30"
+publishdate: "2016-01-25"
 justices:
 - 1991thomas
 advocates:

@@ -2,8 +2,8 @@
 title: "Schuette v. Coalition to Defend Affirmative Action"
 citation: "572 U.S. 291"
 docket: "12-682"
-publishdate: "2014-04-22"
 argdate: "2013-10-15"
+publishdate: "2014-04-22"
 justices:
 advocates:
 tags:

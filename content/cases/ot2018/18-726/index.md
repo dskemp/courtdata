@@ -2,8 +2,8 @@
 title: "Lamone v. Benisek"
 citation: "588 U.S. ___"
 docket: "18-726"
-publishdate: "2019-06-27"
 argdate: "2009-03-26"
+publishdate: "2019-06-27"
 justices:
 - 2005roberts
 advocates:

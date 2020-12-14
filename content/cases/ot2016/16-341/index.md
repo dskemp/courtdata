@@ -2,8 +2,8 @@
 title: "TC Heartland LLC v. Kraft Foods Group Brands LLC"
 citation: "581 U.S. ___"
 docket: "16-341"
-publishdate: "2017-05-22"
 argdate: "2017-03-27"
+publishdate: "2017-05-22"
 justices:
 - 1991thomas
 advocates:

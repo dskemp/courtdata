@@ -2,8 +2,8 @@
 title: "Kaley v. United States"
 citation: "571 U.S. 320"
 docket: "12-464"
-publishdate: "2014-02-25"
 argdate: "2013-10-16"
+publishdate: "2014-02-25"
 justices:
 advocates:
 tags:

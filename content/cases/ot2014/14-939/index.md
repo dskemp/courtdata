@@ -2,8 +2,8 @@
 title: "Taylor v. Barkes"
 citation: "576 U.S. ___"
 docket: "14-939"
-publishdate: "2015-06-01"
 argdate: ""
+publishdate: "2015-06-01"
 tags:
 - "Section 1983"
 - "qualified immunity"

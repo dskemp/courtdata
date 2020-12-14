@@ -2,8 +2,8 @@
 title: "Riley v. California"
 citation: "573 U.S. 373"
 docket: "13-132"
-publishdate: "2014-06-25"
 argdate: "2014-04-29"
+publishdate: "2014-06-25"
 justices:
 advocates:
 tags:

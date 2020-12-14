@@ -2,8 +2,8 @@
 title: "Williams v. Pennsylvania"
 citation: "579 U.S. ___"
 docket: "15-5040"
-publishdate: "2016-06-09"
 argdate: "2016-02-29"
+publishdate: "2016-06-09"
 justices:
 - 1988kennedy
 advocates:

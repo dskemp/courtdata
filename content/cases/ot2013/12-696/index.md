@@ -2,8 +2,8 @@
 title: "Town of Greece v. Galloway"
 citation: "572 U.S. 565"
 docket: "12-696"
-publishdate: "2014-05-05"
 argdate: "2013-11-06"
+publishdate: "2014-05-05"
 justices:
 advocates:
 tags:

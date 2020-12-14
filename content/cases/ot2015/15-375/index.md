@@ -2,8 +2,8 @@
 title: "Kirtsaeng v. John Wiley & Sons, Inc."
 citation: "579 U.S. ___"
 docket: "15-375"
-publishdate: "2016-06-16"
 argdate: "2016-04-25"
+publishdate: "2016-06-16"
 justices:
 - 2010kagan
 advocates:

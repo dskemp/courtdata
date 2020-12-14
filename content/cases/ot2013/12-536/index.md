@@ -2,8 +2,8 @@
 title: "McCutcheon v. Federal Election Commission"
 citation: "572 U.S. 185"
 docket: "12-536"
-publishdate: "2014-04-02"
 argdate: "2013-10-08"
+publishdate: "2014-04-02"
 justices:
 advocates:
 tags:

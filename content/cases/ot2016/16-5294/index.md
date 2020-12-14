@@ -2,8 +2,8 @@
 title: "McWilliams v. Dunn"
 citation: "582 U.S. ___"
 docket: "16-5294"
-publishdate: "2017-06-19"
 argdate: "2017-04-24"
+publishdate: "2017-06-19"
 justices:
 - 1994breyer
 advocates:

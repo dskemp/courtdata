@@ -2,8 +2,8 @@
 title: "Rippo v. Baker"
 citation: "580 U.S. ___"
 docket: "16-6316"
-publishdate: "2017-03-06"
 argdate: ""
+publishdate: "2017-03-06"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "National Labor Relations Board v. Noel Canning"
 citation: "573 U.S. 513"
 docket: "12-1281"
-publishdate: "2014-06-26"
 argdate: "2014-01-13"
+publishdate: "2014-06-26"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Caetano v. Massachusetts"
 citation: "577 U.S. ___"
 docket: "14-10078"
-publishdate: "2016-03-21"
 argdate: ""
+publishdate: "2016-03-21"
 justices:
 advocates:
 tags:

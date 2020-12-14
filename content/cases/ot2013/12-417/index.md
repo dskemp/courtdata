@@ -2,8 +2,8 @@
 title: "Sandifer v. U.S. Steel Corporation"
 citation: "571 U.S. 220"
 docket: "12-417"
-publishdate: "2014-01-27"
 argdate: "2013-11-04"
+publishdate: "2014-01-27"
 justices:
 advocates:
 tags:

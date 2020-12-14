@@ -2,8 +2,8 @@
 title: "Clark v. Rameker"
 citation: "573 U.S. 122"
 docket: "13-299"
-publishdate: "2014-06-12"
 argdate: "2014-03-24"
+publishdate: "2014-06-12"
 justices:
 advocates:
 tags:

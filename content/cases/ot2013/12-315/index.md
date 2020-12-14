@@ -2,8 +2,8 @@
 title: "Air Wisconsin Airlines Corp. v. Hoeper"
 citation: "571 U.S. 237"
 docket: "12-315"
-publishdate: "2014-01-27"
 argdate: "2013-12-09"
+publishdate: "2014-01-27"
 justices:
 advocates:
 tags:

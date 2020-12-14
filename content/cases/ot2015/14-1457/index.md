@@ -2,8 +2,8 @@
 title: "Betterman v. Montana"
 citation: "578 U.S. ___"
 docket: "14-1457"
-publishdate: "2016-05-19"
 argdate: "2016-03-28"
+publishdate: "2016-05-19"
 justices:
 - 1993ginsburg
 advocates:

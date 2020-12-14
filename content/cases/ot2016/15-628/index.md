@@ -2,8 +2,8 @@
 title: "Salman v. United States"
 citation: "580 U.S. ___"
 docket: "15-628"
-publishdate: "2016-12-06"
 argdate: "2016-10-05"
+publishdate: "2016-12-06"
 justices:
 - 2006alito
 advocates:

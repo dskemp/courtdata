@@ -2,8 +2,8 @@
 title: "Mathis v. United States"
 citation: "579 U.S. ___"
 docket: "15-6092"
-publishdate: "2016-06-23"
 argdate: "2016-04-26"
+publishdate: "2016-06-23"
 justices:
 - 2010kagan
 advocates:

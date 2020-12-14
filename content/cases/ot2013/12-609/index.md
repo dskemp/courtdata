@@ -2,8 +2,8 @@
 title: "Kansas v. Cheever"
 citation: "571 U.S. 87"
 docket: "12-609"
-publishdate: "2013-12-11"
 argdate: "2013-10-16"
+publishdate: "2013-12-11"
 justices:
 advocates:
 tags:

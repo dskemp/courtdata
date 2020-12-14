@@ -2,8 +2,8 @@
 title: "Dietz v. Bouldin"
 citation: "579 U.S. ___"
 docket: "15-458"
-publishdate: "2016-06-09"
 argdate: "2016-04-26"
+publishdate: "2016-06-09"
 justices:
 - 2009sotomayor
 advocates:

@@ -2,8 +2,8 @@
 title: "Robers v. United States"
 citation: "572 U.S. 639"
 docket: "12-9012"
-publishdate: "2014-05-05"
 argdate: "2014-02-25"
+publishdate: "2014-05-05"
 justices:
 advocates:
 tags:

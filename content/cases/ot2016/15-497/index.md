@@ -2,8 +2,8 @@
 title: "Fry v. Napoleon Community Schools"
 citation: "580 U.S. ___"
 docket: "15-497"
-publishdate: "2017-02-22"
 argdate: "2016-10-31"
+publishdate: "2017-02-22"
 justices:
 - 2010kagan
 advocates:

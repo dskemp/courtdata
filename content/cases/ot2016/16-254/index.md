@@ -2,8 +2,8 @@
 title: "Water Splash, Inc. v. Menon"
 citation: "581 U.S. ___"
 docket: "16-254"
-publishdate: "2017-05-22"
 argdate: "2017-03-22"
+publishdate: "2017-05-22"
 justices:
 - 2006alito
 advocates:

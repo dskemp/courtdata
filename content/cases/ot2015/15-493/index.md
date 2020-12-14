@@ -2,8 +2,8 @@
 title: "James v. Boise"
 citation: "577 U.S. ___"
 docket: "15-493"
-publishdate: "2016-01-25"
 argdate: ""
+publishdate: "2016-01-25"
 justices:
 advocates:
 tags:

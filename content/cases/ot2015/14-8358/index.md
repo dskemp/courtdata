@@ -2,8 +2,8 @@
 title: "Lockhart v. United States"
 citation: "577 U.S. ___"
 docket: "14-8358"
-publishdate: "2016-03-01"
 argdate: "2015-11-03"
+publishdate: "2016-03-01"
 justices:
 - 2009sotomayor
 advocates:

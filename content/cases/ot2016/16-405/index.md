@@ -2,8 +2,8 @@
 title: "BNSF R. Co. v. Tyrrell"
 citation: "581 U.S. ___"
 docket: "16-405"
-publishdate: "2017-05-30"
 argdate: "2017-04-25"
+publishdate: "2017-05-30"
 justices:
 - 1993ginsburg
 advocates:

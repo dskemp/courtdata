@@ -2,8 +2,8 @@
 title: "Puerto Rico v. Franklin California Tax-Free Trust"
 citation: "579 U.S. ___"
 docket: "15-233"
-publishdate: "2016-06-13"
 argdate: "2016-03-22"
+publishdate: "2016-06-13"
 justices:
 - 1991thomas
 advocates:

@@ -2,8 +2,8 @@
 title: "Shaw v. United States"
 citation: "580 U.S. ___"
 docket: "15-5991"
-publishdate: "2016-12-12"
 argdate: "2016-10-04"
+publishdate: "2016-12-12"
 justices:
 - 1994breyer
 advocates:

@@ -2,8 +2,8 @@
 title: "Northwest v. Ginsberg"
 citation: "572 U.S. 273"
 docket: "12-462"
-publishdate: "2014-04-02"
 argdate: "2013-12-03"
+publishdate: "2014-04-02"
 justices:
 advocates:
 tags:

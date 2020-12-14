@@ -2,8 +2,8 @@
 title: "Montanile v. Board of Trustees of Nat. Elevator Industry Health Benefit Plan"
 citation: "577 U.S. ___"
 docket: "14-723"
-publishdate: "2016-01-20"
 argdate: "2015-11-09"
+publishdate: "2016-01-20"
 justices:
 - 1991thomas
 advocates:

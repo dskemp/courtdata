@@ -2,8 +2,8 @@
 title: "Honeycutt v. United States"
 citation: "581 U.S. ___"
 docket: "16-142"
-publishdate: "2017-06-05"
 argdate: "2017-03-29"
+publishdate: "2017-06-05"
 justices:
 - 2009sotomayor
 advocates:

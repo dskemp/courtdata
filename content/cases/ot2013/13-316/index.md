@@ -2,8 +2,8 @@
 title: "Loughrin v. United States"
 citation: "573 U.S. 351"
 docket: "13-316"
-publishdate: "2014-06-23"
 argdate: "2014-04-01"
+publishdate: "2014-06-23"
 justices:
 advocates:
 tags:

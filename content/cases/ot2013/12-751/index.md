@@ -2,8 +2,8 @@
 title: "Fifth Third Bancorp v. Dudenhoeffer"
 citation: "573 U.S. 409"
 docket: "12-751"
-publishdate: "2014-06-25"
 argdate: "2014-04-02"
+publishdate: "2014-06-25"
 justices:
 advocates:
 tags:

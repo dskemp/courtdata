@@ -2,8 +2,8 @@
 title: "McDonnell v. United States"
 citation: "579 U.S. ___"
 docket: "15-474"
-publishdate: "2016-06-27"
 argdate: "2016-04-27"
+publishdate: "2016-06-27"
 justices:
 - 2005roberts
 advocates:

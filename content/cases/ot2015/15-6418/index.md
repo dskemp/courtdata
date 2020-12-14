@@ -2,8 +2,8 @@
 title: "Welch v. United States"
 citation: "578 U.S. ___"
 docket: "15-6418"
-publishdate: "2016-04-18"
 argdate: "2016-03-30"
+publishdate: "2016-04-18"
 justices:
 - 1988kennedy
 advocates:

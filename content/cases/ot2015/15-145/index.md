@@ -2,8 +2,8 @@
 title: "Husky International Electronics, Inc. v. Ritz"
 citation: "578 U.S. ___"
 docket: "15-145"
-publishdate: "2016-05-16"
 argdate: "2016-03-01"
+publishdate: "2016-05-16"
 justices:
 - 2009sotomayor
 advocates:

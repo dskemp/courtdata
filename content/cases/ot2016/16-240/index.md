@@ -2,8 +2,8 @@
 title: "Weaver v. Massachusetts"
 citation: "582 U.S. ___"
 docket: "16-240"
-publishdate: "2017-06-22"
 argdate: "2017-04-19"
+publishdate: "2017-06-22"
 justices:
 - 1988kennedy
 advocates:

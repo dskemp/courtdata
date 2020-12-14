@@ -2,8 +2,8 @@
 title: "Baker Botts L.L.P. v. ASARCO LLC"
 citation: "576 U.S. ___"
 docket: "14-103"
-publishdate: "2015-06-15"
 argdate: "2015-02-25"
+publishdate: "2015-06-15"
 justices:
 - 1991thomas
 - 2009sotomayor

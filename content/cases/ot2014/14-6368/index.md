@@ -2,8 +2,8 @@
 title: "Kingsley v. Hendrickson"
 citation: "574 U.S. 373"
 docket: "14-6368"
-publishdate: "2015-06-22"
 argdate: "2015-04-27"
+publishdate: "2015-06-22"
 justices:
 - 1994breyer
 - 1986scalia

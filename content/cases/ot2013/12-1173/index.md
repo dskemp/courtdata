@@ -2,8 +2,8 @@
 title: "Marvin M. Brandt Revocable Trust v. United States"
 citation: "572 U.S. 93"
 docket: "12-1173"
-publishdate: "2014-03-10"
 argdate: "2014-01-14"
+publishdate: "2014-03-10"
 justices:
 advocates:
 tags:

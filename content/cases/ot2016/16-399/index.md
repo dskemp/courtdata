@@ -2,8 +2,8 @@
 title: "Perry v. Merit Systems Protection Bd."
 citation: "582 U.S. ___"
 docket: "16-399"
-publishdate: "2017-06-23"
 argdate: "2017-04-17"
+publishdate: "2017-06-23"
 justices:
 - 1993ginsburg
 advocates:

@@ -2,8 +2,8 @@
 title: "Molina-Martinez v. United States"
 citation: "578 U.S. ___"
 docket: "14-8913"
-publishdate: "2016-04-20"
 argdate: "2016-01-12"
+publishdate: "2016-04-20"
 justices:
 - 1988kennedy
 advocates:

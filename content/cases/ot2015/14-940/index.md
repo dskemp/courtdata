@@ -2,8 +2,8 @@
 title: "Evenwel v. Abbott"
 citation: "578 U.S. ___"
 docket: "14-940"
-publishdate: "2016-04-04"
 argdate: "2015-12-08"
+publishdate: "2016-04-04"
 justices:
 - 1993ginsburg
 advocates:

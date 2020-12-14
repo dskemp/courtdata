@@ -2,8 +2,8 @@
 title: "Burrage v. United States"
 citation: "571 U.S. 204"
 docket: "12-7515"
-publishdate: "2014-01-27"
 argdate: "2013-11-12"
+publishdate: "2014-01-27"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Alice Corporation Pty. Ltd. v. CLS Bank International"
 citation: "573 U.S. 208"
 docket: "13-298"
-publishdate: "2014-06-19"
 argdate: "2014-03-31"
+publishdate: "2014-06-19"
 justices:
 advocates:
 tags:

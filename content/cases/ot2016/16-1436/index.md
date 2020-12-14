@@ -2,8 +2,8 @@
 title: "Trump. v. International Refugee Assistance Project"
 citation: "582 U.S. ___"
 docket: "16-1436"
-publishdate: "2017-06-26"
 argdate: ""
+publishdate: "2017-06-26"
 justices:
 advocates:
 tags:
