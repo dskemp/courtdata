@@ -1,9 +1,10 @@
 ---
+
 title: "Christina A. Swarns"
-firstname: "Christina A."
+firstname: "Christina"
+middlename: "A."
 lastname: "Swarns"
-alphaname: "swarns-christina-a"
-date: "2020-11-30"
+date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.

@@ -1,9 +1,10 @@
 ---
+
 title: "David D. Cookson"
-firstname: "David D."
+firstname: "David"
+middlename: "D."
 lastname: "Cookson"
-alphaname: "cookson-david-d"
-date: "2020-11-30"
+date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.

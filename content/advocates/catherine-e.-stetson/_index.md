@@ -1,9 +1,10 @@
 ---
+
 title: "Catherine E. Stetson"
-firstname: "Catherine E."
+firstname: "Catherine"
+middlename: "E."
 lastname: "Stetson"
-alphaname: "stetson-catherine-e"
-date: "2020-11-30"
+date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.

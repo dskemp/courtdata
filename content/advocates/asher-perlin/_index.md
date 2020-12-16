@@ -1,9 +1,10 @@
 ---
+
 title: "Asher Perlin"
 firstname: "Asher"
+middlename: ""
 lastname: "Perlin"
-alphaname: "perlin-asher"
-date: "2020-11-30"
+date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.

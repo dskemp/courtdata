@@ -1,9 +1,10 @@
 ---
+
 title: "Brett E. Legner"
-firstname: "Brett E."
+firstname: "Brett"
+middlename: "E."
 lastname: "Legner"
-alphaname: "legner-brett-e"
-date: "2020-11-30"
+date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.
