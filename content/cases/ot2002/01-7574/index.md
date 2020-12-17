@@ -9,10 +9,10 @@ justices:
 advocates:
 - "Robert B. Dunham"
 - "Iva C. Dougherty"
-- "Srikanth Srinivasan"
+- "Sri Srinivasan"
 roles:
 - "Assistant Federal Defender, on behalf of the Petitioner"
-- "First Assistant District Attorney, on behalf of the Petitioner"
+- "First Assistant District Attorney of Berks County, Pennsylvania, on behalf of the Petitioner"
 - "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 summary: ""
 ---

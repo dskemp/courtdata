@@ -8,7 +8,7 @@ justices:
 - 1988kennedy
 advocates:
 - "Herald P. Fahringer"
-- "Srikanth Srinivasan"
+- "Sri Srinivasan"
 roles:
 - "on behalf of the Petitioner"
 - "Assistant to the Solicitor General, on behalf of the Respondent"

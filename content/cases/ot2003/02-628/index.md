@@ -9,7 +9,7 @@ justices:
 advocates:
 - "Susan F. Zinn"
 - "Irving L. Gornstein"
-- "R. Edward Cruz"
+- "R. Ted Cruz"
 roles:
 - "on behalf of the Petitioners"
 - "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"

@@ -10,7 +10,7 @@ advocates:
 - "Ronald Eisenberg"
 - "Albert J. Flora, Jr"
 roles:
-- "Deputy District Attorney of Pennsylvania, on behalf of the Petitioners"
+- "Deputy District Attorney of Philadelphia, Pennsylvania, on behalf of the Petitioners"
 - "First Assistant Public Defender of Pennsylvania, on behalf of the Respondent"
 summary: ""
 ---

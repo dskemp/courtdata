@@ -11,7 +11,7 @@ advocates:
 - "Charles A. Rosenthal"
 roles:
 - "on behalf of the Petitioners"
-- "District Attorney of Texas, on behalf of the Respondent"
+- "District Attorney of Harris County, Texas, on behalf of the Respondent"
 summary: ""
 ---
 

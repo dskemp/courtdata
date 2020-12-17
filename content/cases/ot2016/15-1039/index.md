@@ -7,7 +7,7 @@ publishdate: "2017-06-12"
 justices:
 - 1991thomas
 advocates:
-- "Deane E. Maynard"
+- "Deanne E. Maynard"
 - "Anthony A. Yang"
 - "Seth P. Waxman"
 roles:

@@ -9,7 +9,7 @@ justices:
 advocates:
 - "Robert E. Dolan"
 - "Conrad Hafen"
-- "Srikanth Srinivasan"
+- "Sri Srinivasan"
 roles:
 - "Deputy State Public Defender of Nevada, on behalf of the Petitioner"
 - "Senior Deputy Attorney General of Nevada, on behalf of the Respondents"

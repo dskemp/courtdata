@@ -7,7 +7,7 @@ publishdate: "2004-05-03"
 justices:
 - 1981oconnor
 advocates:
-- "R. Edward Cruz"
+- "R. Ted Cruz"
 - "Matthew D. Roberts"
 - "Eric M. Albritton"
 roles:

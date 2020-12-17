@@ -11,7 +11,7 @@ advocates:
 - "Robert M. Russel"
 - "James V. Wade"
 roles:
-- "Assistant District Attorney of Pennsylvania, on behalf of the Petitioners"
+- "Assistant District Attorney of Lackawanna County, Pennsylvania, on behalf of the Petitioners"
 - "Assistant Solicitor General of Colorado, on behalf of Colorado, et al., as amici curiae, supporting the Petitioners"
 - "Federal Public Defender, on behalf of the Respondent"
 summary: ""

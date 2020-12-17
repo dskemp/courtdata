@@ -8,7 +8,7 @@ justices:
 - 1986rehnquist
 advocates:
 - "Gary E. Bair"
-- "Srikanth Srinivasan"
+- "Sri Srinivasan"
 - "Nancy S. Forster"
 roles:
 - "on behalf of the Petitioner"

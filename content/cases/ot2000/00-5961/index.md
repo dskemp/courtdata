@@ -11,7 +11,7 @@ advocates:
 - "James A. Feldman"
 roles:
 - "on behalf of the Petitioner"
-- "Assistant District Attorney of Louisiana, on behalf of the Respondent"
+- "Assistant District Attorney of New Orleans, on behalf of the Respondent"
 - "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 summary: ""
 ---
