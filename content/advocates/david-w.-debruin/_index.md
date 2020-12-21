@@ -1,9 +1,9 @@
 ---
 
-title: "David W. De Bruin"
+title: "David W. DeBruin"
 firstname: "David"
 middlename: "W."
-lastname: "De Bruin"
+lastname: "DeBruin"
 date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---

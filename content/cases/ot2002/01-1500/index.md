@@ -9,7 +9,7 @@ justices:
 advocates:
 - "Thomas C. Goldstein"
 - "Matthew D. Roberts"
-- "David W. De Bruin"
+- "David W. DeBruin"
 roles:
 - "on behalf of the Petitioner"
 - "Assistant to the Solicitor General, on behalf of the Respondent"
