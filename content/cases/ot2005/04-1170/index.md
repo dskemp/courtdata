@@ -3,6 +3,7 @@ title: "Kansas v. Marsh"
 citation: "548 U.S. 163"
 docket: "04-1170"
 argdate: "2005-12-07"
+reargdate: "2006-04-25"
 publishdate: "2006-06-26"
 justices:
 - 1991thomas

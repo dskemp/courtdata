@@ -1,16 +1,15 @@
 ---
-title: "Garcetti v. Ceballos"
-citation: "547 U.S. 410"
-docket: "04-473"
-argdate: "2005-10-12"
-reargdate: "2006-03-21"
-publishdate: "2006-05-30"
+title: "Long Island Care at Home, Ltd. v. Coke"
+citation: "551 U.S. 158"
+docket: "06-593"
+argdate: "2007-04-16"
+publishdate: "2007-06-11"
 justices:
-- 1988kennedy
+- 1994breyer
 advocates:
-- "Cindy S. Lee"
-- "Dan Himmelfarb"
-- "Bonnie I. Robin-Vergeer"
+- "H. Bartow Farr, III"
+- "David B. Salmons"
+- "Harold C. Becker"
 roles:
 - "on behalf of the Petitioners"
 - "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
