@@ -2,8 +2,8 @@
 title: "Horne v. Department of Agriculture"
 citation: "576 U.S. ___"
 docket: "14-275"
-publishdate: "2015-06-22"
 argdate: "2015-04-22"
+publishdate: "2015-06-22"
 justices:
 - 2005roberts
 - 1991thomas

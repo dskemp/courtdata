@@ -2,8 +2,8 @@
 title: "Burt v. Titlow"
 citation: "571 U.S. 12"
 docket: "12-414"
-publishdate: "2013-11-05"
 argdate: "2013-10-08"
+publishdate: "2013-11-05"
 justices:
 advocates:
 tags:

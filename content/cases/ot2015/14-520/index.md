@@ -2,8 +2,8 @@
 title: "Hawkins v. Community Bank"
 citation: "577 U.S. ___"
 docket: "14-520"
-publishdate: "2016-03-22"
 argdate: "2015-10-05"
+publishdate: "2016-03-22"
 justices:
 advocates:
 - "John M. Duggan"

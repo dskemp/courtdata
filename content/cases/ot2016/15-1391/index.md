@@ -2,8 +2,8 @@
 title: "Expressions Hair Design v. Schneiderman"
 citation: "581 U.S. ___"
 docket: "15-1391"
-publishdate: "2017-03-29"
 argdate: "2017-01-10"
+publishdate: "2017-03-29"
 justices:
 - 2005roberts
 advocates:

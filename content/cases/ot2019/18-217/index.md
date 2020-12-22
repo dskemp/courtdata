@@ -2,8 +2,8 @@
 title: "Mathena v. Malvo"
 citation: ""
 docket: "18-217"
-publishdate: ""
 argdate: "2019-10-16"
+publishdate: ""
 advocates:
 - "Toby J. Heytens"
 - "Eric J. Feigin"

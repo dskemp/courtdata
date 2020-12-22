@@ -2,8 +2,8 @@
 title: "Nelson v. Colorado"
 citation: "581 U.S. ___"
 docket: "15-1256"
-publishdate: "2017-04-19"
 argdate: "2017-01-09"
+publishdate: "2017-04-19"
 justices:
 - 1993ginsburg
 advocates:

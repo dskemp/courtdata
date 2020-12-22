@@ -2,8 +2,8 @@
 title: "Unite Here Local 355 v. Mulhall"
 citation: "571 U.S. 83"
 docket: "12-99"
-publishdate: "2013-12-10"
 argdate: "2013-11-13"
+publishdate: "2013-12-10"
 justices:
 advocates:
 tags:

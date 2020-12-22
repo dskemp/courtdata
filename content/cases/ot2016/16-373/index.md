@@ -2,8 +2,8 @@
 title: "California Public Employees’ Retirement System v. ANZ Securities, Inc."
 citation: "582 U.S. ___"
 docket: "16-373"
-publishdate: "2017-06-26"
 argdate: "2017-04-17"
+publishdate: "2017-06-26"
 justices:
 - 1988kennedy
 advocates:

@@ -2,8 +2,8 @@
 title: "Heimeshoff v. Hartford Life & Accident Insurance Co."
 citation: "571 U.S. 99"
 docket: "12-729"
-publishdate: "2013-12-16"
 argdate: "2013-10-15"
+publishdate: "2013-12-16"
 justices:
 advocates:
 tags:

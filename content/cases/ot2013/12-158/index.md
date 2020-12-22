@@ -2,8 +2,8 @@
 title: "Bond v. United States"
 citation: "572 U.S. 844"
 docket: "12-158"
-publishdate: "2014-06-02"
 argdate: "2013-11-05"
+publishdate: "2014-06-02"
 justices:
 advocates:
 tags:

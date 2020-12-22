@@ -2,8 +2,8 @@
 title: "Ford Motor Company v. United States"
 citation: "571 U.S. 28"
 docket: "13-113"
-publishdate: "2013-12-02"
 argdate: ""
+publishdate: "2013-12-02"
 justices:
 advocates:
 tags:

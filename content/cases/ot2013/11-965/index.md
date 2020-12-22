@@ -2,8 +2,8 @@
 title: "Daimler AG v. Bauman"
 citation: "571 U.S. 117"
 docket: "11-965"
-publishdate: "2014-01-14"
 argdate: "2013-10-15"
+publishdate: "2014-01-14"
 justices:
 advocates:
 tags:

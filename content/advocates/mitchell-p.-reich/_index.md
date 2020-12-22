@@ -1,9 +1,10 @@
 ---
+
 title: "Mitchell P. Reich"
-firstname: "Mitchell P."
+firstname: "Mitchell"
+middlename: "P."
 lastname: "Reich"
-alphaname: "reich-mitchell-p"
-date: "2020-11-30"
+date: "2020-12-14"
 summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
 ---
 This advocate does not yet have a biography. To submit one, please contact the site administrator.

@@ -2,8 +2,8 @@
 title: "Tyson Foods, Inc. v. Bouaphakeo"
 citation: "577 U.S. ___"
 docket: "14-1146"
-publishdate: "2016-03-22"
 argdate: "2015-11-10"
+publishdate: "2016-03-22"
 justices:
 - 1988kennedy
 advocates:

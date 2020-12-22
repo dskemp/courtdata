@@ -2,8 +2,8 @@
 title: "Simmons v. Himmelreich"
 citation: "578 U.S. ___"
 docket: "15-109"
-publishdate: "2016-06-06"
 argdate: "2016-03-22"
+publishdate: "2016-06-06"
 justices:
 - 2009sotomayor
 advocates:

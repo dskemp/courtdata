@@ -2,8 +2,8 @@
 title: "United States v. Bryant"
 citation: "579 U.S. ___"
 docket: "15-420"
-publishdate: "2016-06-13"
 argdate: "2016-04-19"
+publishdate: "2016-06-13"
 justices:
 - 1993ginsburg
 advocates:

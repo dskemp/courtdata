@@ -2,8 +2,8 @@
 title: "Lewis v. Clarke"
 citation: "581 U.S. ___"
 docket: "15-1500"
-publishdate: "2017-04-25"
 argdate: "2017-01-09"
+publishdate: "2017-04-25"
 justices:
 - 2009sotomayor
 advocates:

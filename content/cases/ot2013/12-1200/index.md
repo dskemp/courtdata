@@ -2,8 +2,8 @@
 title: "Executive Benefits Insurance Agency v. Arkison"
 citation: "573 U.S. 25"
 docket: "12-1200"
-publishdate: "2014-06-09"
 argdate: "2014-01-14"
+publishdate: "2014-06-09"
 justices:
 advocates:
 tags:

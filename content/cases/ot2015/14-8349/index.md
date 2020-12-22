@@ -2,8 +2,8 @@
 title: "Foster v. Chatman"
 citation: "578 U.S. ___"
 docket: "14-8349"
-publishdate: "2016-05-23"
 argdate: "2015-11-02"
+publishdate: "2016-05-23"
 justices:
 - 2005roberts
 advocates:

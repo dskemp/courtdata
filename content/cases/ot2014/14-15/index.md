@@ -2,8 +2,8 @@
 title: "Armstrong v. Exceptional Child Center, Inc."
 citation: "576 U.S. ___"
 docket: "14-15"
-publishdate: "2015-03-31"
 argdate: "2015-01-20"
+publishdate: "2015-03-31"
 justices:
 - 1986scalia
 - 1994breyer

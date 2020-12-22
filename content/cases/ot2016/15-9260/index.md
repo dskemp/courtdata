@@ -2,8 +2,8 @@
 title: "Dean v. United States"
 citation: "581 U.S. ___"
 docket: "15-9260"
-publishdate: "2017-04-03"
 argdate: "2017-02-28"
+publishdate: "2017-04-03"
 justices:
 - 2005roberts
 advocates:

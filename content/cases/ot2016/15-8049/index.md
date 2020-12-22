@@ -2,8 +2,8 @@
 title: "Buck v. Davis"
 citation: "580 U.S. ___"
 docket: "15-8049"
-publishdate: "2017-02-22"
 argdate: "2016-10-05"
+publishdate: "2017-02-22"
 justices:
 - 2005roberts
 advocates:

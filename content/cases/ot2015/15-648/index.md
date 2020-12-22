@@ -2,8 +2,8 @@
 title: "V.L. v. E.L."
 citation: "577 U.S. ___"
 docket: "15-648"
-publishdate: "2016-03-07"
 argdate: ""
+publishdate: "2016-03-07"
 justices:
 advocates:
 tags:

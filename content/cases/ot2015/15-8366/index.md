@@ -2,8 +2,8 @@
 title: "Lynch v. Arizona"
 citation: "578 U.S. ___"
 docket: "15-8366"
-publishdate: "2016-05-31"
 argdate: ""
+publishdate: "2016-05-31"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Maslenjak v. United States"
 citation: "582 U.S. ___"
 docket: "16-309"
-publishdate: "2017-06-22"
 argdate: "2017-04-26"
+publishdate: "2017-06-22"
 justices:
 - 2010kagan
 advocates:

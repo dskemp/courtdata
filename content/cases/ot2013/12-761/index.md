@@ -2,8 +2,8 @@
 title: "POM Wonderful LLC v. The Coca Cola Company"
 citation: "573 U.S. 102"
 docket: "12-761"
-publishdate: "2014-06-12"
 argdate: "2014-04-21"
+publishdate: "2014-06-12"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Abramski v. United States"
 citation: "573 U.S. 169"
 docket: "12-1493"
-publishdate: "2014-06-16"
 argdate: "2014-01-22"
+publishdate: "2014-06-16"
 justices:
 advocates:
 tags:

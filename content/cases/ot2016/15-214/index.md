@@ -2,8 +2,8 @@
 title: "Murr v. Wisconsin"
 citation: "582 U.S. ___"
 docket: "15-214"
-publishdate: "2017-06-23"
 argdate: "2017-03-20"
+publishdate: "2017-06-23"
 justices:
 - 1988kennedy
 advocates:

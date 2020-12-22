@@ -2,8 +2,8 @@
 title: "United States v. Quality Stores"
 citation: "572 U.S. 141"
 docket: "12-1408"
-publishdate: "2014-03-25"
 argdate: "2014-01-14"
+publishdate: "2014-03-25"
 justices:
 advocates:
 tags:

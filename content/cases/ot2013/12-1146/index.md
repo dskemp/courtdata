@@ -2,8 +2,8 @@
 title: "Utility Air Regulatory Group v. Environmental Protection Agency"
 citation: "573 U.S. 302"
 docket: "12-1146"
-publishdate: "2014-06-23"
 argdate: "2014-02-24"
+publishdate: "2014-06-23"
 justices:
 advocates:
 tags:

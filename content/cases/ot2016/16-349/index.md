@@ -2,8 +2,8 @@
 title: "Henson v. Santander Consumer USA Inc."
 citation: "582 U.S. ___"
 docket: "16-349"
-publishdate: "2017-06-12"
 argdate: "2017-04-18"
+publishdate: "2017-06-12"
 justices:
 - 2017gorsuch
 advocates:

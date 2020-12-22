@@ -2,8 +2,8 @@
 title: "Bravo-Fernandez v. United States"
 citation: "580 U.S. ___"
 docket: "15-537"
-publishdate: "2016-11-29"
 argdate: "2016-10-04"
+publishdate: "2016-11-29"
 justices:
 - 1993ginsburg
 advocates:

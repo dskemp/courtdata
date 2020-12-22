@@ -2,8 +2,8 @@
 title: "Plumhoff v. Rickard"
 citation: "572 U.S. 765"
 docket: "12-1117"
-publishdate: "2014-05-27"
 argdate: "2014-03-04"
+publishdate: "2014-05-27"
 justices:
 advocates:
 tags:

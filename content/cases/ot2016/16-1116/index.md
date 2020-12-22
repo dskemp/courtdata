@@ -2,8 +2,8 @@
 title: "Jenkins v. Hutton"
 citation: "582 U.S. ___"
 docket: "16-1116"
-publishdate: "2017-06-19"
 argdate: ""
+publishdate: "2017-06-19"
 justices:
 advocates:
 tags:

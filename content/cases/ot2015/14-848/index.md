@@ -2,8 +2,8 @@
 title: "Maryland v. Kulbicki"
 citation: "577 U.S. ___"
 docket: "14-848"
-publishdate: "2015-10-05"
 argdate: ""
+publishdate: "2015-10-05"
 justices:
 advocates:
 tags:

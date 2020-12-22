@@ -2,8 +2,8 @@
 title: "Endrew F. v. Douglas County School Dist. RE–1"
 citation: "580 U.S. ___"
 docket: "15-827"
-publishdate: "2017-03-22"
 argdate: "2017-01-11"
+publishdate: "2017-03-22"
 justices:
 - 2005roberts
 advocates:

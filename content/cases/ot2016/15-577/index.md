@@ -2,8 +2,8 @@
 title: "Trinity Lutheran Church of Columbia, Inc. v. Comer"
 citation: "582 U.S. ___"
 docket: "15-577"
-publishdate: "2017-06-26"
 argdate: "2017-04-19"
+publishdate: "2017-06-26"
 justices:
 - 2005roberts
 advocates:

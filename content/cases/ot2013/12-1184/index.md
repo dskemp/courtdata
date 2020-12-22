@@ -2,8 +2,8 @@
 title: "Octane Fitness v. Icon Health and Fitness"
 citation: "572 U.S. 545"
 docket: "12-1184"
-publishdate: "2014-04-29"
 argdate: "2014-02-26"
+publishdate: "2014-04-29"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "CTS Corp. v. Waldburger"
 citation: "573 U.S. 1"
 docket: "13-339"
-publishdate: "2014-06-09"
 argdate: "2014-04-23"
+publishdate: "2014-06-09"
 justices:
 advocates:
 tags:

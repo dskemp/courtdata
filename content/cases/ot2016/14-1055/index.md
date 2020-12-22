@@ -2,8 +2,8 @@
 title: "Lightfoot v. Cendant Mortgage Corp"
 citation: "580 U.S. ___"
 docket: "14-1055"
-publishdate: "2017-01-18"
 argdate: "2016-11-08"
+publishdate: "2017-01-18"
 justices:
 - 2009sotomayor
 advocates:

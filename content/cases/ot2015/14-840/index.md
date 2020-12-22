@@ -2,8 +2,8 @@
 title: "Federal Energy Regulatory Commission v. Electric Power Supply Association"
 citation: "577 U.S. ___"
 docket: "14-840"
-publishdate: "2016-01-25"
 argdate: "2015-10-14"
+publishdate: "2016-01-25"
 justices:
 - 2010kagan
 advocates:

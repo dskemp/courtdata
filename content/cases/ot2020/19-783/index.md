@@ -2,8 +2,8 @@
 title: "Van Buren v. United States"
 citation: ""
 docket: "19-783"
-publishdate: ""
 argdate: "2020-11-30"
+publishdate: ""
 justices:
 advocates:
 - "Jeffrey L. Fisher"

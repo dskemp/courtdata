@@ -2,8 +2,8 @@
 title: "Microsoft Corp. v. Baker"
 citation: "582 U.S. ___"
 docket: "15-457"
-publishdate: "2017-06-12"
 argdate: "2017-03-21"
+publishdate: "2017-06-12"
 justices:
 - 1993ginsburg
 advocates:

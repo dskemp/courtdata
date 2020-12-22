@@ -2,8 +2,8 @@
 title: "Nichols v. United States"
 citation: "578 U.S. ___"
 docket: "15-5238"
-publishdate: "2016-04-04"
 argdate: "2016-03-01"
+publishdate: "2016-04-04"
 justices:
 - 2006alito
 advocates:

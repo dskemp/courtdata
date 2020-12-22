@@ -2,8 +2,8 @@
 title: "Sheriff v. Gillie"
 citation: "578 U.S. ___"
 docket: "15-338"
-publishdate: "2016-05-16"
 argdate: "2016-03-29"
+publishdate: "2016-05-16"
 justices:
 - 1993ginsburg
 advocates:

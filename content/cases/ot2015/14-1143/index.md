@@ -2,8 +2,8 @@
 title: "Mullenix v. Luna"
 citation: "577 U.S. ___"
 docket: "14-1143"
-publishdate: "2015-11-09"
 argdate: ""
+publishdate: "2015-11-09"
 justices:
 advocates:
 tags:

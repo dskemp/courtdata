@@ -2,8 +2,8 @@
 title: "Susan B. Anthony List v. Driehaus"
 citation: "573 U.S. 149"
 docket: "13-193"
-publishdate: "2014-06-16"
 argdate: "2014-04-22"
+publishdate: "2014-06-16"
 justices:
 advocates:
 tags:

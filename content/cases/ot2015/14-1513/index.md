@@ -2,8 +2,8 @@
 title: "Halo Electronics, Inc. v. Pulse Electronics, Inc."
 citation: "579 U.S. ___"
 docket: "14-1513"
-publishdate: "2016-06-13"
 argdate: "2016-02-23"
+publishdate: "2016-06-13"
 justices:
 - 2005roberts
 advocates:

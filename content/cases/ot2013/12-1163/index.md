@@ -2,8 +2,8 @@
 title: "Highmark Inc. v. Allcare Health Management Systems"
 citation: "572 U.S. 559"
 docket: "12-1163"
-publishdate: "2014-04-29"
 argdate: "2014-02-26"
+publishdate: "2014-04-29"
 justices:
 advocates:
 tags:

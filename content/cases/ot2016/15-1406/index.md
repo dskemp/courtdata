@@ -2,8 +2,8 @@
 title: "Goodyear Tire & Rubber Co. v. Haeger"
 citation: "581 U.S. ___"
 docket: "15-1406"
-publishdate: "2017-04-18"
 argdate: "2017-01-10"
+publishdate: "2017-04-18"
 justices:
 - 2010kagan
 advocates:

@@ -2,8 +2,8 @@
 title: "Americold Realty Trust v. ConAgra Foods, Inc."
 citation: "577 U.S. ___"
 docket: "14-1382"
-publishdate: "2016-03-07"
 argdate: "2016-01-19"
+publishdate: "2016-03-07"
 justices:
 - 2009sotomayor
 advocates:

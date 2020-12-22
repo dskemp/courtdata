@@ -2,8 +2,8 @@
 title: "Woods v. Donald"
 citation: "576 U.S. ___"
 docket: "14-618"
-publishdate: "2015-03-30"
 argdate: ""
+publishdate: "2015-03-30"
 tags:
 - "ineffective assistance of counsel"
 - "Sixth Amendment"

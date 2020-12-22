@@ -2,8 +2,8 @@
 title: "White v. Pauly"
 citation: "580 U.S. ___"
 docket: "16-67"
-publishdate: "2017-01-09"
 argdate: ""
+publishdate: "2017-01-09"
 justices:
 advocates:
 tags:

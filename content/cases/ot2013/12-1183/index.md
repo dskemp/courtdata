@@ -2,8 +2,8 @@
 title: "American Lung Association v. EME Homer City Generation"
 citation: "572 U.S. 489"
 docket: "12-1183"
-publishdate: "2014-04-29"
 argdate: "2013-12-10"
+publishdate: "2014-04-29"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Pavan v. Smith"
 citation: "582 U.S. ___"
 docket: "16-992"
-publishdate: "2017-06-26"
 argdate: ""
+publishdate: "2017-06-26"
 justices:
 advocates:
 tags:

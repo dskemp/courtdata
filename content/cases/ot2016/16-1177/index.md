@@ -2,8 +2,8 @@
 title: "Virginia v. LeBlanc"
 citation: "582 U.S. ___"
 docket: "16-1177"
-publishdate: "2017-06-12"
 argdate: ""
+publishdate: "2017-06-12"
 justices:
 advocates:
 tags:

@@ -2,12 +2,12 @@
 title: "Sandoz Inc. v. Amgen Inc."
 citation: "582 U.S. ___"
 docket: "15-1039"
-publishdate: "2017-06-12"
 argdate: "2017-04-26"
+publishdate: "2017-06-12"
 justices:
 - 1991thomas
 advocates:
-- "Deane E. Maynard"
+- "Deanne E. Maynard"
 - "Anthony A. Yang"
 - "Seth P. Waxman"
 roles:

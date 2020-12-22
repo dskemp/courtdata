@@ -2,8 +2,8 @@
 title: "Burwell v. Hobby Lobby Stores"
 citation: "573 U.S. 682"
 docket: "13-354"
-publishdate: "2014-06-30"
 argdate: "2014-03-25"
+publishdate: "2014-06-30"
 justices:
 advocates:
 tags:

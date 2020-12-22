@@ -2,8 +2,8 @@
 title: "McLane Co. v. Equal Employment Opportunity Commission"
 citation: "581 U.S. ___"
 docket: "15-1248"
-publishdate: "2017-04-03"
 argdate: "2017-02-21"
+publishdate: "2017-04-03"
 justices:
 - 2009sotomayor
 advocates:

@@ -2,8 +2,8 @@
 title: "Howell v. Howell"
 citation: "581 U.S. ___"
 docket: "15-1031"
-publishdate: "2017-05-15"
 argdate: "2017-03-20"
+publishdate: "2017-05-15"
 justices:
 - 1994breyer
 advocates:

@@ -2,8 +2,8 @@
 title: "Rosemond v. United States"
 citation: "572 U.S. 65"
 docket: "12-895"
-publishdate: "2014-03-05"
 argdate: "2013-11-12"
+publishdate: "2014-03-05"
 justices:
 advocates:
 tags:

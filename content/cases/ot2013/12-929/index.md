@@ -2,8 +2,8 @@
 title: "Atlantic Marine Construction Co. v. U.S. District Court"
 citation: "571 U.S. 49"
 docket: "12-929"
-publishdate: "2013-12-03"
 argdate: "2013-10-09"
+publishdate: "2013-12-03"
 justices:
 advocates:
 tags:

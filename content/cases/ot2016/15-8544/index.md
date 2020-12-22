@@ -2,8 +2,8 @@
 title: "Beckles v. United States"
 citation: "580 U.S. ___"
 docket: "15-8544"
-publishdate: "2017-03-06"
 argdate: "2016-11-28"
+publishdate: "2017-03-06"
 justices:
 - 1991thomas
 advocates:

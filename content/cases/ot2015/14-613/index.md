@@ -2,8 +2,8 @@
 title: "Green v. Brennan"
 citation: "578 U.S. ___"
 docket: "14-613"
-publishdate: "2016-05-23"
 argdate: "2015-11-30"
+publishdate: "2016-05-23"
 justices:
 - 2009sotomayor
 advocates:

@@ -2,8 +2,8 @@
 title: "Voisine v. United States"
 citation: "579 U.S. ___"
 docket: "14-10154"
-publishdate: "2016-06-27"
 argdate: "2016-02-29"
+publishdate: "2016-06-27"
 justices:
 - 2010kagan
 advocates:

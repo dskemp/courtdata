@@ -2,8 +2,8 @@
 title: "United States v. Texas"
 citation: "579 U.S. ___"
 docket: "15-674"
-publishdate: "2016-06-23"
 argdate: "2016-04-18"
+publishdate: "2016-06-23"
 justices:
 advocates:
 - "Donald B. Verrilli, Jr"

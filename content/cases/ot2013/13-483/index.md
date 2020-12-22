@@ -2,8 +2,8 @@
 title: "Lane v. Franks"
 citation: "573 U.S. 228"
 docket: "13-483"
-publishdate: "2014-06-19"
 argdate: "2014-04-28"
+publishdate: "2014-06-19"
 justices:
 advocates:
 tags:

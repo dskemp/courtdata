@@ -2,8 +2,8 @@
 title: "National Labor Relations Board v. SW General, Inc"
 citation: "580 U.S. ___"
 docket: "15-1251"
-publishdate: "2017-03-21"
 argdate: "2016-11-07"
+publishdate: "2017-03-21"
 justices:
 - 2005roberts
 advocates:

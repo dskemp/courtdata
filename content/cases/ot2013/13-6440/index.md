@@ -2,8 +2,8 @@
 title: "Hinton v. Alabama"
 citation: "571 U.S. 263"
 docket: "13-6440"
-publishdate: "2014-02-24"
 argdate: ""
+publishdate: "2014-02-24"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Kingdomware Technologies, Inc. v. United States"
 citation: "579 U.S. ___"
 docket: "14-916"
-publishdate: "2016-06-16"
 argdate: "2016-02-22"
+publishdate: "2016-06-16"
 justices:
 - 1991thomas
 advocates:

@@ -2,8 +2,8 @@
 title: "Ross v. Blake"
 citation: "578 U.S. ___"
 docket: "15-339"
-publishdate: "2016-06-06"
 argdate: "2016-03-29"
+publishdate: "2016-06-06"
 justices:
 - 2010kagan
 advocates:

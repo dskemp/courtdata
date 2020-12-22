@@ -2,8 +2,8 @@
 title: "Michigan v. Environmental Protection Agency"
 citation: "576 U.S. ___"
 docket: "14-46"
-publishdate: "2015-06-29"
 argdate: "2015-03-25"
+publishdate: "2015-06-29"
 justices:
 - 1986scalia
 - 1991thomas

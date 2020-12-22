@@ -2,8 +2,8 @@
 title: "Spokeo, Inc. v. Robins"
 citation: "578 U.S. ___"
 docket: "13-1339"
-publishdate: "2016-05-16"
 argdate: "2015-11-02"
+publishdate: "2016-05-16"
 justices:
 - 2006alito
 advocates:

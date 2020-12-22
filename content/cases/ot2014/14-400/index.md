@@ -2,8 +2,8 @@
 title: "Harris v. Viegelahn"
 citation: "576 U.S. __"
 docket: "14-400"
-publishdate: "2015-05-18"
 argdate: "2015-04-01"
+publishdate: "2015-05-18"
 justices:
 - 1993ginsburg
 advocates:

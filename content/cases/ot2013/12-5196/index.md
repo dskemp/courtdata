@@ -2,8 +2,8 @@
 title: "Law v. Siegel"
 citation: "571 U.S. 415"
 docket: "12-5196"
-publishdate: "2014-03-04"
 argdate: "2014-01-13"
+publishdate: "2014-03-04"
 justices:
 advocates:
 tags:

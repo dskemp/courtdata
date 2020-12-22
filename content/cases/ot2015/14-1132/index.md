@@ -2,8 +2,8 @@
 title: "Merrill Lynch, Pierce, Fenner & Smith Inc. v. Manning"
 citation: "578 U.S. ___"
 docket: "14-1132"
-publishdate: "2016-05-16"
 argdate: "2015-12-01"
+publishdate: "2016-05-16"
 justices:
 - 2010kagan
 advocates:

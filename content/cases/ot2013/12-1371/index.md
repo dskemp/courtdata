@@ -2,8 +2,8 @@
 title: "United States v. Castleman"
 citation: "572 U.S. 157"
 docket: "12-1371"
-publishdate: "2014-03-26"
 argdate: "2014-01-15"
+publishdate: "2014-03-26"
 justices:
 advocates:
 tags:

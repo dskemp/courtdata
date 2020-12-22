@@ -2,8 +2,8 @@
 title: "Encino Motorcars, LLC v. Navarro"
 citation: "579 U.S. ___"
 docket: "15-415"
-publishdate: "2016-06-20"
 argdate: "2016-04-20"
+publishdate: "2016-06-20"
 justices:
 - 1988kennedy
 advocates:

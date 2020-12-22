@@ -2,8 +2,8 @@
 title: "OBB Personenverkehr AG v. Sachs"
 citation: "577 U.S. ___"
 docket: "13-1067"
-publishdate: "2015-12-01"
 argdate: "2015-10-05"
+publishdate: "2015-12-01"
 justices:
 - 2005roberts
 advocates:

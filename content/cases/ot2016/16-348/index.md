@@ -2,8 +2,8 @@
 title: "Midland Funding, LLC v. Johnson"
 citation: "581 U.S. ___"
 docket: "16-348"
-publishdate: "2017-05-15"
 argdate: "2017-01-17"
+publishdate: "2017-05-15"
 justices:
 - 1994breyer
 advocates:

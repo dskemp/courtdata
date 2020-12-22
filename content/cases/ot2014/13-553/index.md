@@ -2,8 +2,8 @@
 title: "Alabama Department of Revenue v. CSX Transportation, Inc."
 citation: "575 U.S. ___"
 docket: "13-553"
-publishdate: "2015-03-04"
 argdate: "2014-12-09"
+publishdate: "2015-03-04"
 justices:
 - 2006alito
 - 1991thomas

@@ -2,8 +2,8 @@
 title: "Shapiro v. McManus"
 citation: "577 U.S. ___"
 docket: "14-990"
-publishdate: "2015-12-08"
 argdate: "2015-11-04"
+publishdate: "2015-12-08"
 justices:
 - 1986scalia
 advocates:

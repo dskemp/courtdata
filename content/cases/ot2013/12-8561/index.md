@@ -2,8 +2,8 @@
 title: "Paroline v. United States"
 citation: "572 U.S. 434"
 docket: "12-8561"
-publishdate: "2014-04-23"
 argdate: "2014-01-22"
+publishdate: "2014-04-23"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Hernandez v. Mesa"
 citation: "582 U.S. ___"
 docket: "15-118"
-publishdate: "2017-06-26"
 argdate: "2017-02-21"
+publishdate: "2017-06-26"
 justices:
 advocates:
 - "Robert C. Hilliard"

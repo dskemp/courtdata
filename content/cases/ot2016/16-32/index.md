@@ -2,8 +2,8 @@
 title: "Kindred Nursing Centers, L. P. v. Clark"
 citation: "581 U.S. ___"
 docket: "16-32"
-publishdate: "2017-05-15"
 argdate: "2017-02-22"
+publishdate: "2017-05-15"
 justices:
 - 2010kagan
 advocates:

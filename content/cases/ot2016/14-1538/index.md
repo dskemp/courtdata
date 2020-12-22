@@ -2,8 +2,8 @@
 title: "Life Technologies Corp. v. Promega Corp."
 citation: "580 U.S. ___"
 docket: "14-1538"
-publishdate: "2017-02-22"
 argdate: "2016-12-06"
+publishdate: "2017-02-22"
 justices:
 - 2009sotomayor
 advocates:

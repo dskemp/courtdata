@@ -2,8 +2,8 @@
 title: "Matal v. Tam"
 citation: "582 U.S. ___"
 docket: "15-1293"
-publishdate: "2017-06-19"
 argdate: "2017-01-18"
+publishdate: "2017-06-19"
 justices:
 - 2006alito
 advocates:

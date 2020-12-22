@@ -2,8 +2,8 @@
 title: "Impression Products, Inc. v. Lexmark Int’l, Inc."
 citation: "581 U.S. ___"
 docket: "15-1189"
-publishdate: "2017-05-30"
 argdate: "2017-03-21"
+publishdate: "2017-05-30"
 justices:
 - 2005roberts
 advocates:

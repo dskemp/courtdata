@@ -2,8 +2,8 @@
 title: "Proskauer Rose LLP v. Troice"
 citation: "571 U.S. 377"
 docket: "12-88"
-publishdate: "2014-02-26"
 argdate: "2013-10-07"
+publishdate: "2014-02-26"
 justices:
 advocates:
 tags:

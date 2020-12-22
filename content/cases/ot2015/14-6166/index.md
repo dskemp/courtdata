@@ -2,8 +2,8 @@
 title: "Taylor v. United States"
 citation: "579 U.S. ___"
 docket: "14-6166"
-publishdate: "2016-06-20"
 argdate: "2016-02-23"
+publishdate: "2016-06-20"
 justices:
 - 2006alito
 advocates:

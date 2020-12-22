@@ -2,8 +2,8 @@
 title: "Manrique v. United States"
 citation: "581 U.S. ___"
 docket: "15-7250"
-publishdate: "2017-04-19"
 argdate: "2016-10-11"
+publishdate: "2017-04-19"
 justices:
 - 1991thomas
 advocates:

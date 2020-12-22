@@ -2,8 +2,8 @@
 title: "Kernan v. Hinojosa"
 citation: "578 U.S. ___"
 docket: "15-833"
-publishdate: "2016-05-16"
 argdate: ""
+publishdate: "2016-05-16"
 justices:
 advocates:
 tags:

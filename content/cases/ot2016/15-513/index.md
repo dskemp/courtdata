@@ -2,8 +2,8 @@
 title: "State Farm Fire & Casualty Co. v. United States ex rel. Rigsby"
 citation: "580 U.S. ___"
 docket: "15-513"
-publishdate: "2016-12-06"
 argdate: "2016-11-01"
+publishdate: "2016-12-06"
 justices:
 - 1988kennedy
 advocates:

@@ -2,8 +2,8 @@
 title: "Elgin v. Department of the Treasury"
 citation: "567 U.S. 1"
 docket: "11-45"
-publishdate: "2012-06-11"
 argdate: "2012-02-27"
+publishdate: "2012-06-11"
 justices:
 - 1991thomas
 - 2006alito

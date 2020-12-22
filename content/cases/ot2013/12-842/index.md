@@ -2,8 +2,8 @@
 title: "Republic of Argentina v. NML Capital"
 citation: "573 U.S. 134"
 docket: "12-842"
-publishdate: "2014-06-16"
 argdate: "2014-04-21"
+publishdate: "2014-06-16"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Whole Woman’s Health v. Hellerstedt"
 citation: "579 U.S. ___"
 docket: "15-274"
-publishdate: "2016-06-27"
 argdate: "2016-03-02"
+publishdate: "2016-06-27"
 justices:
 - 1994breyer
 advocates:

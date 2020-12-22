@@ -2,8 +2,8 @@
 title: "McCullen v. Coakley"
 citation: "573 U.S. 464"
 docket: "12-1168"
-publishdate: "2014-06-26"
 argdate: "2014-01-15"
+publishdate: "2014-06-26"
 justices:
 advocates:
 tags:

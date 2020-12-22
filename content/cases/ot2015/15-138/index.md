@@ -2,8 +2,8 @@
 title: "RJR Nabisco, Inc. v. European Community"
 citation: "579 U.S. ___"
 docket: "15-138"
-publishdate: "2016-06-20"
 argdate: "2016-03-21"
+publishdate: "2016-06-20"
 justices:
 - 2006alito
 advocates:

@@ -2,8 +2,8 @@
 title: "Fernandez v. California"
 citation: "571 U.S. 292"
 docket: "12-7822"
-publishdate: "2014-02-25"
 argdate: "2013-11-13"
+publishdate: "2014-02-25"
 justices:
 advocates:
 tags:

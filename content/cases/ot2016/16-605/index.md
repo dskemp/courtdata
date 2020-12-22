@@ -2,8 +2,8 @@
 title: "Town of Chester v. Laroe Estates, Inc."
 citation: "581 U.S. ___"
 docket: "16-605"
-publishdate: "2017-06-05"
 argdate: "2017-04-17"
+publishdate: "2017-06-05"
 justices:
 - 2006alito
 advocates:

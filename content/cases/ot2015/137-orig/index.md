@@ -2,8 +2,8 @@
 title: "Montana v. Wyoming"
 citation: "577 U.S. ___"
 docket: "137, Orig."
-publishdate: "2016-03-21"
 argdate: ""
+publishdate: "2016-03-21"
 justices:
 advocates:
 tags:

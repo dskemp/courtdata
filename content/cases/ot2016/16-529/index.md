@@ -2,8 +2,8 @@
 title: "Kokesh v. Securities and Exchange Commission"
 citation: "581 U.S. ___"
 docket: "16-529"
-publishdate: "2017-06-05"
 argdate: "2017-04-18"
+publishdate: "2017-06-05"
 justices:
 - 2009sotomayor
 advocates:

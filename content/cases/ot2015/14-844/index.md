@@ -2,8 +2,8 @@
 title: "Bruce v. Samuels"
 citation: "577 U.S. ___"
 docket: "14-844"
-publishdate: "2016-01-12"
 argdate: "2015-11-04"
+publishdate: "2016-01-12"
 justices:
 - 1993ginsburg
 advocates:

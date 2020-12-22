@@ -2,8 +2,8 @@
 title: "Wood v. Moss"
 citation: "572 U.S. 744"
 docket: "13-115"
-publishdate: "2014-05-27"
 argdate: "2014-03-26"
+publishdate: "2014-05-27"
 justices:
 advocates:
 tags:

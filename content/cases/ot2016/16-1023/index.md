@@ -2,8 +2,8 @@
 title: "North Carolina v. Covington"
 citation: "581 U.S. ___"
 docket: "16-1023"
-publishdate: "2017-06-05"
 argdate: ""
+publishdate: "2017-06-05"
 justices:
 advocates:
 tags:

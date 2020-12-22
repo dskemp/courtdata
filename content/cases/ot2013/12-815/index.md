@@ -2,8 +2,8 @@
 title: "Sprint Communications Company v. Jacobs"
 citation: "571 U.S. 69"
 docket: "12-815"
-publishdate: "2013-12-10"
 argdate: "2013-11-05"
+publishdate: "2013-12-10"
 justices:
 advocates:
 tags:

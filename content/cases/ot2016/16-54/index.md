@@ -2,8 +2,8 @@
 title: "Esquivel-Quintana v. Sessions"
 citation: "581 U.S. ___"
 docket: "16-54"
-publishdate: "2017-05-30"
 argdate: "2017-02-27"
+publishdate: "2017-05-30"
 justices:
 - 1991thomas
 advocates:

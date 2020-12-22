@@ -2,8 +2,8 @@
 title: "Walden v. Fiore"
 citation: "571 U.S. 277"
 docket: "12-574"
-publishdate: "2014-02-25"
 argdate: "2013-11-04"
+publishdate: "2014-02-25"
 justices:
 advocates:
 tags:

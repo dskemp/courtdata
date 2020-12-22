@@ -2,8 +2,8 @@
 title: "Czyzewski v. Jevic Holding Corp."
 citation: "580 U.S. ___"
 docket: "15-649"
-publishdate: "2017-03-22"
 argdate: "2016-12-07"
+publishdate: "2017-03-22"
 justices:
 - 1994breyer
 advocates:

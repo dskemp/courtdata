@@ -2,8 +2,8 @@
 title: "United States v. Apel"
 citation: "571 U.S. 359"
 docket: "12-1038"
-publishdate: "2014-02-26"
 argdate: "2013-12-04"
+publishdate: "2014-02-26"
 justices:
 advocates:
 tags:

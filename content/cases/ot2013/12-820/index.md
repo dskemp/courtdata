@@ -2,8 +2,8 @@
 title: "Lozano v. Alvarez"
 citation: "572 U.S. 1"
 docket: "12-820"
-publishdate: "2014-03-05"
 argdate: "2013-12-11"
+publishdate: "2014-03-05"
 justices:
 advocates:
 tags:

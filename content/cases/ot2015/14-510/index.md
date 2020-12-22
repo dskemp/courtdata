@@ -2,8 +2,8 @@
 title: "Menominee Tribe of Wis. v. United States"
 citation: "577 U.S. ___"
 docket: "14-510"
-publishdate: "2016-01-25"
 argdate: "2015-12-01"
+publishdate: "2016-01-25"
 justices:
 - 2006alito
 advocates:

@@ -2,8 +2,8 @@
 title: "Lexmark International v. Static Control Components"
 citation: "572 U.S. 118"
 docket: "12-873"
-publishdate: "2014-03-25"
 argdate: "2013-12-03"
+publishdate: "2014-03-25"
 justices:
 advocates:
 tags:

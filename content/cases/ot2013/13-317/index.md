@@ -2,8 +2,8 @@
 title: "Halliburton Co. v. Erica P. John Fund"
 citation: "573 U.S. 258"
 docket: "13-317"
-publishdate: "2014-06-23"
 argdate: "2014-03-05"
+publishdate: "2014-06-23"
 justices:
 advocates:
 tags:

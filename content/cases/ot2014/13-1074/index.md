@@ -1,5 +1,5 @@
 ---
-title: "United States v. Kwai Fun Fong"
+title: "United States v. Kwai Fun Wong"
 citation: "575 U.S. ___"
 docket: "13-1074"
 argdate: "2014-12-10"

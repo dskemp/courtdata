@@ -2,8 +2,8 @@
 title: "Navarette v. California"
 citation: "572 U.S. 393"
 docket: "12-9490"
-publishdate: "2014-04-22"
 argdate: "2014-01-21"
+publishdate: "2014-04-22"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "Ocasio v. United States"
 citation: "578 U.S. ___"
 docket: "14-361"
-publishdate: "2016-05-02"
 argdate: "2015-10-06"
+publishdate: "2016-05-02"
 justices:
 - 2006alito
 advocates:

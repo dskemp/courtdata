@@ -2,8 +2,8 @@
 title: "Pena-Rodriguez v. Colorado"
 citation: "580 U.S. ___"
 docket: "15-606"
-publishdate: "2017-03-06"
 argdate: "2016-10-11"
+publishdate: "2017-03-06"
 justices:
 - 1988kennedy
 advocates:

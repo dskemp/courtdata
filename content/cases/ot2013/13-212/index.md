@@ -2,8 +2,8 @@
 title: "United States v. Wurie"
 citation: "573 U.S. 373"
 docket: "13-212"
-publishdate: "2014-06-25"
 argdate: "2014-04-29"
+publishdate: "2014-06-25"
 justices:
 advocates:
 tags:

@@ -2,8 +2,8 @@
 title: "McFadden v. United States"
 citation: "576 U.S. ___"
 docket: "14-378"
-publishdate: "2015-01-20"
 argdate: "2015-04-21"
+publishdate: "2015-01-20"
 justices:
 - 1991thomas
 - 2005roberts

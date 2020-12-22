@@ -2,8 +2,8 @@
 title: "Trump v. New York"
 citation: ""
 docket: "20-366"
-publishdate: ""
 argdate: "2020-11-30"
+publishdate: ""
 advocates:
 - "Jeffrey B. Wall"
 - "Barbara D. Underwood"

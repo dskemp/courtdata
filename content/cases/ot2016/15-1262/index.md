@@ -2,8 +2,8 @@
 title: "Cooper v. Harris"
 citation: "581 U.S. ___"
 docket: "15-1262"
-publishdate: "2017-05-22"
 argdate: "2016-12-05"
+publishdate: "2017-05-22"
 justices:
 - 2010kagan
 advocates:

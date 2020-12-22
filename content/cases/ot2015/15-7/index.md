@@ -2,8 +2,8 @@
 title: "Universal Health Services, Inc. v. United States ex rel. Escobar"
 citation: "579 U.S. ___"
 docket: "15-7"
-publishdate: "2016-06-16"
 argdate: "2016-04-19"
+publishdate: "2016-06-16"
 justices:
 - 1991thomas
 advocates:

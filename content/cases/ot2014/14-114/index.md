@@ -2,8 +2,8 @@
 title: "King v. Burwell"
 citation: "576 U.S. ___"
 docket: "14-114"
-publishdate: "2015-06-25"
 argdate: "2015-03-04"
+publishdate: "2015-06-25"
 justices:
 - 2005roberts
 - 1986scalia

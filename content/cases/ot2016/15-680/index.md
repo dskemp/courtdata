@@ -2,8 +2,8 @@
 title: "Bethune-Hill v. Virginia State Bd. of Elections"
 citation: "580 U.S. ___"
 docket: "15-680"
-publishdate: "2017-03-01"
 argdate: "2016-12-05"
+publishdate: "2017-03-01"
 justices:
 - 1988kennedy
 advocates:

@@ -2,8 +2,8 @@
 title: "White v. Wheeler"
 citation: "577 U.S. ___"
 docket: "14-1372"
-publishdate: "2015-12-14"
 argdate: ""
+publishdate: "2015-12-14"
 justices:
 advocates:
 tags:
