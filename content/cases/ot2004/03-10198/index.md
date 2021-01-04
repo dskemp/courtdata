@@ -8,7 +8,7 @@ justices:
 - 1993ginsburg
 advocates:
 - "David A. Moran"
-- "Bernard E. Restuccia"
+- "Bernard Eric Restuccia"
 - "Gene C. Schaerr"
 roles:
 - "on behalf of the Petitioner"

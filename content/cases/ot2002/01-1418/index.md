@@ -7,7 +7,7 @@ publishdate: "2003-03-31"
 justices:
 - 1994breyer
 advocates:
-- "Craig Goldblatt"
+- "Craig G. Goldblatt"
 - "Lisa S. Blatt"
 - "Donald B. Ayer"
 roles:

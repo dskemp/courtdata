@@ -8,7 +8,7 @@ justices:
 - 1993ginsburg
 advocates:
 - "Matthew W. Madden"
-- "Craig Goldblatt"
+- "Craig G. Goldblatt"
 roles:
 - "on behalf of the Petitioner"
 - "on behalf of the Respondent"

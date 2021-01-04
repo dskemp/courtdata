@@ -9,7 +9,7 @@ justices:
 advocates:
 - "Kirk O. Kolbo"
 - "Theodore B. Olson"
-- "John Payton"
+- "John A. Payton"
 roles:
 - "on behalf of the Petitioners"
 - "Solicitor General, for the United States, as amicus curiae, supporting the Petitioners"
