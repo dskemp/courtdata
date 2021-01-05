@@ -7,7 +7,7 @@ publishdate: "2008-04-23"
 justices:
 - 1986scalia
 advocates:
-- "Stephen B. McCullough"
+- "Stephen R. McCullough"
 - "Michael R. Dreeben"
 - "Thomas C. Goldstein"
 roles:

@@ -7,7 +7,7 @@ publishdate: "2019-04-01"
 justices:
 - 2017gorsuch
 advocates:
-- "Robert Hochman"
+- "Robert N. Hochman"
 - "D. John Sauer"
 roles:
 - "on behalf of the Petitioner"

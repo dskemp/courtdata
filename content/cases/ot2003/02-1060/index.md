@@ -7,7 +7,7 @@ publishdate: "2004-01-13"
 justices:
 - 1994breyer
 advocates:
-- "Gary Feinerman"
+- "Gary S. Feinerman"
 - "Patricia A. Millett"
 - "Donald J. Ramsell"
 roles:

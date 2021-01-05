@@ -6,7 +6,7 @@ argdate: "2020-10-13"
 publishdate: ""
 justices:
 advocates:
-- "Craig Goldblatt"
+- "Craig G. Goldblatt"
 - "Colleen E. Roh Sinzdak"
 - "Eugene R. Wedoff"
 roles:

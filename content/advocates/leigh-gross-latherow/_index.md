@@ -1,0 +1,11 @@
+---
+
+title: "Leigh Gross Latherow"
+firstname: "Leigh"
+middlename: "Gross"
+lastname: "Latherow"
+date: "2020-12-14"
+summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
+---
+This advocate does not yet have a biography. To submit one, please contact the site administrator.
+

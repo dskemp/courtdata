@@ -9,7 +9,7 @@ advocates:
 - "Charles S. Reischel"
 - "Frank J. Emig"
 roles:
-- "Deputy Corporation Counsel, on behalf of the Petitioner"
+- "Deputy Corporation Counsel of D.C., on behalf of the Petitioner"
 - "on behalf of the Respondent"
 summary: "The writ of certiorari was dismissed as improvidently granted."
 ---
