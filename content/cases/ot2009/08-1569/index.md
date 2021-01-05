@@ -7,7 +7,7 @@ publishdate: "2010-05-24"
 justices:
 - 1988kennedy
 advocates:
-- "Benjamin Horwich"
+- "Benjamin J. Horwich"
 - "Jeffrey L. Fisher"
 roles:
 - "Assistant to the Solicitor General, on behalf of the Petitioner"

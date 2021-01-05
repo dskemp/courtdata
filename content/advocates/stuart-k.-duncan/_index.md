@@ -1,0 +1,11 @@
+---
+
+title: "Stuart K. Duncan"
+firstname: "Stuart"
+middlename: "K."
+lastname: "Duncan"
+date: "2020-12-14"
+summary: "This advocate does not yet have a biography. To submit one, please contact the site administrator."
+---
+This advocate does not yet have a biography. To submit one, please contact the site administrator.
+

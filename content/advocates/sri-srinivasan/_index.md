@@ -1,7 +1,7 @@
 ---
 
-title: "Srikanth Srinivasan"
-firstname: "Srikanth"
+title: "Sri Srinivasan"
+firstname: "Sri"
 middlename: ""
 lastname: "Srinivasan"
 date: "2020-12-14"
