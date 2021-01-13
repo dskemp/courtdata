@@ -8,7 +8,7 @@ justices:
 - 1990souter
 advocates:
 - "Kevin K. Russell"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Seth P. Waxman"
 roles:
 - "on behalf of the Petitioners"

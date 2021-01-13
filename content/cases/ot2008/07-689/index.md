@@ -9,7 +9,7 @@ justices:
 advocates:
 - "Christopher G. Browning, Jr"
 - "Carl W. Thurman, III"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 roles:
 - "Solicitor General of North Carolina, on behalf of the Petitioners"
 - "on behalf of the Respondents"

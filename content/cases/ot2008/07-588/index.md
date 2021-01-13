@@ -8,7 +8,7 @@ justices:
 - 1986scalia
 advocates:
 - "Maureen E. Mahoney"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Richard J. Lazarus"
 roles:
 - "on behalf of the Petitioners"

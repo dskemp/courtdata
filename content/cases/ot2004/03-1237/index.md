@@ -8,7 +8,7 @@ justices:
 - 1986scalia
 advocates:
 - "E. Joshua Rosenkranz"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Mauricio A. Flores"
 roles:
 - "on behalf of the Petitioner"

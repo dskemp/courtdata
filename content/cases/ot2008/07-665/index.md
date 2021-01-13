@@ -8,7 +8,7 @@ justices:
 - 2006alito
 advocates:
 - "Jay A. Sekulow"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Pamela Harris"
 roles:
 - "on behalf of the Petitioners"

@@ -8,7 +8,7 @@ justices:
 - 2006alito
 advocates:
 - "Edward S. Zas"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 roles:
 - "on behalf of the Petitioner"
 - "Assistant to the Solicitor General, on behalf of the Respondent"

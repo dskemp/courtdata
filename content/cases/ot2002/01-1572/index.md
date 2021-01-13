@@ -11,7 +11,7 @@ advocates:
 - "Judson H. Miner"
 - "Malcolm L. Stewart"
 roles:
-- "Assistant State’s Attorney of Illinois, on behalf of the Petitioner"
+- "Assistant State’s Attorney of Cook County, Illinois, on behalf of the Petitioner"
 - "on behalf of the Respondent"
 - "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Respondent"
 summary: ""
