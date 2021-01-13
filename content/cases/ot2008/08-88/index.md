@@ -11,7 +11,7 @@ advocates:
 - "Leondra R. Kruger"
 - "William A. Nelson"
 roles:
-- "Chief Deputy State’s Attorney of Vermont, on behalf of the Petitioner"
+- "Chief Deputy State’s Attorney of Bennington County, Vermont, on behalf of the Petitioner"
 - "Assistant to the Solicitor General, for the United States, as amicus curiae, supporting the Petitioner"
 - "on behalf of the Respondent"
 summary: ""

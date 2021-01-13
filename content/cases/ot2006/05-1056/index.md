@@ -8,7 +8,7 @@ justices:
 - 1993ginsburg
 advocates:
 - "Theodore B. Olson"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Seth P. Waxman"
 roles:
 - "on behalf of the Petitioner"

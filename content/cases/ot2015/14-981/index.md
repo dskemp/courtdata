@@ -1,5 +1,5 @@
 ---
-title: "Fisher v. University of Tex. at Austin"
+title: "Fisher v. University of Texas at Austin"
 citation: "579 U.S. ___"
 docket: "14-981"
 argdate: "2015-12-09"
@@ -7,7 +7,7 @@ publishdate: "2016-06-23"
 justices:
 - 1988kennedy
 advocates:
-- "Bert Rein"
+- "Bert W. Rein"
 - "Gregory G. Garre"
 - "Donald B. Verrilli, Jr"
 roles:

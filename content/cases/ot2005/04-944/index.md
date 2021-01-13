@@ -8,7 +8,7 @@ justices:
 - 1993ginsburg
 advocates:
 - "Jeffrey A. Schwartz"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Brett D. Prendergast"
 roles:
 - "on behalf of the Petitioner"

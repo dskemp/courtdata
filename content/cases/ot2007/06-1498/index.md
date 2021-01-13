@@ -7,7 +7,7 @@ publishdate: "2008-03-03"
 justices: ""
 advocates:
 - "Carter G. Phillips"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 - "Allison M. Zieve"
 roles:
 - "on behalf of the Petitioners"

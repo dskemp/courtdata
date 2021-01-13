@@ -8,7 +8,7 @@ justices:
 - 2006alito
 advocates:
 - "Jeffrey A. Lamken"
-- "Daryl Joseffer"
+- "Daryl L. Joseffer"
 roles:
 - "on behalf of the Petitioners"
 - "Assistant to the Solicitor General, on behalf of the Respondents"
